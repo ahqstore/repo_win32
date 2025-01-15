@@ -1223,7 +1223,6 @@ winget_app_Microsoft.WindowsInstallationAssistant
 winget_app_Microsoft.PowerAutomateDesktop
 winget_app_Microsoft.PIX
 winget_app_Microsoft.WindowsTerminal
-winget_app_Microsoft.DotNet.DesktopRuntime.8
 winget_app_Microsoft.RemoteDesktopClient
 winget_app_Microsoft.WindowsVirtualDesktopAgent
 winget_app_Microsoft.VisualStudio.Extensions.TypeScript
@@ -1717,6 +1716,7 @@ winget_app_SpriteOvO.AirPodsDesktop
 winget_app_Shilihu.Mubu
 winget_app_Sony.XperiaCompanion
 winget_app_SmartBear.SoapUI
+winget_app_Sigil_Ebook.PageEdit
 winget_app_Sigil_Ebook.Sigil
 winget_app_szTheory.exifcleaner
 winget_app_Serraniel.DiscordMediaLoader
@@ -1930,10 +1930,8 @@ winget_app_Nikkho.FileOptimizer
 winget_app_Nvidia.ICAT
 winget_app_Nvidia.PhysXLegacy
 winget_app_Nvidia.Omniverse
-winget_app_Nvidia.GeForceExperience
 winget_app_Nvidia.PhysX
 winget_app_Nvidia.CUDA
-winget_app_Nvidia.Broadcast
 winget_app_Nvidia.GeForceNow
 winget_app_Nvidia.RTXVoice
 winget_app_ngudbhav.TriCo
