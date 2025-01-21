@@ -694,6 +694,7 @@ winget_app_AMD.AMDSoftwareCloudEdition
 winget_app_AMD.OCAT
 winget_app_Avocode.Avocode
 winget_app_Antutu.AntutuBenchmark
+winget_app_Antutu.AntutuLLMBenchmark
 winget_app_Auslogics.DiskDefrag
 winget_app_arjun_g.google_meet_desktop
 winget_app_AnthonyBeaumont.AchievementWatcher
@@ -967,6 +968,8 @@ winget_app_Dmitry_Farafonov.MicSwitch
 winget_app_DuckDB.cli
 winget_app_Duplicati.Duplicati
 winget_app_Discord.Discord
+winget_app_Discord.Discord.PTB.x86
+winget_app_Discord.Discord.Canary.x86
 winget_app_dsheiko.puppetry
 winget_app_Dman95.SASM
 winget_app_Deezer.Deezer
@@ -2369,6 +2372,7 @@ winget_app_FineprintSoftware.pdfFactory
 winget_app_FineprintSoftware.FinePrint
 winget_app_FrostWire.FrostWire
 winget_app_Freedom.Freedom
+winget_app_Freelensapp.Freelens
 winget_app_Formagrid.Airtable
 winget_app_FelipeEFdeCastro.Klavaro
 winget_app_Timber1900.WebDL
