@@ -11,7 +11,7 @@ jobs:
   run:
     name: Parse WinGet Manifests
 
-    runs-on: macos-13-xl
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
