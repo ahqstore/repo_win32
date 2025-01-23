@@ -1,7 +1,7 @@
 use ahqstore_types::{
   winget::Installer, AHQStoreApplication, AppRepo, DownloadUrl, InstallerFormat, InstallerOptions, InstallerOptionsWindows, WindowsInstallScope
 };
-use saphyr_serde::from_str;
+use serde_yaml::from_str;
 use std::{
   collections::HashMap, fs::{self, File}, io::Write
 };

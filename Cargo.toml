@@ -10,7 +10,7 @@ ahqstore-types = { version = "3" }
 async-recursion = "1"
 content_disposition = "0.4"
 reqwest = "0.12"
-saphyr-serde = "0.0.0"
 serde_json = "1"
+serde_yaml = "0.9.34"
 tokio = { version = "1", features = ["macros", "rt", "rt-multi-thread"] }
 version-compare = "0.2"
