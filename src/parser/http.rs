@@ -18,7 +18,9 @@ async fn cnt_dsp_inner(url: &str, ends: &str) -> Option<bool> {
 
   let cnt = parse_content_disposition(cnt);
 
-  drop(res);
+  let res = cnt.filename_full()?.ends_with(ends);
 
-  Some(cnt.filename_full()?.ends_with(ends))
+  drop(cnt);
+
+  Some(res)
 }
