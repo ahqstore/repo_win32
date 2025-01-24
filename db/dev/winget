@@ -377,6 +377,7 @@ winget_app_MongoDB.DatabaseTools
 winget_app_MongoDB.Server
 winget_app_MTSD.AllDup
 winget_app_Microsoft.RemoteDesktopMMRService
+winget_app_Microsoft.PowerShell
 winget_app_Microsoft.quicreach
 winget_app_Microsoft.VSTOR
 winget_app_Microsoft.ServiceFabricRuntime
