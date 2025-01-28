@@ -221,6 +221,7 @@ winget_app_szTheory.exifcleaner
 winget_app_Splunk.ACS
 winget_app_Softerra.LDAPBrowser
 winget_app_Snowflake.OdbcDriver
+winget_app_SimbaTechnologies.SimbaODBCDriverforGoogleBigQuery
 winget_app_SrcBox.GKrellM
 winget_app_SergeySerkov.TagScanner
 winget_app_SpectrumQT.XXMILauncher
@@ -228,6 +229,7 @@ winget_app_SnoopWpf.Snoop
 winget_app_sc0ty.SubSync
 winget_app_SoftwareFreedomConservancy.QEMU
 winget_app_SimpleLedger.ElectronCashSLP
+winget_app_SFLinux.Jami
 winget_app_sbt.sbt
 winget_app_SoroushChehresa.UnsplashWallpapers
 winget_app_StevenCole.Coffee
@@ -1312,7 +1314,6 @@ winget_app_IDRIX.VeraCrypt
 winget_app_IcecreamApps.PDFCandy
 winget_app_iamscottxu.obs_rtspserver
 winget_app_iamxiaojianzheng.jd_gui
-winget_app_iTop.iTopScreenRecorder
 winget_app_ICBC.SecEditCtl
 winget_app_ICBC.ICBCEBankAssist
 winget_app_InstEd.InstEd
@@ -1989,6 +1990,7 @@ winget_app_endcloud.OnetabRe
 winget_app_endcloud.BBHouse
 winget_app_EFIBootEditor.EFIBootEditor
 winget_app_Easeware.DriverEasy
+winget_app_EdgeTX.Companion
 winget_app_Epsitec.Colobot
 winget_app_Epsitec.PlanetBlupi
 winget_app_EXPSystems.PDFreDirect
