@@ -1690,7 +1690,6 @@ winget_app_Klocman.BulkCrapUninstaller
 winget_app_Keybase.Keybase
 winget_app_KakaoEntertainmentCorp.MelonPlayer
 winget_app_KeeperSecurity.Commander
-winget_app_KeeperSecurity.KeeperDesktop
 winget_app_Kingdee.CloudHub
 winget_app_Kitware.Slicer
 winget_app_Kitware.CMake
@@ -2308,6 +2307,7 @@ winget_app_PrimateLabs.GeekbenchAI
 winget_app_PhilipGerke.Odassey
 winget_app_Prezi.PreziClassic
 winget_app_Prey.Prey
+winget_app_PrivadoNetworksAG.PrivadoVPN
 winget_app_pizzaboxer.Bloxstrap
 winget_app_Poly.PlantronicsHub
 winget_app_Poly.PolyLens
