@@ -119,6 +119,7 @@ winget_app_Sinew.Enpass
 winget_app_steventhanna.proton
 winget_app_Synology.DriveClient
 winget_app_Synology.EvidenceIntegrityAuthenticator
+winget_app_Synology.BeeDrive
 winget_app_Synology.ImageAssistant
 winget_app_Synology.ActiveBackupForBusinessAgent
 winget_app_Synology.ChatClient
@@ -2319,6 +2320,7 @@ winget_app_PointPlanck.FileBot
 winget_app_PyPA.Hatch
 winget_app_Picorims.wav2bar
 winget_app_Proxyman.Proxyman
+winget_app_PA7LIM.BlueDV
 winget_app_PA7LIM.Doozy
 winget_app_PopcornTime.Popcorn_Time_Ru
 winget_app_PopcornTime.Popcorn_Time
