@@ -645,6 +645,7 @@ winget_app_Mozilla.VPN
 winget_app_Mozilla.SeaMonkey
 winget_app_muCommander.muCommander
 winget_app_MullvadVPN.MullvadVPN
+winget_app_MullvadVPN.MullvadBrowser
 winget_app_MSPaintIDE.MSPaintIDE
 winget_app_ModOrganizer2.modorganizer
 winget_app_Mu.Mu
