@@ -120,6 +120,7 @@ winget_app_steventhanna.proton
 winget_app_Synology.DriveClient
 winget_app_Synology.EvidenceIntegrityAuthenticator
 winget_app_Synology.CloudStationBackup
+winget_app_Synology.BeeStation
 winget_app_Synology.BeeDrive
 winget_app_Synology.ImageAssistant
 winget_app_Synology.ActiveBackupForBusinessAgent
@@ -1249,7 +1250,6 @@ winget_app_GaijinNetwork.Enlisted
 winget_app_GaijinNetwork.Crossout
 winget_app_GaijinNetwork.WarThunder
 winget_app_GaijinNetwork.CRSED
-winget_app_GaijinNetwork.StarConflict
 winget_app_GilmarQuinelato.i18nManager
 winget_app_GnuPG.Gpg4win
 winget_app_GnuPG.GnuPG
