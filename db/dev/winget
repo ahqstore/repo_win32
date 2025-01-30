@@ -1175,6 +1175,7 @@ winget_app_Glarysoft.GlaryUtilities
 winget_app_GPSoftware.DirectoryOpus
 winget_app_GauzyTech.NeatConverter
 winget_app_GauzyTech.NeatReader
+winget_app_Git.GCM
 winget_app_GOG.Galaxy
 winget_app_GOMLab.GOMPlayer
 winget_app_GitHub.cli
