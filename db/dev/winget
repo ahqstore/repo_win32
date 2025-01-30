@@ -119,6 +119,7 @@ winget_app_Sinew.Enpass
 winget_app_steventhanna.proton
 winget_app_Synology.DriveClient
 winget_app_Synology.EvidenceIntegrityAuthenticator
+winget_app_Synology.CloudStationBackup
 winget_app_Synology.BeeDrive
 winget_app_Synology.ImageAssistant
 winget_app_Synology.ActiveBackupForBusinessAgent
