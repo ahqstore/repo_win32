@@ -3,6 +3,7 @@ winget_app_Fenzhi.tagLyst
 winget_app_feugy.melodie
 winget_app_flos_freeware.Notepad2
 winget_app_Freeplane.Freeplane
+winget_app_f4exb.sdrangel
 winget_app_Formagrid.Airtable
 winget_app_fstl.fstl
 winget_app_FontForge.FontForge
@@ -118,11 +119,16 @@ winget_app_StirlingTools.StirlingPDF
 winget_app_Sinew.Enpass
 winget_app_steventhanna.proton
 winget_app_Synology.DriveClient
+winget_app_Synology.CameraTool
 winget_app_Synology.EvidenceIntegrityAuthenticator
 winget_app_Synology.CloudStationBackup
 winget_app_Synology.BeeStation
+winget_app_Synology.C2IdentityLDAPSyncTool
+winget_app_Synology.ActiveProtectAgent
+winget_app_Synology.Presto
 winget_app_Synology.BeeDrive
 winget_app_Synology.ImageAssistant
+winget_app_Synology.CloudStationDrive
 winget_app_Synology.ActiveBackupForBusinessAgent
 winget_app_Synology.ChatClient
 winget_app_Synology.SurveillanceStationClient
@@ -1304,6 +1310,7 @@ winget_app_iFlytek.iFlyRecSI
 winget_app_iFlytek.iFlyRecMeeting
 winget_app_igoogolx.lux
 winget_app_IHK.SignaturePrintClient
+winget_app_IPMHub.IPM
 winget_app_IAMCloud.CloudDriveMapper
 winget_app_Insco.FaFaRunner
 winget_app_Insco.PicGuard
@@ -1980,6 +1987,13 @@ winget_app_EEO.ClassInX
 winget_app_EEO.ClassIn
 winget_app_elvirbrk.notehighlight2016
 winget_app_EliWeitzman.ETT_Admin
+winget_app_ESBConsultancy.ESBUnitConv
+winget_app_ESBConsultancy.ESBUnitConv.Pro.Trial
+winget_app_ESBConsultancy.ESBProgCalc.Pro.Trial
+winget_app_ESBConsultancy.ESBCalc
+winget_app_ESBConsultancy.ESBCalc.Pro.Trial
+winget_app_ESBConsultancy.ESBFinCalc.Pro.Trial
+winget_app_ESBConsultancy.ESBDateCalc.Pro.Trial
 winget_app_EvanCzaplicki.Elm
 winget_app_ElectronCash.ElectronCash
 winget_app_Erlang.ErlangOTP
