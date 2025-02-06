@@ -99,7 +99,6 @@ winget_app_StefansTools.grepWin
 winget_app_SolidWorks.eDrawings
 winget_app_Sysprogs.SmarTTY
 winget_app_Spatie.Ray
-winget_app_Stretchly.Stretchly
 winget_app_SBCL.SBCL
 winget_app_sprout2000.Elephicon
 winget_app_SourceFoundry.HackFonts
@@ -1261,6 +1260,7 @@ winget_app_GaijinNetwork.Enlisted
 winget_app_GaijinNetwork.Crossout
 winget_app_GaijinNetwork.WarThunder
 winget_app_GaijinNetwork.CRSED
+winget_app_GaijinNetwork.StarConflict
 winget_app_GilmarQuinelato.i18nManager
 winget_app_GnuPG.Gpg4win
 winget_app_GnuPG.GnuPG
@@ -2395,7 +2395,6 @@ winget_app_pixel_point.kube_forwarder
 winget_app_PatrickWaweru.FLBMusic
 winget_app_Posit.RStudio
 winget_app_Posit.rig
-winget_app_Posit.Quarto
 winget_app_PeterDaveHello.TransmissionRemoteGUI
 winget_app_PlazmaBurst2.PlazmaBurst2
 winget_app_Postman.Postman
