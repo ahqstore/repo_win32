@@ -196,6 +196,7 @@ winget_app_surajrathod.eagluet
 winget_app_Stardock.Curtains
 winget_app_Stardock.Start10
 winget_app_Stardock.Start11
+winget_app_SUSE.RancherDesktop
 winget_app_sunzongzheng.music
 winget_app_stevencohn.OneMore
 winget_app_SweetScape.Hamic
@@ -820,6 +821,7 @@ winget_app_TinyCraft.TinyRDM
 winget_app_TorProject.TorBrowser
 winget_app_Talkdesk.Talkdesk
 winget_app_Talkdesk.Callbar
+winget_app_tesseract_ocr.tesseract
 winget_app_TUitTUWien.TUtoolbox
 winget_app_TaiStudio.Sofia
 winget_app_tazzben.Assessment_Disaggregation
