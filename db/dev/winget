@@ -11,6 +11,7 @@ winget_app_Foxit.PhantomPDF
 winget_app_Foxit.PhantomPDF.Subscription.MSI
 winget_app_Foxit.PhantomPDF.Subscription.CN
 winget_app_Foxit.FoxitReader
+winget_app_FujitsuClientComputingLimited.DeskUpdate
 winget_app_Faithlife.Logos
 winget_app_FileVoyager.FileVoyager
 winget_app_FireDaemon.OpenSSL
@@ -1865,6 +1866,7 @@ winget_app_AltDrag.AltDrag
 winget_app_AllroundAutomations.PLSQLDeveloper
 winget_app_Algoryx.Algodoo
 winget_app_ACROSSecurity.0patch
+winget_app_AppFlowy.AppFlowy
 winget_app_AntibodySoftware.WizKey
 winget_app_AntibodySoftware.WizFile
 winget_app_AntibodySoftware.WizTree
