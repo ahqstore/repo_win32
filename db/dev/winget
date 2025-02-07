@@ -1281,6 +1281,7 @@ winget_app_gtamas.etcdmanager
 winget_app_gnome.Dia
 winget_app_gnome.gitg
 winget_app_gnome.gedit
+winget_app_icsharpcode.ILSpy
 winget_app_IObit.AdvancedSystemCare
 winget_app_IObit.Uninstaller
 winget_app_IObit.RandomPasswordGenerator
