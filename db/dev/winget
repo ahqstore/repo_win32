@@ -851,6 +851,7 @@ winget_app_tailscale.tailscale
 winget_app_ThaUnknown.Miru
 winget_app_TheGoddessInari.Hamsket
 winget_app_TheBlind.T_Shell
+winget_app_Tetrate.wazero
 winget_app_Trufflesuite.Ganache
 winget_app_TablePlus.TablePlus
 winget_app_Tencent.START
@@ -2066,6 +2067,7 @@ winget_app_Jigsaw.OutlineManager
 winget_app_jasongin.nvs
 winget_app_JanProchazka.dbgate
 winget_app_Jabra.Direct
+winget_app_JanetLang.Janet
 winget_app_Jidifudi.GT4T
 winget_app_Jianjing.XLJSCI
 winget_app_JLC.LCEDA
