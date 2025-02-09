@@ -180,6 +180,7 @@ winget_app_Sandboxie.Classic
 winget_app_Selur.Hybrid
 winget_app_ShareX.ShareX
 winget_app_SlashedIo.Inssist
+winget_app_Stellar.StellarCLI
 winget_app_SSHFS_Win.SSHFS_Win
 winget_app_Shadow.Shadow
 winget_app_Splawik.pytigon
@@ -981,6 +982,7 @@ winget_app_QNAP.QuDedupExtractTool
 winget_app_QNAP.QfinderPro
 winget_app_QNAP.Qsync
 winget_app_QXYZLabs.Sanctum
+winget_app_QPDF.QPDF
 winget_app_QuadSpinner.Gaea
 winget_app_3.3Kontakt
 winget_app_3CX.Softphone
@@ -2159,6 +2161,7 @@ winget_app_NI.ni_packagemanager
 winget_app_NGWIN.PicPick
 winget_app_Nefarius.HidHide
 winget_app_NoIP.DUC
+winget_app_NitrokeyGmbH.Nitropy
 winget_app_ncyxie.Notepad_DOT_Qt
 winget_app_nashaofu.dingtalk
 winget_app_nikpapa.palamedes
