@@ -260,6 +260,7 @@ winget_app_sirWest.AudioSwitch
 winget_app_syndicode.iNFekt
 winget_app_SyncTrayzor.SyncTrayzor
 winget_app_Sensirion.Viewer
+winget_app_SDRplay.SDRconnect
 winget_app_Serraniel.DiscordMediaLoader
 winget_app_SVGExplorerExtension.SVGExplorerExtension
 winget_app_Splashtop.SplashtopBusiness
@@ -1646,6 +1647,7 @@ winget_app_Libretro.RetroArch
 winget_app_Lucanet.LucanetSoftwareManager
 winget_app_LamantineSoftware.StickyPassword
 winget_app_LacyMorrow.CrossOver
+winget_app_LadislavFoldyna.QLog
 winget_app_Lazesoft.LazesoftRecovery
 winget_app_LN_Zap.zap
 winget_app_LesFerch.WinSetView
