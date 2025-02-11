@@ -984,6 +984,7 @@ winget_app_QNAP.NetBakReplicator
 winget_app_QNAP.QuDedupExtractTool
 winget_app_QNAP.QfinderPro
 winget_app_QNAP.Qsync
+winget_app_QGIS.QField
 winget_app_QXYZLabs.Sanctum
 winget_app_QPDF.QPDF
 winget_app_QuadSpinner.Gaea
@@ -1431,6 +1432,7 @@ winget_app_OSGeo.QGIS_LTR
 winget_app_OSGeo.QGIS
 winget_app_OpenVPNTechnologies.OpenVPN
 winget_app_Optimate.OptimateSOLIDWORKSPlugin
+winget_app_OctopusDeploy.Cli
 winget_app_OctopusDeploy.Tentacle
 winget_app_OctopusDeploy.Server
 winget_app_Open_Shell.Open_Shell_Menu
@@ -2168,6 +2170,7 @@ winget_app_NGWIN.PicPick
 winget_app_Nefarius.HidHide
 winget_app_NoIP.DUC
 winget_app_NitrokeyGmbH.Nitropy
+winget_app_NitrokeyGmbH.Nitrokey_App
 winget_app_ncyxie.Notepad_DOT_Qt
 winget_app_nashaofu.dingtalk
 winget_app_nikpapa.palamedes
@@ -2376,6 +2379,7 @@ winget_app_PopcornTime.Popcorn_Time
 winget_app_PPSSPPTeam.PPSSPP
 winget_app_PlotSoft.PDFill
 winget_app_pyfa.pyfa
+winget_app_PioneerDevelopers.Pioneer
 winget_app_Parallels.Parallels
 winget_app_PDFsam.PDFsam
 winget_app_PilotEdge.MSFSclient
