@@ -773,7 +773,6 @@ winget_app_notable.notable
 winget_app_Nefarius.HidHide
 winget_app_Notro.SkEditor
 winget_app_Novostrim.CreateInstall
-winget_app_NewTek.NDI5Runtime
 winget_app_NuitsJp.ClaudeToZenn
 winget_app_Nlitesoft.NTLite
 winget_app_NexusMods.Vortex
@@ -1080,6 +1079,7 @@ winget_app_ElectronCommunity.ElectronFiddle
 winget_app_EverEdit.EverEdit
 winget_app_EastMoney.EastMoney
 winget_app_Easeware.DriverEasy
+winget_app_eTeks.SweetHome3D
 winget_app_Eltima.SerialPortMonitor
 winget_app_Eltima.SerialOverEthernet
 winget_app_EFF.Certbot
@@ -1848,6 +1848,7 @@ winget_app_den4b.Colors
 winget_app_dorssel.usbipd_win
 winget_app_deskfiler.deskfiler
 winget_app_Dummerle.Rare
+winget_app_DelineaInc.ThycoticApplicationControlAgent
 winget_app_DygmaLabs.Bazecor
 winget_app_DevToys_app.DevToys
 winget_app_DavidRios.Remindr
