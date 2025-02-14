@@ -182,12 +182,14 @@ winget_app_Auslogics.DiskDefrag
 winget_app_Ablaze.Floorp
 winget_app_AmericanRadioRelayLeague.TrustedQSL
 winget_app_Approximatrix.SimplyFortran
+winget_app_aislx.FlameLauncher
 winget_app_Apache.OpenOffice
 winget_app_Apache.DirectoryStudio
 winget_app_Aurora.Aurora
 winget_app_Antutu.AntutuLLMBenchmark
 winget_app_Antutu.AntutuBenchmark
 winget_app_AntiMicroX.antimicrox
+winget_app_AntiMicroX.antimicroxPortable
 winget_app_AmyXun.AxGlyph
 winget_app_AmyXun.AxMath
 winget_app_AsciidocFX.AsciidocFX
@@ -280,6 +282,8 @@ winget_app_athlabs.Spyglass
 winget_app_Admobilize.admprovider
 winget_app_ABC.ABCEBankAssistant
 winget_app_ABC.PowerExtension
+winget_app_Alex313031.Codium
+winget_app_axcore.tartube
 winget_app_Airsquared.Blobsaver
 winget_app_Avanquestpdfforge.PDFCreator_Professional
 winget_app_Avanquestpdfforge.PDFCreator_Terminal_Server
@@ -628,6 +632,7 @@ winget_app_boostio.boostnote
 winget_app_bmatzelle.Gow
 winget_app_beekeeper_studio.beekeeper_studio
 winget_app_bitwig.bitwig
+winget_app_BerndBestel.grocy_desktop
 winget_app_BigSweetPotatoStudio.HyperChat
 winget_app_BrutalChess.BrutalChess
 winget_app_Baidu.TeraBox
