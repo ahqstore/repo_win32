@@ -790,6 +790,7 @@ winget_app_NexusMods.Vortex
 winget_app_Nullpomino.Nullpomino
 winget_app_Notepad++.Notepad++
 winget_app_nzbget.nzbget
+winget_app_neelabo.NeeView
 winget_app_NickGasson.NVC
 winget_app_Notion.NotionCalendar
 winget_app_Notion.Notion
@@ -1244,6 +1245,7 @@ winget_app_FelixRieseberg.Windows95
 winget_app_Flow_Launcher.Flow_Launcher
 winget_app_Figma.FigmaAgent
 winget_app_Faithlife.Logos
+winget_app_f3d_app.f3d
 winget_app_FSC_SOFT.VoiceMacro
 winget_app_FlorianFechner.Cells
 winget_app_filips.FirefoxPWA
@@ -2416,6 +2418,7 @@ winget_app_MoonshotAI.Kimi
 winget_app_Min.Min
 winget_app_MolotovTV.Molotov
 winget_app_Meta.Oculus
+winget_app_mathworks.matlabdrive
 winget_app_matvelloso.electron_office_365
 winget_app_matvelloso.electron_office_consumer
 winget_app_mlocati.GetText
