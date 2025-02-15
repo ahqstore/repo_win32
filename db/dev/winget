@@ -520,6 +520,7 @@ winget_app_BCM.SecEditCtl
 winget_app_Botkind.AllwaySync
 winget_app_BrianApps.Sizer
 winget_app_B_trust.BISS
+winget_app_Biognosys.Spectronaut
 winget_app_blaadje.Todolist
 winget_app_Bdrive.RcloneView
 winget_app_Betterbird.Betterbird
@@ -1134,6 +1135,7 @@ winget_app_EaseUS.TodoPCTrans
 winget_app_EaseUS.PartitionMaster
 winget_app_Eassos.DiskGenius
 winget_app_Element.Element
+winget_app_equalsraf.neovim_qt
 winget_app_EryouHao.Gridea
 winget_app_everauto.zTasker
 winget_app_eMClient.eMClient
@@ -1173,6 +1175,7 @@ winget_app_ErykRakowski.Multrin
 winget_app_erengy.Taiga
 winget_app_endcloud.BBHouse
 winget_app_endcloud.OnetabRe
+winget_app_EQAditu.AdvancedCombatTracker
 winget_app_EZBSystems.UltraISO
 winget_app_EZBSystems.EasyBoot
 winget_app_Evoluent.EvoluentMouseManager
