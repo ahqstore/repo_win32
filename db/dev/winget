@@ -2368,6 +2368,7 @@ winget_app_Mozilla.SeaMonkey
 winget_app_Mozilla.VPN
 winget_app_MyPaint.MyPaint
 winget_app_Mixxx.Mixxx
+winget_app_MediaHuman.YouTubeToMP3
 winget_app_MediaHuman.LyricsFinder
 winget_app_monsterkodi.kappo
 winget_app_monsterkodi.kalk
@@ -2581,7 +2582,6 @@ winget_app_KhronosGroup.VulkanSDK
 winget_app_KhronosGroup.VulkanRT
 winget_app_ksnip.ksnip
 winget_app_KeePassXCTeam.KeePassXC
-winget_app_Keybase.Keybase
 winget_app_k6.k6
 winget_app_Kubernetes.minikube
 winget_app_KristenMcWilliam.Nyrna
