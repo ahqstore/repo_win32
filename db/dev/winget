@@ -1580,6 +1580,7 @@ winget_app_H3C.H3CShare
 winget_app_HiteVision.HitePai6
 winget_app_Haivision.libsrt
 winget_app_HexChat.HexChat
+winget_app_HaiYing.OfficeAI
 winget_app_Hitencent.JisuPDFToWord
 winget_app_Hitencent.JisuTodo
 winget_app_Hitencent.JisuPDFEditor
@@ -2025,6 +2026,7 @@ winget_app_Guru3D.RTSS
 winget_app_Guru3D.Afterburner
 winget_app_GaetanSencie.AnnualAccounting
 winget_app_GISInternals.GDAL
+winget_app_GAM_Team.gam
 winget_app_Git.GCM
 winget_app_GOG.Galaxy
 winget_app_GoLang.Go
