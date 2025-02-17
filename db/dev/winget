@@ -241,7 +241,6 @@ winget_app_androidWG.Corkscrew
 winget_app_AlexanderPershin.lsdeer
 winget_app_alagrede.znote
 winget_app_alesimula.wsa_pacman
-winget_app_AnyDeskSoftwareGmbH.AnyDesk
 winget_app_Agilent.LabAdvisor
 winget_app_Ahlyab.PasswordChecker
 winget_app_Ahlyab.UdemyCouponFetcher
@@ -269,6 +268,7 @@ winget_app_AtomixProductions.VirtualDJ
 winget_app_AlexKaul.Freeter
 winget_app_assetizr.assetizr
 winget_app_AirVPN.Eddie
+winget_app_AnyDesk.AnyDesk
 winget_app_AdamMiskiewicz.GraphiQL
 winget_app_altair_graphql.altair
 winget_app_AwthWathje.SteaScree
@@ -621,6 +621,7 @@ winget_app_BrunoNova.DrMIPS
 winget_app_BlueJTeam.BlueJ
 winget_app_Balena.Etcher
 winget_app_Balena.BalenaCLI
+winget_app_Bochs.Bochs
 winget_app_BrickLink.Studio
 winget_app_Bluefish.Bluefish
 winget_app_BZFlag.BZFlag
