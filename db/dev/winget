@@ -168,6 +168,7 @@ winget_app_ATNSOFT.KeyManager
 winget_app_ATNSOFT.TextPaster
 winget_app_Altap.Salamander
 winget_app_AhoyLabs.BackyardAI
+winget_app_AutomatedLab.AutomatedLab
 winget_app_Axosoft.GitKraken
 winget_app_AderitoNeto.AfterLife
 winget_app_Airtame.Airtame
@@ -1578,6 +1579,7 @@ winget_app_H3C.H3CShare
 winget_app_HiteVision.HitePai6
 winget_app_Haivision.libsrt
 winget_app_HexChat.HexChat
+winget_app_HaiYing.OfficeAIServer
 winget_app_HaiYing.OfficeAI
 winget_app_Hitencent.JisuPDFToWord
 winget_app_Hitencent.JisuTodo
