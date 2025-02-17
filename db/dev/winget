@@ -1493,6 +1493,7 @@ winget_app_SpectrumQT.XXMILauncher
 winget_app_sparrowwallet.sparrow
 winget_app_Sejda.PDFDesktop
 winget_app_SWI_Prolog.SWI_Prolog
+winget_app_SergeyMoskalev.CarambaSwitcher
 winget_app_Splunk.ACS
 winget_app_SpikeHD.Dorion
 winget_app_SnapmakerDevTeam.SnapmakerLuban
@@ -1567,10 +1568,6 @@ winget_app_succlz123.AcFun
 winget_app_SSHFS_Win.SSHFS_Win
 winget_app_sqlectron.sqlectron_gui
 winget_app_HearthSim.HearthstoneDeckTracker
-winget_app_HeSoft.HeSoftClipboard
-winget_app_HeSoft.HeSoftMediaViewer
-winget_app_HeSoft.WodeABC
-winget_app_HeSoft.HeSoftDrawing
 winget_app_Heroku.HerokuCLI
 winget_app_HiroSystems.Clarinet
 winget_app_HiroSystems.Chainhook
