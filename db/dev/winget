@@ -664,6 +664,7 @@ winget_app_OpenMedia.4KYoutubetoMP3
 winget_app_OpenMedia.4KTokkit
 winget_app_OBSProject.OBSStudio
 winget_app_OBSProject.obs_amd_encoder
+winget_app_Omnissa.HorizonClient
 winget_app_ossia.score
 winget_app_OpenSight.FlashFXP
 winget_app_OpenChemistry.Avogadro2
@@ -1298,6 +1299,7 @@ winget_app_JabRef.JabRef
 winget_app_Jackett.Jackett
 winget_app_Jitsi.Meet
 winget_app_jely2002.youtube_dl_gui
+winget_app_JiangGujin.OllamaDesktop
 winget_app_JD.HiOffice
 winget_app_JD.JoyMeeting
 winget_app_jeffvli.Feishin
