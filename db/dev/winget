@@ -72,7 +72,6 @@ winget_app_Tableau.Reader
 winget_app_Tableau.Desktop
 winget_app_Tableau.PrepBuilder
 winget_app_Tableau.Public
-winget_app_tailscale.tailscale
 winget_app_TheGoddessInari.Hamsket
 winget_app_THS.Futures
 winget_app_THS.THS
@@ -1547,6 +1546,7 @@ winget_app_SomePythonThings.ElevenClock
 winget_app_SomePythonThings.ZipManager
 winget_app_Sohu.SHPlayer
 winget_app_scottlerch.hosts_file_editor
+winget_app_SteffenBruentjen.EurKEY
 winget_app_staniel359.muffon
 winget_app_Steccas.ProtonClient
 winget_app_Stream_Pi.Server
