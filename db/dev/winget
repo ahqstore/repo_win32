@@ -572,7 +572,6 @@ winget_app_BespokeSynth.BespokeSynth
 winget_app_badpanda.GifYourGame
 winget_app_BelledonneCommunications.Linphone
 winget_app_BornToBeRoot.NETworkManager
-winget_app_brimdata.brim
 winget_app_BelgianGovernment.eIDViewer
 winget_app_BiglySoftware.BiglyBT
 winget_app_beeradmoore.dlss_swapper
@@ -1371,6 +1370,7 @@ winget_app_SingularLabs.CCEnhancer
 winget_app_ScopeFun.ScopeFun
 winget_app_Spatie.Ray
 winget_app_SystweakSoftware.DuplicateFilesFixer
+winget_app_Syntevo.SmartGit
 winget_app_Scribus.Scribus
 winget_app_sum1re.CaptionOCRTool
 winget_app_SKDataAS.ORMCore
