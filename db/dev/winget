@@ -1278,7 +1278,6 @@ winget_app_FreeMat.FreeMat
 winget_app_Freedom.Freedom
 winget_app_FlockFZ.Flock
 winget_app_Formagrid.Airtable
-winget_app_3.3Kontakt
 winget_app_360.360Chrome
 winget_app_360.360DesktopLite
 winget_app_360.PalmInput
@@ -1327,6 +1326,7 @@ winget_app_jhen0409.ReactNativeDebugger
 winget_app_Jabra.Direct
 winget_app_JPersson77.LGTVCompanion
 winget_app_Jianjing.XLJSCI
+winget_app_JohannesPohl.UniversalRadioHacker
 winget_app_jasperapp.jasper
 winget_app_JLC.LCEDA
 winget_app_JLC.EasyEDA
@@ -2397,6 +2397,7 @@ winget_app_ModOrganizer2.modorganizer
 winget_app_muffinista.before_dawn
 winget_app_Mercurial.Mercurial
 winget_app_MelianMiko.OpenFreebuds
+winget_app_moneymanagerex.moneymanagerex
 winget_app_MAMP.MAMP
 winget_app_MITK.MITK
 winget_app_mar10.stressor
@@ -2426,6 +2427,7 @@ winget_app_MongoDB.Server
 winget_app_MongoDB.DatabaseTools
 winget_app_MTSD.AllDup
 winget_app_mortenn.BrowserPicker
+winget_app_mlhpdx.SimplestLoadBalancer
 winget_app_MajsoulPlus.MajsoulPlus
 winget_app_MullvadVPN.MullvadVPN
 winget_app_MullvadVPN.MullvadBrowser
