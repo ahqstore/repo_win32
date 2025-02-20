@@ -184,6 +184,7 @@ winget_app_Avanquest.SodaPDFDesktop
 winget_app_AntSoftware.AntRenamer
 winget_app_Auslogics.DiskDefrag
 winget_app_ABB.e_Design
+winget_app_ABB.i_busTool
 winget_app_Ablaze.Floorp
 winget_app_AmericanRadioRelayLeague.TrustedQSL
 winget_app_Approximatrix.SimplyFortran
@@ -1817,6 +1818,7 @@ winget_app_daynix.UsbDk
 winget_app_Digimezzo.Knowte
 winget_app_dangeredwolf.ModernDeck
 winget_app_DigitalExtremes.Warframe
+winget_app_diamondburned.Dissent
 winget_app_Dicarne.TheCenter
 winget_app_dotenorio.clipboard_manager_electron
 winget_app_DoltHub.Dolt
