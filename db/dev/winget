@@ -291,6 +291,7 @@ winget_app_ABC.PowerExtension
 winget_app_Alex313031.Codium
 winget_app_axcore.tartube
 winget_app_Airsquared.Blobsaver
+winget_app_Avanquestpdfforge.PDFArchitect
 winget_app_Avanquestpdfforge.PDFCreator_Professional
 winget_app_Avanquestpdfforge.PDFCreator_Terminal_Server
 winget_app_Avanquestpdfforge.PDFCreator_Server
@@ -2598,6 +2599,7 @@ winget_app_4gray.iptvnator
 winget_app_5E.5EClient
 winget_app_KhronosGroup.VulkanSDK
 winget_app_KhronosGroup.VulkanRT
+winget_app_KimKnight.RemoteAppTool
 winget_app_ksnip.ksnip
 winget_app_KeePassXCTeam.KeePassXC
 winget_app_Keybase.Keybase
