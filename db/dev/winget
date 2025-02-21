@@ -2479,7 +2479,6 @@ winget_app_Microsoft.RemoteDesktopClient
 winget_app_Microsoft.PCManager
 winget_app_Microsoft.WindowsInstallationAssistant
 winget_app_Microsoft.AzureMonitorAgent
-winget_app_Microsoft.AzureCLI
 winget_app_Microsoft.ServiceFabricRuntime
 winget_app_Microsoft.VisualStudio.Extensions.TypeScript
 winget_app_Microsoft.WindowsADK
