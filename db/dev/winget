@@ -196,6 +196,7 @@ winget_app_Antutu.AntutuLLMBenchmark
 winget_app_Antutu.AntutuBenchmark
 winget_app_AntiMicroX.antimicrox
 winget_app_AntiMicroX.antimicroxPortable
+winget_app_airSlate.pdfFiller
 winget_app_AmyXun.AxGlyph
 winget_app_AmyXun.AxMath
 winget_app_AsciidocFX.AsciidocFX
@@ -671,6 +672,7 @@ winget_app_OpenMedia.4KTokkit
 winget_app_OBSProject.OBSStudio
 winget_app_OBSProject.obs_amd_encoder
 winget_app_Omnissa.HorizonClient
+winget_app_OndrejSalplachta.AdvancedLogViewer
 winget_app_ossia.score
 winget_app_OpenSight.FlashFXP
 winget_app_OpenChemistry.Avogadro2
@@ -692,6 +694,7 @@ winget_app_OneTagger.OneTagger
 winget_app_OxfordUniversityPressELT.OxfordLearnersBookshelf
 winget_app_Orwell.Dev_C++
 winget_app_OpenShopChannel.Downloader
+winget_app_Odamex.Odamex
 winget_app_o2sh.onefetch
 winget_app_OpenNoteBlockStudio.MinecraftNoteBlockStudio
 winget_app_OSGeo.GeoServer
@@ -2479,7 +2482,6 @@ winget_app_Microsoft.AzureMonitorAgent
 winget_app_Microsoft.AzureCLI
 winget_app_Microsoft.ServiceFabricRuntime
 winget_app_Microsoft.VisualStudio.Extensions.TypeScript
-winget_app_Microsoft.PowerShell
 winget_app_Microsoft.WindowsADK
 winget_app_Microsoft.Edge
 winget_app_Microsoft.WindowsJournal
