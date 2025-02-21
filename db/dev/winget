@@ -211,6 +211,8 @@ winget_app_AirDroid.AirDroid
 winget_app_Acronis.CyberProtectHomeOffice
 winget_app_AAS.WorldWideTelescope
 winget_app_AlexRedden.G14ControlV2
+winget_app_ActiveDirectoryPro.ADProToolkit
+winget_app_ActiveDirectoryPro.365ProToolkit
 winget_app_AsaphaHalifa.AudioRelay
 winget_app_aluxnimm.outlookcaldavsynchronizer
 winget_app_AviSynth.AviSynthPlus
@@ -2604,7 +2606,6 @@ winget_app_KimKnight.RemoteAppTool
 winget_app_ksnip.ksnip
 winget_app_KeePassXCTeam.KeePassXC
 winget_app_Keybase.Keybase
-winget_app_k6.k6
 winget_app_Kubernetes.minikube
 winget_app_KristenMcWilliam.Nyrna
 winget_app_klinker24.google_calendar_desktop
