@@ -162,7 +162,6 @@ winget_app_AutoIt.AutoIt
 winget_app_Anjok07.UltimateVocalRemover
 winget_app_AlexThuering.DVDStyler
 winget_app_antonreshetov.massCode
-winget_app_AcroSoftwareInc.CutePDFWriter
 winget_app_ATNSOFT.KeyRemapper
 winget_app_ATNSOFT.KeyManager
 winget_app_ATNSOFT.TextPaster
@@ -286,6 +285,7 @@ winget_app_AndresMorelos.Invoncify
 winget_app_AndreWiethoff.ExactAudioCopy
 winget_app_Anthropic.Claude
 winget_app_AngryMiao.AMMaster
+winget_app_Airzone.Ductzone
 winget_app_Alacritty.Alacritty
 winget_app_athlabs.Spyglass
 winget_app_Admobilize.admprovider
@@ -313,6 +313,7 @@ winget_app_amir1376.ABDownloadManager
 winget_app_Astronet.Scholaread
 winget_app_Authpass.Authpass
 winget_app_AveekSaha.DuskPlayer
+winget_app_AcroSoftware.CutePDFWriter
 winget_app_Agisoft.MetashapeStandard
 winget_app_ali50m.AddCurrentPath
 winget_app_aliceandbob_io.aliceandbob
@@ -1019,6 +1020,7 @@ winget_app_Couchbase.ServerCommunity
 winget_app_Cryptomator.Cryptomator
 winget_app_ClashVergeRev.ClashVergeRev
 winget_app_CNRISTI.MeshLab
+winget_app_Constructor.Flat
 winget_app_code52.Carnac
 winget_app_CubicSDR.CubicSDR
 winget_app_cangzhang.champ_r
@@ -1198,6 +1200,7 @@ winget_app_erengy.Taiga
 winget_app_endcloud.BBHouse
 winget_app_endcloud.OnetabRe
 winget_app_EQAditu.AdvancedCombatTracker
+winget_app_eMedley.examNBrowser
 winget_app_EZBSystems.UltraISO
 winget_app_EZBSystems.EasyBoot
 winget_app_Evoluent.EvoluentMouseManager
@@ -2394,6 +2397,11 @@ winget_app_Mozilla.SeaMonkey
 winget_app_Mozilla.VPN
 winget_app_MyPaint.MyPaint
 winget_app_Mixxx.Mixxx
+winget_app_MediaHuman.YouTubeDownloader
+winget_app_MediaHuman.AudioConverter
+winget_app_MediaHuman.Collagerator
+winget_app_MediaHuman.mTube
+winget_app_MediaHuman.VideoConverter
 winget_app_MediaHuman.LyricsFinder
 winget_app_MediaHuman.YouTubeToMP3Converter
 winget_app_monsterkodi.kappo
