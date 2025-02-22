@@ -403,12 +403,14 @@ winget_app_Rambax.SimpleTransfer
 winget_app_rwv.OnlineDOSGames
 winget_app_RicoSuter.NSwagStudio
 winget_app_RileyTestut.AltServer
+winget_app_RejminetGroupInc.PDFShow
 winget_app_ResponsivelyApp.ResponsivelyApp
 winget_app_RaoPics.RaoPics
 winget_app_RonyShapiro.PasswordSafe
 winget_app_RamenSoftware.Windhawk
 winget_app_Ryochan7.DS4Windows
 winget_app_rickbutton.workspacer
+winget_app_Rizin.Rizin
 winget_app_RIDI.Ridibooks
 winget_app_RustemMussabekov.Raindrop
 winget_app_Ritlabs.TheBat
@@ -878,6 +880,7 @@ winget_app_PioneerDevelopers.Pioneer
 winget_app_PA7LIM.BlueDV
 winget_app_PA7LIM.Doozy
 winget_app_PowTools.FileShredder
+winget_app_PathofBuildingCommunity.PathofBuildingCommunity
 winget_app_PlotSoft.PDFill
 winget_app_PIKCLOUD.PikPak
 winget_app_PrivateInternetAccess.PrivateInternetAccess
@@ -903,6 +906,7 @@ winget_app_PokerTH.PokerTH
 winget_app_Pylogmon.pot
 winget_app_Prezi.PreziClassic
 winget_app_PointPlanck.FileBot
+winget_app_PolarGoose.CoffeeBean
 winget_app_Pidgin.Pidgin
 winget_app_Postbox.Postbox
 winget_app_Prusa3D.PrusaSlicer
@@ -1555,6 +1559,7 @@ winget_app_Supermicro.IPMIView
 winget_app_Suwayomi.Tachidesk_Server
 winget_app_Suwayomi.Tachidesk_Sorayomi
 winget_app_strimio.strimio
+winget_app_S3Drive.S3Drive
 winget_app_steventhanna.proton
 winget_app_SartoxOnlyGNU.Audacium
 winget_app_SuperTuxKart.SuperTuxKart
