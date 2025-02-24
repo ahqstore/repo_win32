@@ -256,9 +256,11 @@ winget_app_Aircall.Aircall
 winget_app_Avocode.Avocode
 winget_app_AltSnap.AltSnap
 winget_app_Amazon.SAM_CLI
+winget_app_Amazon.Chime
 winget_app_Amazon.SessionManagerPlugin
 winget_app_Amazon.AWSCLI
 winget_app_Amazon.AWSVPNClient
+winget_app_Amazon.AppStream
 winget_app_Amazon.Music
 winget_app_Amazon.Kindle
 winget_app_AshleyStone.SitdownMW
@@ -422,6 +424,7 @@ winget_app_REALiX.HWiNFO
 winget_app_RussellBanks.HashHash
 winget_app_RKibria.frhed
 winget_app_RabidViperProductions.AssaultCube
+winget_app_RARLab.WinRAR
 winget_app_Redisant.TinyGUI
 winget_app_reMarkable.reMarkableCompanionApp
 winget_app_RODE.RODECentral
