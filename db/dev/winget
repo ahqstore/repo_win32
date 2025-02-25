@@ -259,6 +259,7 @@ winget_app_Amazon.SAM_CLI
 winget_app_Amazon.Chime
 winget_app_Amazon.SessionManagerPlugin
 winget_app_Amazon.AWSCLI
+winget_app_Amazon.CloudWatchAgent
 winget_app_Amazon.AWSVPNClient
 winget_app_Amazon.AppStream
 winget_app_Amazon.Music
