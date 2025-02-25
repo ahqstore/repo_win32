@@ -2500,6 +2500,7 @@ winget_app_Microsoft.WindowsInstallationAssistant
 winget_app_Microsoft.AzureMonitorAgent
 winget_app_Microsoft.ServiceFabricRuntime
 winget_app_Microsoft.VisualStudio.Extensions.TypeScript
+winget_app_Microsoft.PowerShell
 winget_app_Microsoft.WindowsADK
 winget_app_Microsoft.Edge
 winget_app_Microsoft.WindowsJournal
