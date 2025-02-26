@@ -1047,6 +1047,7 @@ winget_app_Anjok07.UltimateVocalRemover
 winget_app_Amazon.AWSCLI
 winget_app_Amazon.Music
 winget_app_Amazon.AppStream
+winget_app_Amazon.EC2Launch
 winget_app_Amazon.Kindle
 winget_app_Amazon.Chime
 winget_app_Amazon.SAM_CLI
