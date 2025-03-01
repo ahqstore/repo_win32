@@ -288,6 +288,7 @@ winget_app_SlashedIo.Inssist
 winget_app_SanfordLP.DYMOLabel
 winget_app_Skillbrains.Lightshot
 winget_app_Summay.Sunsama
+winget_app_SimpleX.SimpleX_Chat
 winget_app_surajrathod.eagluet
 winget_app_SuperTuxKart.SuperTuxKart
 winget_app_SourceFoundry.HackFonts
@@ -560,6 +561,7 @@ winget_app_IObit.DriverBooster
 winget_app_IObit.RandomPasswordGenerator
 winget_app_IObit.SmartDefrag
 winget_app_IObit.ProtectedFolder
+winget_app_IObit.MalwareFighter
 winget_app_IObit.AdvancedSystemCare
 winget_app_IObit.Uninstaller
 winget_app_IObit.IObitSoftwareUpdater
@@ -1190,6 +1192,7 @@ winget_app_AderitoNeto.AfterLife
 winget_app_Apryse.XodoPDFReader
 winget_app_Avanquest.SodaPDFDesktop
 winget_app_AlexRedden.G14ControlV2
+winget_app_ANTOrg_Inc.ASCIIEngine
 winget_app_AlbrechtL.WelloIO
 winget_app_ART.ART
 winget_app_AlexKaul.Freeter
