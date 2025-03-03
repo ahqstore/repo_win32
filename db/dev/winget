@@ -2016,6 +2016,7 @@ winget_app_zumoshi.BrowserSelect
 winget_app_ZhaoKeli.FastGestures
 winget_app_ZWSOFT.ZWCADViewer
 winget_app_ZWSOFT.ZWCAD.Mechanical.2025
+winget_app_ZWSOFT.NetworkLicenseManager
 winget_app_Zint.Zint
 winget_app_ZeusSoftware.nGlide
 winget_app_zxch3n.PomodoroLogger
@@ -2636,6 +2637,7 @@ winget_app_CyberGhost.CyberGhost
 winget_app_Coq.CoqPlatform
 winget_app_ChemTableSoftware.RegistryLife
 winget_app_ChaosRecipeEnhancer.ChaosRecipeEnhancer
+winget_app_CosmicPredator.Chibi
 winget_app_Constructor.Flat
 winget_app_Comix.FastMeeting
 winget_app_Comix.FastMeetingAVPlugins
