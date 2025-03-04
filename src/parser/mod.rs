@@ -62,7 +62,7 @@ impl Map {
   fn add_author(&mut self, author: &str, app_id: &str) {
     let file = format!("./db/dev/{}", author);
     let mut val = fs::read_to_string(&file).unwrap_or("".to_string());
-    val.push_str(&format!("{}\n", &app_id));
+    val.push_str(&format!("w:{}\n", &app_id));
 
     let _ = fs::write(&file, val);
   }
