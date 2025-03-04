@@ -319,7 +319,7 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
 
           let app = AHQStoreApplication {
             appDisplayName: en_us.PackageName,
-            appId: format!("winget_app_{}", app_id.replace("-", "_")),
+            appId: app_id.replace("-", "_"),
             appShortcutName: format!("Winget Application"),
             authorId: format!("winget"),
             description: format!(
