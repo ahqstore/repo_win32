@@ -6,4 +6,4 @@
 
 **Read only** index of winget pkgs that is pulled from _[winget-pkgs](https://github.com/microsoft/winget-pkgs)_
 
-## This repo is compatible with **AHQ Store Types v3.10.4**
+## This repo is compatible with **AHQ Store Types v3.12.0 released 04-Mar-2025**

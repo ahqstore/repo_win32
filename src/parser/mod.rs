@@ -82,13 +82,13 @@ impl Map {
 
     let _ = self
       .c_file
-      .write(format!("\"{}\":\"{}\"", app.appDisplayName, app.appId).as_bytes());
+      .write(format!("\"{}\":\"w:{}\"", app.appDisplayName, app.appId).as_bytes());
     let _ = self.search.write(
       format!(
         "{{\"name\": {:?}, \"title\": {:?}, \"id\": {:?}}}",
         fixstr(&app.appDisplayName),
         fixstr(&app.appShortcutName),
-        fixstr(&app.appId)
+        fixstr(&format!("w:{}", &app.appId))
       )
       .as_bytes(),
     );
@@ -97,9 +97,12 @@ impl Map {
 
     app.resources = None;
 
-    let app_str = serde_json::to_string(&app).unwrap();
-
     let app_export_path = format!("./db/apps/{}.json", &app.appId);
+
+    app.appId = format!("w:{}", app.appId);
+    app.authorId = format!("w:{}", app.authorId);
+
+    let app_str = serde_json::to_string(&app).unwrap();
 
     let _ = fs::write(app_export_path, app_str);
 
