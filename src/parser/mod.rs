@@ -99,18 +99,18 @@ impl Map {
 
     let app_export_path = format!("./db/apps/{}.json", &app.appId);
 
+    let _ = fs::create_dir_all(format!("./db/res/{}", &app.appId));
+
+    for (id, bytes) in res {
+      let _ = fs::write(format!("./db/res/{}/{}", &app.appId, id), bytes);
+    }
+
     app.appId = format!("w:{}", app.appId);
     app.authorId = format!("w:{}", app.authorId);
 
     let app_str = serde_json::to_string(&app).unwrap();
 
     let _ = fs::write(app_export_path, app_str);
-
-    let _ = fs::create_dir_all(format!("./db/res/{}", &app.appId));
-
-    for (id, bytes) in res {
-      let _ = fs::write(format!("./db/res/{}/{}", &app.appId, id), bytes);
-    }
   }
 
   fn finish(mut self) {
