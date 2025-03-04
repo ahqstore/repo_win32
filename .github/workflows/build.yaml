@@ -3,7 +3,7 @@ name: WinGet Manifests
 on:
   push:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0,3,6,9,12,15,18,21 * * *"
 
 permissions: write-all
 
