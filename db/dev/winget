@@ -564,7 +564,6 @@ w:IObit.RandomPasswordGenerator
 w:IObit.SmartDefrag
 w:IObit.ProtectedFolder
 w:IObit.MalwareFighter
-w:IObit.AdvancedSystemCare
 w:IObit.Uninstaller
 w:IObit.IObitSoftwareUpdater
 w:IObit.IObitSysInfo
@@ -2005,6 +2004,7 @@ w:Dell.PeripheralManager
 w:DominikReichl.KeePass
 w:DigitalScholar.Zotero
 w:DigitalScholar.Tropy
+w:developersu.ns_usbloader
 w:dokan_dev.Dokany
 w:Douyu.DouyuLive
 w:dsheiko.puppetry
