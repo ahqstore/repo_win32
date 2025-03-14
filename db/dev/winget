@@ -1636,6 +1636,7 @@ w:Bandisoft.BandiView
 w:Bandisoft.Bandizip
 w:Basilisk.Basilisk
 w:btpf.Alexandria
+w:BrowserStack.BrowserStackLocal
 w:Bisq.Bisq
 w:BZFlag.BZFlag
 w:buchen.portfolio
@@ -1887,6 +1888,7 @@ w:houmain.keymapper
 w:Heaventools.PEexplorer
 w:HeroicGamesLauncher.HeroicGamesLauncher
 w:hoppscotch.Hoppscotch
+w:hoppscotch.agent
 w:HexChat.HexChat
 w:Harmonoid.Harmonoid
 w:Haivision.libsrt
