@@ -906,6 +906,7 @@ w:Microsoft.RemoteHelp
 w:Microsoft.WindowsAdminCenter
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.Sqlcmd
+w:Microsoft.DotNet.DesktopRuntime.6
 w:Microsoft.DeploymentToolkit
 w:Microsoft.PowerAutomateDesktop
 w:Microsoft.WindowsPCHealthCheck
@@ -2291,6 +2292,7 @@ w:TechPowerUp.NVCleanstall
 w:TaskPlays.TSWModManager
 w:TechSmith.Camtasia
 w:TeamSpeakSystems.TeamSpeakClient.Beta.6
+w:therealpaulgg.ssh_sync
 w:TSDuck.TSDuck
 w:TransendInfo.SSDScopeApp
 w:ThermoFisher.AmiraAvizo3D
@@ -2653,6 +2655,7 @@ w:CONZEInformatik.Vistrax
 w:chanplecai.smarttaskbar
 w:CloudImperiumGames.RSILauncher
 w:CHERRY.CHERRYKEYS
+w:ColdTurkeySoftware.ColdTurkeyBlocker
 w:CatnipGames.ShroudoftheAvatar
 w:ChilliBits.ComposeGenerator
 w:ChilliBits.Spice
