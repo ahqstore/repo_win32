@@ -208,6 +208,7 @@ w:SiberSystems.RoboForm
 w:swim2sun.migu_music_dl
 w:Shilihu.Mubu
 w:Snowflake.OdbcDriver
+w:Snowflake.SnowSQL
 w:sbt.sbt
 w:SolidWorks.eDrawings
 w:schemacrawler.schemacrawler
@@ -300,6 +301,7 @@ w:skyjake.Lagrange
 w:StartIsBack.StartIsBack
 w:szTheory.exifcleaner
 w:sqlectron.sqlectron_gui
+w:Slido.Slido
 w:sirWest.AudioSwitch
 w:SpectrumQT.XXMILauncher
 w:SpriteOvO.AirPodsDesktop
@@ -879,6 +881,17 @@ w:Mozilla.Firefox.DeveloperEdition.ja
 w:Mozilla.Firefox.DeveloperEdition.uz
 w:Mozilla.Firefox.DeveloperEdition.pt_BR
 w:Mozilla.Thunderbird
+w:Mozilla.Thunderbird.ESR.cy
+w:Mozilla.Thunderbird.ESR.el
+w:Mozilla.Thunderbird.ESR.ast
+w:Mozilla.Thunderbird.ESR.cak
+w:Mozilla.Thunderbird.ESR.de
+w:Mozilla.Thunderbird.ESR.cs
+w:Mozilla.Thunderbird.ESR.ar
+w:Mozilla.Thunderbird.ESR.fi
+w:Mozilla.Thunderbird.ESR.af
+w:Mozilla.Thunderbird.ESR.dsb
+w:Mozilla.Thunderbird.ESR.da
 w:MapTiler.MapTilerEngine
 w:MarcinOtorowski.MSIXHero
 w:MSPaintIDE.MSPaintIDE
@@ -2727,6 +2740,7 @@ w:Canonical.Juju
 w:Canonical.Multipass
 w:chezhe.Aleph
 w:Chatty.Chatty
+w:ClockAssist.ClockAssist
 w:CrystalDewWorld.CrystalDiskInfo
 w:CrystalDewWorld.CrystalDiskMark
 w:ChristianKaiser.Lightscreen
