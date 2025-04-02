@@ -976,6 +976,7 @@ w:ManicTime.ManicTime
 w:ModernFlyouts.ModernFlyouts
 w:Microsoft.MouseandKeyboardCenter
 w:Microsoft.WindowsADK
+w:Microsoft.AzureCLI
 w:Microsoft.WindowsVirtualDesktopAgent
 w:Microsoft.HwpConverter
 w:Microsoft.VisualStudio.Extensions.TypeScript
@@ -1476,7 +1477,6 @@ w:Jan.Jan
 w:jeffvli.Feishin
 w:JReleaser.jreleaser
 w:JabRef.JabRef
-w:JD.JoyMeeting
 w:JD.HiOffice
 w:JurgenRathlev.InnoUnpacker
 w:jazzdelightsme.WingetPathUpdater
