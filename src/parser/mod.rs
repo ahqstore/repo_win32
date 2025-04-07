@@ -129,6 +129,8 @@ pub async fn parser() {
   let _ = fs::remove_dir_all("./db");
   let _ = fs::create_dir_all("./db");
 
+  fs::copy("./home.json", "./db/home.json").unwrap();
+
   let mut map = Map::new();
 
   for letter in fs::read_dir("./winget-pkgs/manifests").unwrap() {
