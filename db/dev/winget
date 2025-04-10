@@ -1002,6 +1002,7 @@ w:Microsoft.WindowsAdminCenter
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.Sqlcmd
 w:Microsoft.DotNet.DesktopRuntime.6
+w:Microsoft.DotNet.SDK.8
 w:Microsoft.DeploymentToolkit
 w:Microsoft.PowerAutomateDesktop
 w:Microsoft.WindowsPCHealthCheck
