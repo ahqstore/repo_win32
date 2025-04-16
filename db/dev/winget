@@ -1477,6 +1477,7 @@ w:FookesHolding.NoteTabLight
 w:FontForge.FontForge
 w:Freelensapp.Freelens
 w:3TSoftwareLabs.Robo3T
+w:3CX.MultilineTAPI
 w:3CX.PhoneSystem
 w:360.360AlbumViewer
 w:360.360VirtualVault
@@ -1729,9 +1730,11 @@ w:Baidu.BaiduPinyin
 w:BartoszCichecki.LenovoLegionToolkit
 w:brunurd.companion
 w:btargac.excel_parser_processor
+w:BrinkSoftware.IbisCalculerenVoorBouw
 w:bdash_app.bdash
 w:Blushyes.Sofast
 w:BartelsMedia.ShareMouse
+w:BrunnerBI.MeasureKiller
 w:BitSum.Coreprio
 w:BitSum.ProcessLasso
 w:Bytello.BytelloShare
@@ -1821,6 +1824,7 @@ w:BrunoNova.DrMIPS
 w:byte_physics.ipt
 w:Basedash.Basedash
 w:BirdBrain.BlueBirdConnector
+w:Brother.iPrintScan
 w:Biognosys.Spectronaut
 w:Brio.FolderSize
 w:Biscuit.Biscuit
@@ -1964,6 +1968,7 @@ w:PerfectWorld.SteamChina
 w:PeterPawlowski.foobar2000
 w:Proxyman.Proxyman
 w:PPSSPPTeam.PPSSPP
+w:Pearson.TestNav
 w:64Gram.64Gram
 w:HighMotionSoftware.VidBatch
 w:HighMotionSoftware.BonAView
@@ -2267,6 +2272,7 @@ w:Ombrelin.PlexRichPresence
 w:OBSProject.OBSStudio
 w:OBSProject.obs_amd_encoder
 w:OpenAudible.OpenAudible
+w:OnCue.OnCue
 w:OpenPHDGuiding.PHD2
 w:Ollama.Ollama
 w:OpenScopeProject.TrguiNG
@@ -2433,7 +2439,6 @@ w:Tencent.TencentMeetingRooms
 w:Tencent.UGit
 w:Tencent.TencentMeeting
 w:Tencent.QQImage
-w:Tencent.EDULite
 w:Tencent.QiDian
 w:Tencent.WeixinDevTools
 w:Tencent.COSBrowser
@@ -2620,6 +2625,7 @@ w:nukeop.nuclear
 w:Notion.NotionCalendar
 w:Notion.Notion
 w:Nulana.Remotix
+w:NWEA.NWEASecureTestingBrowser
 w:NirSoft.WhoisThisDomain
 w:NirSoft.NK2Edit
 w:NirSoft.IPNetInfo
@@ -2741,6 +2747,8 @@ w:GISInternals.GDAL
 w:gitthermal.thermal
 w:GitButler.GitButler
 w:GaoYoubo.HexoClient
+w:Greynut.LuxaforSmartButton
+w:Greynut.LuxaforPomodoroTimer
 w:Garmin.BaseCamp
 w:Graphviz.Graphviz
 w:Glarysoft.GlaryUtilities
@@ -2770,7 +2778,6 @@ w:GeoGebra.CASCalculator
 w:GeoGebra.Geometry
 w:gurnec.HashCheckShellExtension
 w:Cyotek.ColorPaletteEditor
-w:ColonyLabs.ScribeDesktopCapture
 w:Citrix.Workspace
 w:Cube.CubePlatform
 w:CrisisGo.CrisisGo
@@ -2817,6 +2824,7 @@ w:CatnipGames.ShroudoftheAvatar
 w:ChilliBits.ComposeGenerator
 w:ChilliBits.Spice
 w:ChilliBits.CCom
+w:ChefSoftware.InfraClient
 w:ChefSoftware.Workstation
 w:ChefSoftware.ChefDK
 w:cjerrington.net_check
@@ -2884,6 +2892,7 @@ w:CozyCloud.CozyDrive
 w:CPUID.HWMonitor
 w:CPUID.CPU_Z
 w:calibre.calibre
+w:Cosebdd.ShareNot
 w:CologneCodeCompany.XYplorer
 w:CeruleanStudios.Trillian
 w:Canonical.Juju
