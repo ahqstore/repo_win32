@@ -1,1 +1,29 @@
-[]
+{
+  "splash": {
+    "hero": {
+      "title": "Your Next Browser!",
+      "description": "Get the browser that puts your privacy first — and always has",
+      "button": "Explore Firefox",
+      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/firefox.png",
+      "author": "Mozilla Firefox",
+      "appId": "w:Mozilla.Firefox"
+    },
+    "subhero": {
+      "title": "VLC Media Player",
+      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/postman.webp",
+      "appId": "w:VideoLAN.VLC"
+    },
+    "3rd": {
+      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/vlc.webp",
+      "appId": "w:Postman.Postman"
+    },
+    "4th": {
+      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/discord.webp",
+      "appId": "w:Discord.Discord"
+    }
+  },
+  "home": [
+    ["Development", ["a:vscodium"]],
+    ["Social", ["w:Discord.Discord"]]
+  ]
+}
