@@ -63,7 +63,6 @@ w:lukehaas.RunJS
 w:lightspark.lightspark
 w:lstratman.easyconnect
 w:LBRY.LBRY
-w:LEERINA.ShanaEncoder
 w:LukiLabs.Craft
 w:LibrevaultTeam.Librevault
 w:LLVM.LLVM
@@ -75,6 +74,7 @@ w:Love2d.Love2d
 w:LacyMorrow.CrossOver
 w:Lightform.LightformCreator
 w:lencx.ChatGPT
+w:LuxTrust.LuxTrustMiddleware
 w:Logitech.UnifyingSoftware
 w:Logitech.Options
 w:Logitech.GHUB
@@ -292,7 +292,6 @@ w:SilverlakeSoftware.Velocity
 w:Sandboxie.Classic
 w:Sandboxie.Plus
 w:SabakiHQ.Sabaki
-w:ServerData.Elevate
 w:SaferNetworking.SpybotAntiBeacon
 w:SDRplay.SDRconnect
 w:SnailDOS.StreamBop
@@ -394,6 +393,7 @@ w:Snaz.Snaz
 w:ScaryRawr.SL
 w:SSHFS_Win.SSHFS_Win
 w:SM5BSZ.Linrad
+w:Serverdata.ShareSync
 w:Smogon.PokemonShowdown
 w:Sayuri.FFFTP
 w:SunlightStudio.TBTool
@@ -1735,6 +1735,7 @@ w:BartoszCichecki.LenovoLegionToolkit
 w:brunurd.companion
 w:btargac.excel_parser_processor
 w:BrinkSoftware.IbisCalculerenVoorBouw
+w:BrinkSoftware.IbisCalculerenVoorInstallatie
 w:bdash_app.bdash
 w:Blushyes.Sofast
 w:BartelsMedia.ShareMouse
@@ -1832,6 +1833,7 @@ w:Brother.iPrintScan
 w:Biognosys.Spectronaut
 w:Brio.FolderSize
 w:Biscuit.Biscuit
+w:BrightSign.BAconnected
 w:badpanda.GifYourGame
 w:beeradmoore.dlss_swapper
 w:Billfish.Billfish
@@ -2274,6 +2276,7 @@ w:OpenRocket.OpenRocket
 w:Omnissa.HorizonClient
 w:Ombrelin.PandocGui
 w:Ombrelin.PlexRichPresence
+w:OctopusData.Octoparse
 w:OBSProject.OBSStudio
 w:OBSProject.obs_amd_encoder
 w:OpenAudible.OpenAudible
@@ -2313,6 +2316,7 @@ w:THS.HXSmart
 w:titinko.utsu
 w:Thunder.Thunder
 w:Thunder.Xmp
+w:Twingate.Client
 w:TeraTermProject.teraterm5
 w:TonyPottier.ImageView
 w:team_aie.aie
@@ -2453,6 +2457,7 @@ w:TechSmith.Camtasia
 w:TeamSpeakSystems.TeamSpeakClient.Beta.6
 w:therealpaulgg.ssh_sync
 w:TSDuck.TSDuck
+w:Trimble.SketchUpViewer
 w:TransendInfo.SSDScopeApp
 w:ThermoFisher.AmiraAvizo3D
 w:TrueHumanDesign.Diffinity
@@ -2541,6 +2546,7 @@ w:Rhinode.TradingPaints
 w:RicochetIM.Ricochet
 w:Rime.Weasel
 w:RoamResearch.RoamResearch
+w:RockinChaos.Shiru
 w:Racket.Racket
 w:Readdle.Spark
 w:RoyalApps.RoyalServer
@@ -2623,6 +2629,7 @@ w:Nefarius.HidHide
 w:NZXT.CAM
 w:NetSurf.NetSurf
 w:Nushell.Nushell
+w:Nuclino.Nuclino
 w:Nlitesoft.NTLite
 w:NickGasson.NVC
 w:nukeop.nuclear
@@ -2783,6 +2790,7 @@ w:GeoGebra.CASCalculator
 w:GeoGebra.Geometry
 w:gurnec.HashCheckShellExtension
 w:Cyotek.ColorPaletteEditor
+w:cebby2420.VIADesktop
 w:Citrix.Workspace
 w:Cube.CubePlatform
 w:CrisisGo.CrisisGo
@@ -2830,6 +2838,7 @@ w:ChilliBits.ComposeGenerator
 w:ChilliBits.Spice
 w:ChilliBits.CCom
 w:ChefSoftware.InfraClient
+w:ChefSoftware.Inspec
 w:ChefSoftware.Workstation
 w:ChefSoftware.ChefDK
 w:cjerrington.net_check
@@ -2910,11 +2919,14 @@ w:CrystalDewWorld.CrystalDiskInfo
 w:CrystalDewWorld.CrystalDiskMark
 w:ChristianKaiser.Lightscreen
 w:CodeLite.CodeLite
+w:CareScribe.TalkType
 w:Carrier.RefrigerantPipingDesign
 w:Carrier.PLVPro
 w:Carrier.BlockLoad
 w:Carrier.BuildingSystemOptimizer
+w:Carrier.HourlyAnalysisProgram
 w:Carrier.EngineeringEconomicAnalysis
+w:Carrier.SystemDesignLoad
 w:Cencit.BAS21
 w:Chadsoft.CTools
 w:CCPGames.EVEOnline
