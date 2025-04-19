@@ -1220,6 +1220,7 @@ w:AirDroid.AirDroid
 w:AIMP.AIMP
 w:Agretis.SmartInstallMaker
 w:AutonomousSoftware.MetronomeWallet
+w:AFAS.ProfitCommunicationCenter
 w:ApSIC.Xbench
 w:Airzone.Ductzone
 w:alagrede.znote
@@ -1358,6 +1359,10 @@ w:AltDrag.AltDrag
 w:Anydo.Anydo
 w:Axosoft.GitKraken
 w:Approximatrix.SimplyFortran
+w:AGTEK.MaterialsSA
+w:AGTEK.Trackwork
+w:AGTEK.Gradework
+w:AGTEK.UndergroundSA
 w:Adamant.Messenger
 w:AppDynamic.AirServer
 w:Aurora.Aurora
@@ -1837,6 +1842,7 @@ w:Biognosys.Spectronaut
 w:Brio.FolderSize
 w:Biscuit.Biscuit
 w:BrightSign.BAconnected
+w:BrightSign.BrightAuthor
 w:badpanda.GifYourGame
 w:beeradmoore.dlss_swapper
 w:Billfish.Billfish
@@ -2567,7 +2573,6 @@ w:Nota.Gyazo
 w:NativeSoft.NativeRest
 w:neelabo.NeeView
 w:NoMachine.NoMachine
-w:NoMachine.NoMachineClient
 w:ntwind.AltTabTer
 w:ntwind.windowspace
 w:ntwind.VistaSwitcher
@@ -2684,6 +2689,7 @@ w:NitroSoftware.NitroPro
 w:115.115Chrome
 w:123.123pan
 w:1IC.BPMN_RPAStudio
+w:8x8.QualityManagement
 w:GoTo.GoTo
 w:Guilded.Guilded
 w:GauzyTech.NeatConverter
