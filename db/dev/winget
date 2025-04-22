@@ -1651,6 +1651,7 @@ w:Exploitox.CheckIP
 w:EliWeitzman.ETT_Admin
 w:Evoluent.EvoluentMouseManager
 w:EdgeTX.Companion
+w:EIZO.ScreenInStyle
 w:EMCOSoftware.PingMonitor
 w:EduMIPS64.EduMIPS64
 w:everauto.zTasker
@@ -2239,7 +2240,6 @@ w:7zip.7zip.Alpha.exe
 w:7zip.7zip.Alpha.msi
 w:OOMOL.OOMOLStudio
 w:OpenBoxLab.RaiDrive
-w:Odamex.Odamex
 w:OneTagger.OneTagger
 w:ogdesign.Eagle
 w:OK1ZIA.Tucnak
@@ -2756,6 +2756,8 @@ w:GnuCash.GnuCash
 w:gpodder.gpodder
 w:glueckkanja.KONNEKT
 w:Gadwin.WebSnapshot
+w:Gadwin.ScreenRecorder
+w:Gadwin.GeForms
 w:Gadwin.DiagramStudio
 w:GnuWin32.GetText
 w:GnuWin32.Tree
@@ -2820,6 +2822,7 @@ w:Chocolatey.ChocolateyGUI
 w:CodeBerserkers888.DxGPT_AI
 w:CloudApp.CloudApp
 w:Cisco.Jabber
+w:Cisco.ChezScheme
 w:Cisco.CiscoWebexMeetings
 w:Cisco.ClamAV
 w:commercialhaskell.stack
