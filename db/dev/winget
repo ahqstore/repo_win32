@@ -2382,7 +2382,6 @@ w:TooYi.IShell
 w:Tribler.Tribler
 w:Texnomic.SecureDNS_Terminal
 w:TaskcadeInc.Taskade
-w:Twitch.Soundtrack
 w:Tenable.NessusAgent
 w:Tenable.Nessus
 w:TreasureData.TDAgent
@@ -2535,6 +2534,7 @@ w:Replit.Replit
 w:Ritlabs.TheBat
 w:Rakuten.Viber
 w:RawTherapee.RawTherapee
+w:RPTools.MapTool
 w:RPTools.TokenTool
 w:RomanKubiak.Ctrlr
 w:Romanitho.Winget_AutoUpdate
