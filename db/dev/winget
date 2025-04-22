@@ -1172,6 +1172,7 @@ w:Amazon.Chime
 w:Amazon.SAM_CLI
 w:Amazon.SessionManagerPlugin
 w:Amazon.CloudWatchAgent
+w:Amazon.Games
 w:Amazon.AWSVPNClient
 w:AdGuard.AdGuard
 w:AdGuard.AdGuardVPN
@@ -1630,6 +1631,7 @@ w:ESBConsultancy.ESBProgCalc.Pro.Trial
 w:ESBConsultancy.ESBUnitConv
 w:ESBConsultancy.ESBUnitConv.Pro.Trial
 w:e2eSoft.iVCam
+w:EDPB.WebsiteAuditTool
 w:Esteem.Esteem
 w:Elastic.Winlogbeat
 w:eMule.eMule
@@ -2822,6 +2824,7 @@ w:Chocolatey.ChocolateyGUI
 w:CodeBerserkers888.DxGPT_AI
 w:CloudApp.CloudApp
 w:Cisco.Jabber
+w:Cisco.JabberVDIAgent
 w:Cisco.ChezScheme
 w:Cisco.CiscoWebexMeetings
 w:Cisco.ClamAV
