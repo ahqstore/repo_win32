@@ -316,6 +316,7 @@ w:buchen.portfolio
 w:BrunnerBI.MeasureKiller
 w:btargac.excel_parser_processor
 w:BelgianGovernment.eIDViewer
+w:BelgianGovernment.eIDmiddleware
 w:bl00mber.alarm_cron
 w:BotProductions.IconViewer
 w:BotProductions.PSPThumbnailHandler
@@ -1234,6 +1235,7 @@ w:Dlang.DMD
 w:Datto.Workplace
 w:DominikReichl.KeePass
 w:DaimlerTruck.FleetboardCockpit
+w:Dynare.Dynare
 w:Datalust.Seq
 w:dokan_dev.Dokany
 w:DuckStudio.Sundry
