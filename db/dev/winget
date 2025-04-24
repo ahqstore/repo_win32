@@ -197,9 +197,13 @@ w:CPUID.CPU_Z
 w:Coldlake.StellarPlayer
 w:Cisco.Jabber
 w:Cisco.CiscoWebexMeetings
+w:Cisco.NetworkRecordingPlayer
 w:Cisco.ChezScheme
 w:Cisco.ClamAV
 w:Cisco.JabberVDIAgent
+w:Cisco.WebexRecorderAndPlayer
+w:Cisco.WebexWRFtoWMV
+w:Cisco.WebexNetworkRecordingConverter
 w:ChiaNetwork.GUIforChiaBlockchain
 w:Cube.CubePlatform
 w:chrdavis.smartrename
@@ -489,6 +493,7 @@ w:Proxyman.Proxyman
 w:ProjectJupyter.JupyterLab
 w:PatrikLaszlo.P3XRedisUI
 w:ProsoftEngineering.DataRescue
+w:PixPin.PixPin
 w:PPSSPPTeam.PPSSPP
 w:PaulPacifico.ShutterEncoder
 w:PeterDaveHello.TransmissionRemoteGUI
@@ -2722,6 +2727,8 @@ w:GianlucaPernigotto.Videomass
 w:Geany.Geany
 w:GaetanSencie.Retro_asteroid_war
 w:GaetanSencie.AnnualAccounting
+w:GardenGnome.Pano2VR
+w:GardenGnome.Object2VR
 w:GlavSoft.TightVNC
 w:GitButler.GitButler
 w:GPSoftware.DirectoryOpus
@@ -2790,6 +2797,7 @@ w:Guru3D.Afterburner
 w:Guru3D.RTSS
 w:Git.GCM
 w:Gridcoin.Client
+w:Gynzy.GynzyDesktop
 w:Google.EarthPro
 w:Google.Chrome
 w:Google.ChromeRemoteDesktopHost
