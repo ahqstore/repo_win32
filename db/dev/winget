@@ -1234,6 +1234,7 @@ w:den4b.Shutter
 w:den4b.ReNamer
 w:den4b.RandPass
 w:den4b.Colors
+w:dRofus.dRofus
 w:DavidNorgren.Mine_imator
 w:Dothq.DotBrowser
 w:DrewNaylor.UXL_Launcher
@@ -1330,7 +1331,11 @@ w:Doxim.StriataReader
 w:Dialpad.Dialpad
 w:deepnight.LDtk
 w:DISTRHO.Cardinal
+w:DYMO.DYMOID
 w:DYMO.DYMOConnect
+w:DYMO.PrintServerControlCenter
+w:DYMO.DYMOScale
+w:DYMO.DYMOLabel
 w:Druva.inSync
 w:dreamus.flo
 w:dsheiko.puppetry
@@ -1364,6 +1369,7 @@ w:jely2002.youtube_dl_gui
 w:jazzdelightsme.WingetPathUpdater
 w:Jackett.Jackett
 w:JamieOConnell.MIDI_OX
+w:JoanCharmant.Kinovea
 w:JAMSoftware.HeavyLoad
 w:JAMSoftware.UltraSearch
 w:JAMSoftware.TreeSize
@@ -2580,7 +2586,9 @@ w:EEO.ClassIn
 w:Ethereum.geth
 w:Ethereum.grid
 w:EXPSystems.PDFreDirect
-w:Elastic.Winlogbeat
+w:Elastic.Packetbeat
+w:Elastic.Auditbeat
+w:Elastic.Heartbeat
 w:EliasFotinis.DeskPins
 w:Eziriz.DotNetReactor
 w:Erlang.ErlangOTP
@@ -2726,6 +2734,7 @@ w:GLPI_Project.GLPI_Agent
 w:GoCD.Server
 w:GoCD.Agent
 w:GoLang.Go
+w:GlobalRelay.GlobalRelay
 w:GlyphrStudio.Desktop
 w:GristLabs.GristDesktop
 w:GAI.GAI
@@ -2741,6 +2750,7 @@ w:GaetanSencie.Retro_asteroid_war
 w:GaetanSencie.AnnualAccounting
 w:GardenGnome.Pano2VR
 w:GardenGnome.Object2VR
+w:GlavSoft.RemoteRipple
 w:GlavSoft.TightVNC
 w:GitButler.GitButler
 w:GPSoftware.DirectoryOpus
@@ -2769,6 +2779,7 @@ w:gurnec.HashCheckShellExtension
 w:GoTo.GoTo
 w:Gluon.SceneBuilder
 w:Garena.Garena
+w:Graphisoft.BIMxDesktopViewer
 w:GLab.GLab
 w:gnome.gitg
 w:gnome.gedit
