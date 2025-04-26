@@ -2586,6 +2586,7 @@ w:EEO.ClassIn
 w:Ethereum.geth
 w:Ethereum.grid
 w:EXPSystems.PDFreDirect
+w:Elastic.Metricbeat
 w:Elastic.Packetbeat
 w:Elastic.Auditbeat
 w:Elastic.Heartbeat
