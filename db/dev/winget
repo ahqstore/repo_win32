@@ -52,6 +52,7 @@ w:Internxt.Drive
 w:IDEA.ReadPaper
 w:Insecure.Nmap
 w:Inkscape.Inkscape
+w:isl_kocher.isl_baustellenmanager
 w:IObit.Uninstaller
 w:IObit.ProtectedFolder
 w:IObit.IObitSysInfo
@@ -135,6 +136,9 @@ w:Caprine.Caprine
 w:Celestia.Celestia
 w:CorporateClashCrew.ToontownCorporateClash
 w:ClassicOldSong.Apollo
+w:Cypherix.Cryptainer.Lite.18
+w:Cypherix.Cryptainer.Pro.18
+w:Cypherix.Cryptainer.Personal.18
 w:CometNetwork.BitComet
 w:ChemTableSoftware.RegistryLife
 w:Citrix.Workspace
@@ -1271,6 +1275,7 @@ w:Discord.Discord.Canary.x86
 w:DeepCool.DeepCool
 w:diamondburned.Dissent
 w:DogecoinCoreproject.DogecoinCore
+w:Delinea.ThycoticApplicationControlAgent
 w:Dmitry_Farafonov.MicSwitch
 w:Datadog.Agent
 w:Datadog.dd_trace_dotnet
@@ -1287,9 +1292,11 @@ w:Digola.SetMate
 w:Digola.FrontSketch
 w:dorssel.usbipd_win
 w:DJI.DJIAssistant2
+w:DJI.DJITerra
 w:Dedoose.Dedoose
 w:Daum.PotPlayer
 w:DDEVFoundation.DDEV
+w:DuxburySystems.DBT
 w:DisplayLink.GraphicsDriver
 w:Deezer.Deezer
 w:Devolutions.Workspace
@@ -2588,6 +2595,7 @@ w:Elastic.Metricbeat
 w:Elastic.Packetbeat
 w:Elastic.Auditbeat
 w:Elastic.Heartbeat
+w:Elastic.Filebeat
 w:EliasFotinis.DeskPins
 w:Eziriz.DotNetReactor
 w:Erlang.ErlangOTP
@@ -2629,6 +2637,8 @@ w:Elgato.WaveLink
 w:EDPB.WebsiteAuditTool
 w:evsar3.sshfs_win_manager
 w:ElectronCash.ElectronCash
+w:HMS.eBuddy
+w:HMS.IxxatCanAnalyser
 w:HulubuluSoftware.AdvancedRenamer
 w:HDDGURU.HDDLLFTool
 w:Hugin.Hugin
@@ -2722,6 +2732,7 @@ w:8x8.QualityManagement
 w:Glarysoft.GlaryUtilities
 w:GuinpinSoft.MakeMKV
 w:guijan.dictpw
+w:GraphPad.Prism
 w:Giorgiotani.Peazip
 w:GOG.Galaxy
 w:GitHub.GitLFS
