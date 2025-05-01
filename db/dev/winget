@@ -76,6 +76,7 @@ w:COPASI.COPASI
 w:ContourDesign.ContourShuttle
 w:caobinrg.electron_office_tools
 w:Clevertouch.Clevershare
+w:Coder.CoderDesktop
 w:commercialhaskell.stack
 w:cinnyapp.cinny_desktop
 w:Cal.Cal
@@ -1608,6 +1609,7 @@ w:MTSD.AllDup
 w:mentebinaria.retoolkit
 w:M2Team.NanaZip
 w:MicroDicom.DICOMViewer
+w:MicroDicom.ShellExtension
 w:Meta.Oculus
 w:ManaManaIoT.DeviceManagementAssistant
 w:MetaGeek.inSSIDer
@@ -3031,5 +3033,6 @@ w:osquery.osquery
 w:OpenTTD.OpenTTD
 w:oberrich.win11_toggle_rounded_corners
 w:OpenLPDevelopers.OpenLP
+w:OmegaT.OmegaT
 w:OpenRails.OpenRails
 w:OxfordUniversityPressELT.OxfordLearnersBookshelf
