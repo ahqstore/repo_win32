@@ -1287,6 +1287,7 @@ w:diamondburned.Dissent
 w:DogecoinCoreproject.DogecoinCore
 w:Delinea.ThycoticApplicationControlAgent
 w:Delinea.ThycoticLocalSecurityAgent
+w:Delinea.ThycoticAgent
 w:Dmitry_Farafonov.MicSwitch
 w:Datadog.Agent
 w:Datadog.dd_trace_dotnet
@@ -1644,6 +1645,7 @@ w:MilosParipovic.OneCommander
 w:MCHOSE.MCHOSEHUB
 w:maojindao55.Etcder
 w:Maltego.Maltego
+w:MakerBot.MakerBotPrint
 w:ModOrganizer2.modorganizer
 w:MarcinOtorowski.MSIXHero
 w:MysteriumNetwork.Mysterium
@@ -1654,12 +1656,12 @@ w:MongoDB.Server
 w:MongoDB.Shell
 w:MongoDB.DatabaseTools
 w:Mercurial.Mercurial
-w:monday.monday
 w:MadrasCheck.flow
 w:MoonchildProductions.PaleMoon
 w:MaxDiesel.UnrealCommander
 w:maurizuki.O2
 w:mesonbuild.meson
+w:Monosnap.Monosnap
 w:mlocati.GetText
 w:maximmax42.CustomRP
 w:Mirillis.SplashUltimate
@@ -2436,6 +2438,9 @@ w:KristenMcWilliam.Nyrna
 w:kwaroran.RisuAI
 w:Krisp.Krisp
 w:karakun.OpenWebStart
+w:Kubus.BCFManager.AutoCAD.2025
+w:Kubus.BIMcollabInstaller
+w:Kubus.BIMcollabZoom
 w:Kapibala.Shuitun
 w:KakaoEntertainmentCorp.MelonPlayer
 w:Keboola.KeboolaCLI
