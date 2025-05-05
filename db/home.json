@@ -10,15 +10,15 @@
     },
     "subhero": {
       "title": "VLC Media Player",
-      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/postman.webp",
+      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/vlc.webp",
       "appId": "w:VideoLAN.VLC"
     },
-    "3rd": {
+    "third": {
       "title": "Postman",
-      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/vlc.webp",
+      "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/postman.webp",
       "appId": "w:Postman.Postman"
     },
-    "4th": {
+    "fourth": {
       "title": "Discord",
       "background": "https://github.com/ahqstore/repo_win32/releases/download/v0.0.1/discord.webp",
       "appId": "w:Discord.Discord"
