@@ -1292,6 +1292,7 @@ w:Delinea.ThycoticApplicationControlAgent
 w:Delinea.DelineaConnectionManager
 w:Delinea.ThycoticLocalSecurityAgent
 w:Delinea.ThycoticAgent
+w:Delinea.ThycoticDirectoryServicesAgent
 w:Delinea.PrivilegeManagerAgents
 w:Dmitry_Farafonov.MicSwitch
 w:Datadog.Agent
