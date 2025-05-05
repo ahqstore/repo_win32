@@ -1289,8 +1289,10 @@ w:DeepCool.DeepCool
 w:diamondburned.Dissent
 w:DogecoinCoreproject.DogecoinCore
 w:Delinea.ThycoticApplicationControlAgent
+w:Delinea.DelineaConnectionManager
 w:Delinea.ThycoticLocalSecurityAgent
 w:Delinea.ThycoticAgent
+w:Delinea.PrivilegeManagerAgents
 w:Dmitry_Farafonov.MicSwitch
 w:Datadog.Agent
 w:Datadog.dd_trace_dotnet
