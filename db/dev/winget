@@ -92,7 +92,6 @@ w:FxSound.FxSound
 w:Formagrid.Airtable
 w:fjsoft.MyPhoneExplorer
 w:FSC_SOFT.VoiceMacro
-w:Freeplane.Freeplane
 w:Fortinet.FortiClientVPN
 w:flxzt.rnote
 w:flos_freeware.Notepad2
@@ -1139,6 +1138,7 @@ w:NoIP.DUC
 w:NodirTemirkhodjaev.FortFirewall
 w:NetSetMan.NetSetMan
 w:notable.notable
+w:NETIO.NETIODiscover
 w:Notepad2mod.Notepad2mod
 w:NGWIN.PicPick
 w:NitroRCr.AIasWorkspace
@@ -1331,6 +1331,7 @@ w:PasteIntoFile.PasteIntoFile
 w:PPSSPPTeam.PPSSPP
 w:PeterBienstman.Mnemosyne
 w:Patchdeck.Agent
+w:PlanGrid.PlanGrid
 w:Pirinel.GitBlade
 w:Postbox.Postbox
 w:PuTTY.PuTTY
