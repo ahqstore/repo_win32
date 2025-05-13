@@ -1527,7 +1527,6 @@ w:Microsoft.MouseWithoutBorders
 w:Microsoft.PCManager
 w:Microsoft.RemoteDesktopClient
 w:Microsoft.DotNet.DesktopRuntime.6
-w:Microsoft.DotNet.SDK.8
 w:Microsoft.AzureCLI
 w:Microsoft.RemoteHelp
 w:Microsoft.RemoteDesktopMMRService
