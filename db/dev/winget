@@ -1154,7 +1154,6 @@ w:ToDesktop.ToDesktop
 w:TeamSonarr.Sonarr
 w:TeamRadarr.Radarr
 w:TGRMNSoftware.BulkRenameUtility
-w:Talkdesk.Talkdesk
 w:Talkdesk.Callbar
 w:TigerVNC.TigerVNC
 w:Tympanix.Electorrent
@@ -2558,6 +2557,7 @@ w:RealVNC.VNCViewer
 w:RealVNC.VNCServer
 w:r12f.Rnp
 w:Rakuten.Viber
+w:Rakuten.Kobo
 w:RustemMussabekov.Raindrop
 w:RobertFFrasca.PDFKeeper
 w:rcmaehl.MSEdgeRedirect
