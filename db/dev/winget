@@ -514,6 +514,7 @@ w:CareScribe.TalkType
 w:COAS.SemantaModeler
 w:COAS.Donkey
 w:ChrisBagwell.SoX
+w:CoreFTP.FTPServer
 w:CyberGhost.CyberGhost
 w:Clementine.Clementine
 w:CrisisGo.CrisisGo
@@ -2872,7 +2873,6 @@ w:dumbasPL.CSGOAccountChecker
 w:decipher.Capter
 w:DanielGehriger.MSI2XML
 w:DuckStudio.FufuTools
-w:DuckStudio.Sundry
 w:DG0JBJ.HDSDR
 w:dRofus.dRofus
 w:deskfiler.deskfiler
