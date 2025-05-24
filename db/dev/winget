@@ -1322,6 +1322,9 @@ w:EDCD.EliteDangerousMarketConnector
 w:East_Tec.ColorVeil
 w:EPOS.EPOSConnect
 w:eVenture.HideMe
+w:ElectronicTeam.USBNetworkGate
+w:ElectronicTeam.VirtualSerialPortDriver
+w:ElectronicTeam.Flexihub
 w:Eraser.Eraser
 w:Embarcadero.Dev_C++
 w:EasyTier.EasyTier
@@ -1397,7 +1400,6 @@ w:Exploitox.CheckIP
 w:EDPB.WebsiteAuditTool
 w:EastMoney.EastMoney
 w:Extensis.ConnectFonts
-w:Eltima.SerialOverEthernet
 w:Eltima.SerialPortMonitor
 w:EpicGames.EpicGamesLauncher
 w:EliWeitzman.ETT_Admin
