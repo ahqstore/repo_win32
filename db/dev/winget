@@ -109,6 +109,7 @@ w:Microsoft.PCManager
 w:Microsoft.NetMon
 w:Microsoft.ServiceFabricSDK
 w:Microsoft.quicreach
+w:Microsoft.SQLServerManagementStudio
 w:Microsoft.HwpConverter
 w:Microsoft.MouseWithoutBorders
 w:Microsoft.RemoteHelp
@@ -1157,6 +1158,7 @@ w:Thinkscape.ZeeDrive
 w:theIYD.coursehunt
 w:T_Troll.AlienFXTools
 w:Technelysium.Chromas
+w:Tidepool.TidepoolUploader
 w:ToDesktop.ToDesktop
 w:TeamSonarr.Sonarr
 w:TeamRadarr.Radarr
@@ -1939,6 +1941,7 @@ w:SMPlayer.SMPlayer
 w:Slido.Slido
 w:S3Drive.S3Drive
 w:ShiftCryptoAG.BitBoxApp
+w:ScreamingFrog.SEOSpider
 w:ScopeFun.ScopeFun
 w:Swift.Toolchain
 w:Sysprogs.SmarTTY
