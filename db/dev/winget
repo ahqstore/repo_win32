@@ -667,6 +667,7 @@ w:Kingdee.CloudHub
 w:Keysight.PathWaveLicenseManager
 w:Keysight.OpenTAP
 w:Keysight.SoftwareManagerUtility
+w:kelibiao.kelibiao
 w:KristenMcWilliam.Nyrna
 w:KitLib.Kite
 w:Kitemaker.Kitemaker
@@ -709,6 +710,7 @@ w:Kubus.BIMcollabInstaller
 w:Kongkong.AskLink
 w:KoushikNaskar.InteractiveDataEditor
 w:klinker24.google_calendar_desktop
+w:KaringX.ClashMi
 w:KaringX.Karing
 w:Zandronum.Zandronum
 w:ZhornSoftware.Stickies
@@ -1141,12 +1143,14 @@ w:Teradata.TTUBase
 w:TheBlind.T_Shell
 w:TeXstudio.TeXstudio
 w:TuxGuitar.TuxGuitar
+w:TerminalWorks.TSPrintServer
 w:TeamProwlarr.Prowlarr
 w:ThinkingManSoftware.Dimension4
 w:TUitTUWien.TUtoolbox
 w:TrackerSoftware.PDF_XChangePRO
 w:TrackerSoftware.PDF_XChangeViewer
 w:TrackerSoftware.PDF_XChangeEditor
+w:Terminals.Terminals
 w:TortoiseSVN.TortoiseSVN
 w:toasterofbread.spmp
 w:TeamShinkansen.Hakchi2_CE
@@ -2071,6 +2075,7 @@ w:sunabozu.subordination
 w:stakira.OpenUTAU
 w:SaladTechnologies.Salad
 w:Spicebrains.Instant_Eyedropper
+w:Singular.Recast
 w:SuperTuxKart.SuperTuxKart
 w:schemacrawler.schemacrawler
 w:SlashedIo.Inssist
@@ -2151,6 +2156,8 @@ w:Skillbrains.Lightshot
 w:Shure.ShurePlusMOTIV
 w:SuperCollider.SuperCollider
 w:SourceGear.DiffMerge
+w:Sangoma.SangomaTeamHub
+w:Sangoma.SangomaMeet
 w:stnkl.EverythingToolbar
 w:SVZsoft.GEDKeeper
 w:SM5BSZ.Linrad
@@ -2555,7 +2562,6 @@ w:Raise3D.ideaMaker
 w:Resolume.Arena
 w:Resolume.Avenue
 w:RileyTestut.AltServer
-w:ResponsivelyApp.ResponsivelyApp
 w:Resplendence.WhySoSlow
 w:Resplendence.RegistrarRegistryManager
 w:Resplendence.LatencyMon
@@ -2604,6 +2610,7 @@ w:rammichael.Textify
 w:Revopoint.RevoScan
 w:RenewedVision.ProPresenter
 w:RejminetGroupInc.PDFShow
+w:Responsively.ResponsivelyApp
 w:RuneLite.RuneLite
 w:RIA.DigiDoc4
 w:RIA.eIDsoftware
