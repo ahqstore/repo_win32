@@ -1154,6 +1154,7 @@ w:ThinkingManSoftware.Dimension4
 w:TUitTUWien.TUtoolbox
 w:TrackerSoftware.PDF_XChangePRO
 w:TrackerSoftware.PDF_XChangeViewer
+w:TrackerSoftware.PDF_XChangeStandard
 w:TrackerSoftware.PDF_XChangeEditor
 w:Terminals.Terminals
 w:TortoiseSVN.TortoiseSVN
@@ -2299,6 +2300,8 @@ w:LacyMorrow.CrossOver
 w:LukaszSwiszcz.Winpinator
 w:lukehaas.RunJS
 w:LSoftTechnologies.ActiveLiveCD
+w:LSoftTechnologies.ActivePartitionRecovery
+w:LSoftTechnologies.ActiveDataBurner
 w:LSoftTechnologies.NTFSDataRecovery
 w:liseami.DeepRant
 w:LibreCAD.LibreCAD
