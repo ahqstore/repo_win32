@@ -124,6 +124,7 @@ w:Microsoft.AzureMonitorAgent
 w:Microsoft.AmendmentAppWordService
 w:Microsoft.ServiceFabricRuntime
 w:Microsoft.RemoteDesktopClient
+w:MathWorks.MATLABConnector
 w:MSPaintIDE.MSPaintIDE
 w:Mercurial.Mercurial
 w:MPC_BE.MPC_BE
@@ -2307,10 +2308,12 @@ w:LSoftTechnologies.ActiveKillDisk
 w:LSoftTechnologies.ActiveDiskEditor
 w:LSoftTechnologies.ActivePartitionRecovery
 w:LSoftTechnologies.ActiveDataBurner
+w:LSoftTechnologies.ActiveDataStudio
 w:LSoftTechnologies.ActiveDiskImage
 w:LSoftTechnologies.ActiveDiskMonitor
 w:LSoftTechnologies.ActivePartitionManager
 w:LSoftTechnologies.NTFSDataRecovery
+w:LSoftTechnologies.ActiveISOManager
 w:liseami.DeepRant
 w:LibreCAD.LibreCAD
 w:PeterStrick.ViVeTool_GUI
