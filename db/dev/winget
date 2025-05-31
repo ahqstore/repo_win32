@@ -2690,6 +2690,7 @@ w:LSoftTechnologies.ActiveDiskEditor
 w:LSoftTechnologies.ActiveDataBurner
 w:LSoftTechnologies.ActiveKillDisk
 w:LSoftTechnologies.ActivePartitionManager
+w:LSoftTechnologies.ActiveUNDELETE
 w:LSoftTechnologies.ActiveBootDisk
 w:LSoftTechnologies.NTFSDataRecovery
 w:LSoftTechnologies.ActiveISOManager
@@ -2894,6 +2895,7 @@ w:Novacura.FlowStudio
 w:Novacura.FlowClient
 w:Novacura.FlowServerManager
 w:netbsd.rawrite32
+w:NCHSoftware.Crescendo
 w:Novostrim.CreateInstall
 w:3TSoftwareLabs.Robo3T
 w:360.360Zip
