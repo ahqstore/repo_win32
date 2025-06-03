@@ -967,7 +967,6 @@ w:Safing.Portmaster
 w:SSHFS_Win.SSHFS_Win
 w:SonicWALL.NetExtender
 w:SystweakSoftware.DuplicateFilesFixer
-w:ShareX.ShareX
 w:SimbaTechnologies.SimbaODBCDriverforGoogleBigQuery
 w:SecombaGmbH.Boxcryptor
 w:JiangGujin.OllamaDesktop
@@ -3082,6 +3081,7 @@ w:Auslogics.DiskDefrag
 w:AFAS.ProfitCommunicationCenter
 w:Alibaba.MiniProgramStudio
 w:Alibaba.LightProxy
+w:Alibaba.Lingma
 w:Alibaba.Taobao
 w:Alibaba.aDrive
 w:Alibaba.DingTalk
