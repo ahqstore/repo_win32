@@ -118,7 +118,9 @@ w:Hekasoft.Backup_Restore
 w:Hydraulic.Conveyor
 w:HP.AnywarePCoIPClient
 w:HP.HPCloudRecoveryTool
+w:HP.ConnectivityKit
 w:HP.HPCMSL
+w:HP.PrimeVirtualCalculator
 w:HTTPToolKit.HTTPToolKit
 w:HermannSchinagl.LinkShellExtension
 w:Heroku.HerokuCLI
@@ -2415,6 +2417,7 @@ w:PRQL.prqlc
 w:purocean.YankNote
 w:Perimeter81Ltd.Perimeter81Ltd
 w:PatentLobster.stinker
+w:ProjectLibre.ProjectLibre
 w:Xiaoe.Xiaoetong
 w:xanderfrangos.crushee
 w:xanderfrangos.twinkletray
