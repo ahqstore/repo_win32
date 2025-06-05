@@ -2331,6 +2331,7 @@ w:PlotSoft.PDFill
 w:prefix_dev.pixi
 w:Primesieve.Primesieve
 w:Prusa3D.PrusaSlicer
+w:ProjectEnv.ProjectEnvCli
 w:PDQ.PDQDeploy
 w:PDQ.PDQInventory
 w:PenguinLabs.Cacher
