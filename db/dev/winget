@@ -381,7 +381,6 @@ w:ICBC.ICBCEBankAssist
 w:ICBC.SecEditCtl
 w:IDRIX.VeraCrypt
 w:Iriun.IriunVR
-w:Igoravl.TfsCmdlets
 w:ItsPi3141.AlpacaElectron
 w:IAMCloud.CloudDriveMapper
 w:IHK.SignaturePrintClient
@@ -2901,6 +2900,7 @@ w:Netsoft.Hubstaff
 w:NetSarangComputer.PortX
 w:nrittsti.NTag
 w:nvisionative.nvQuickSite
+w:Novacura.FlowConnectDesigner
 w:Novacura.FlowStudio
 w:Novacura.FlowClient
 w:Novacura.FlowServerManager
