@@ -1066,6 +1066,7 @@ w:BinaryMark.BatchFileManager
 w:BinaryMark.BatchFileEncrypt
 w:BinaryMark.TextToMp3Converter
 w:BinaryMark.BatchHexEditor
+w:BLife.CustomCursor
 w:BrinkSoftware.IbisVoorInfra
 w:BrinkSoftware.IbisCalculerenVoorBouw
 w:BrinkSoftware.IbisCalculerenVoorInstallatie
@@ -1317,6 +1318,7 @@ w:riok.Kreya
 w:RonyShapiro.PasswordSafe
 w:raphamorim.rio
 w:Ringler.SnapformViewer
+w:Ringler.SnapTaxForm685
 w:Ryochan7.DS4Windows
 w:Rambax.SimpleTransfer
 w:rickbutton.workspacer
@@ -2889,6 +2891,7 @@ w:notable.notable
 w:Nutstore.EO2
 w:Nutstore.NutstoreLightApp
 w:Nushell.Nushell
+w:NewRelic.InfrastructureAgent
 w:NWEA.NWEASecureTestingBrowser
 w:NirSoft.NK2Edit
 w:NirSoft.DownTester
