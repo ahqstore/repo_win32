@@ -1372,7 +1372,6 @@ w:SergeyMoskalev.CarambaSwitcher
 w:SteffenBruentjen.EurKEY
 w:Stream_Pi.Server
 w:Stream_Pi.Client
-w:Splunk.ACS
 w:SMPlayer.SMPlayer
 w:Suwayomi.Tachidesk_Sorayomi
 w:Suwayomi.Tachidesk_Server
@@ -1982,6 +1981,7 @@ w:Technelysium.Chromas
 w:Tympanix.Electorrent
 w:Thorlabs.ThorlabsImagingSystemsSoftware
 w:Thorlabs.MC2000B
+w:Thorlabs.FWxC
 w:TigerVNC.TigerVNC
 w:ThePyzoteam.pyzo
 w:TransendInfo.SSDScopeApp
