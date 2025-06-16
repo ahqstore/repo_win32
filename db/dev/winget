@@ -2329,6 +2329,7 @@ w:Microsoft.MouseandKeyboardCenter
 w:Microsoft.ServiceFabricRuntime
 w:Microsoft.WindowsAdminCenter
 w:Microsoft.MouseWithoutBorders
+w:Microsoft.VFSforGit
 w:Microsoft.PIX
 w:Microsoft.FoundryLocal
 w:Microsoft.WindowsTerminal
