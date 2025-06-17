@@ -1985,11 +1985,13 @@ w:Tenable.Nessus
 w:Technelysium.Chromas
 w:Tympanix.Electorrent
 w:Thorlabs.Joystick
+w:Thorlabs.KLC
 w:Thorlabs.TSP01
 w:Thorlabs.TC200
 w:Thorlabs.PDXC
 w:Thorlabs.ThorlabsImagingSystemsSoftware
 w:Thorlabs.PACU2
+w:Thorlabs.Kurios
 w:Thorlabs.TC300B
 w:Thorlabs.XA
 w:Thorlabs.upSERIES
@@ -1999,6 +2001,7 @@ w:Thorlabs.MCM301
 w:Thorlabs.ThorlabsDeviceSDK
 w:Thorlabs.FWxC
 w:Thorlabs.LK220
+w:Thorlabs.LCC25
 w:Thorlabs.SC10
 w:Thorlabs.ELLO
 w:TigerVNC.TigerVNC
