@@ -645,6 +645,7 @@ w:pseymour.MakeMeAdmin
 w:Perimeter81Ltd.Perimeter81Ltd
 w:PRQL.prqlc
 w:PCGen.PCGen
+w:PearAI.PearAI
 w:PostgreSQL.psqlODBC
 w:Phoner.PhonerLite
 w:PhilipGerke.Odassey
@@ -1989,6 +1990,7 @@ w:Thorlabs.KLC
 w:Thorlabs.TSP01
 w:Thorlabs.TC200
 w:Thorlabs.PDXC
+w:Thorlabs.EXULUS_SE1
 w:Thorlabs.ThorlabsImagingSystemsSoftware
 w:Thorlabs.PACU2
 w:Thorlabs.Kurios
@@ -2002,6 +2004,7 @@ w:Thorlabs.ThorlabsDeviceSDK
 w:Thorlabs.FWxC
 w:Thorlabs.LK220
 w:Thorlabs.LCC25
+w:Thorlabs.ThorAOControl
 w:Thorlabs.SC10
 w:Thorlabs.ELLO
 w:TigerVNC.TigerVNC
