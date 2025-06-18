@@ -1993,6 +1993,7 @@ w:Thorlabs.TC200
 w:Thorlabs.PDXC
 w:Thorlabs.EXULUS_SE1
 w:Thorlabs.ThorlabsImagingSystemsSoftware
+w:Thorlabs.MEMSVCSEL
 w:Thorlabs.PACU2
 w:Thorlabs.Kurios
 w:Thorlabs.TC300B
@@ -2001,6 +2002,7 @@ w:Thorlabs.upSERIES
 w:Thorlabs.MC2000B
 w:Thorlabs.SC30
 w:Thorlabs.MCM301
+w:Thorlabs.MCLS1
 w:Thorlabs.ThorlabsDeviceSDK
 w:Thorlabs.FWxC
 w:Thorlabs.S4FC
