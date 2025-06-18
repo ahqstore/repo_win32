@@ -1998,6 +1998,7 @@ w:Thorlabs.PACU2
 w:Thorlabs.Kurios
 w:Thorlabs.TC300B
 w:Thorlabs.XA
+w:Thorlabs.MCLS2
 w:Thorlabs.upSERIES
 w:Thorlabs.MC2000B
 w:Thorlabs.SC30
@@ -2007,6 +2008,7 @@ w:Thorlabs.ThorlabsDeviceSDK
 w:Thorlabs.FWxC
 w:Thorlabs.S4FC
 w:Thorlabs.LK220
+w:Thorlabs.xPlatform
 w:Thorlabs.LCC25
 w:Thorlabs.ThorAOControl
 w:Thorlabs.SC10
