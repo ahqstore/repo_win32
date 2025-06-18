@@ -614,6 +614,7 @@ w:PilotEdge.MSFSclient
 w:PrivateInternetAccess.PrivateInternetAccess
 w:PCSX2Team.PCSX2
 w:PurpleI2P.i2pd
+w:PureDevSoftware.10x
 w:PowerSoftware.AnyBurn
 w:PowerSoftware.PowerISO
 w:Paessler.PRTGDesktop
@@ -2002,6 +2003,7 @@ w:Thorlabs.SC30
 w:Thorlabs.MCM301
 w:Thorlabs.ThorlabsDeviceSDK
 w:Thorlabs.FWxC
+w:Thorlabs.S4FC
 w:Thorlabs.LK220
 w:Thorlabs.LCC25
 w:Thorlabs.ThorAOControl
@@ -2320,6 +2322,7 @@ w:Microsoft.Skype
 w:Microsoft.ServiceFabricSDK
 w:Microsoft.FSLogix
 w:Microsoft.RemoteDesktopMMRService
+w:Microsoft.PowerBIReportServer
 w:Microsoft.LAPS
 w:Microsoft.AmendmentAppWordService
 w:Microsoft.AzureCLI
