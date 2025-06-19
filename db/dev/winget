@@ -615,6 +615,7 @@ w:PrivateInternetAccess.PrivateInternetAccess
 w:PCSX2Team.PCSX2
 w:PurpleI2P.i2pd
 w:PureDevSoftware.10x
+w:PureDevSoftware.FramePro
 w:PowerSoftware.AnyBurn
 w:PowerSoftware.PowerISO
 w:Paessler.PRTGDesktop
@@ -1757,6 +1758,7 @@ w:ntwind.AltTabTer
 w:ntwind.windowspace
 w:ntwind.VistaSwitcher
 w:Nikkho.FileOptimizer
+w:NicolasBonamy.Witsy
 w:NordSecurity.NordPass
 w:NordSecurity.NordVPN
 w:NordSecurity.NordLocker
@@ -1986,6 +1988,7 @@ w:Tenable.Nessus
 w:Technelysium.Chromas
 w:Tympanix.Electorrent
 w:Thorlabs.Joystick
+w:Thorlabs.SLS701
 w:Thorlabs.KLC
 w:Thorlabs.TSP01
 w:Thorlabs.TC200
@@ -1997,6 +2000,7 @@ w:Thorlabs.PACU2
 w:Thorlabs.Kurios
 w:Thorlabs.TC300B
 w:Thorlabs.XA
+w:Thorlabs.HPLS
 w:Thorlabs.MCLS2
 w:Thorlabs.upSERIES
 w:Thorlabs.SPDC810
@@ -2011,6 +2015,7 @@ w:Thorlabs.S4FC
 w:Thorlabs.LK220
 w:Thorlabs.xPlatform
 w:Thorlabs.LCC25
+w:Thorlabs.S5FC
 w:Thorlabs.ThorAOControl
 w:Thorlabs.SC10
 w:Thorlabs.ELLO
