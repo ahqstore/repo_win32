@@ -2017,6 +2017,7 @@ w:Thorlabs.MCLS1
 w:Thorlabs.ThorlabsDeviceSDK
 w:Thorlabs.FWxC
 w:Thorlabs.S4FC
+w:Thorlabs.ChrolisDeviceDriver
 w:Thorlabs.LK220
 w:Thorlabs.xPlatform
 w:Thorlabs.FSLControl
@@ -2162,6 +2163,7 @@ w:WlhEx.WIFbox
 w:Wazuh.WazuhAgent
 w:Wox.Wox
 w:wahao.Electron_iGot
+w:WinUAE.WinUAE
 w:WhoElse.Ping
 w:WasmEdge.WasmEdge
 w:Wozhi.WizNote
