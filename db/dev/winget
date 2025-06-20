@@ -2006,6 +2006,7 @@ w:Thorlabs.HPLS
 w:Thorlabs.MCLS2
 w:Thorlabs.upSERIES
 w:Thorlabs.SPDC810
+w:Thorlabs.SA201B
 w:Thorlabs.SLS60x
 w:Thorlabs.MC2000B
 w:Thorlabs.SC30
@@ -2019,6 +2020,7 @@ w:Thorlabs.xPlatform
 w:Thorlabs.FSLControl
 w:Thorlabs.LCC25
 w:Thorlabs.S5FC
+w:Thorlabs.QEPAS
 w:Thorlabs.ThorAOControl
 w:Thorlabs.SC10
 w:Thorlabs.ELLO
