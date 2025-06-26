@@ -2007,6 +2007,7 @@ w:Thorlabs.CCT
 w:Thorlabs.TSP01
 w:Thorlabs.TC200
 w:Thorlabs.PDXC
+w:Thorlabs.PCD1K
 w:Thorlabs.EXULUS_SE1
 w:Thorlabs.ThorlabsImagingSystemsSoftware
 w:Thorlabs.MEMSVCSEL
@@ -2032,6 +2033,7 @@ w:Thorlabs.ChrolisDeviceDriver
 w:Thorlabs.LK220
 w:Thorlabs.xPlatform
 w:Thorlabs.FSLControl
+w:Thorlabs.Chrolis
 w:Thorlabs.LCC25
 w:Thorlabs.S5FC
 w:Thorlabs.QEPAS
@@ -3304,6 +3306,7 @@ w:Kingdee.CloudHub
 w:Kumospace.Kumospace
 w:KakaoEnterprise.KakaoWork
 w:Kakao.KakaoTalk
+w:Kraken.KrakenDesktop
 w:karakun.OpenWebStart
 w:KristenMcWilliam.Nyrna
 w:Khoj.Khoj
