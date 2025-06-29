@@ -433,12 +433,15 @@ w:VariCAD.VariCADViewer
 w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:Vijua.KotobeeAuthor
+w:Vijua.KotobeeReader
+w:Vijua.KotobeeNarrator
 w:Veracode.CLI
 w:VentoByte.Proxifier
 w:vassalengine.VASSAL
 w:VideoLAN.VLC
 w:VidJuice.UniTube
 w:VRCX.VRCX
+w:Vonage.VonageBusiness
 w:ViGEm.ViGEmBus
 w:variar.klogg
 w:VSDC.Editor
@@ -458,6 +461,7 @@ w:ValentinSoftware.PVSOL.Premium.2025
 w:Vup.Vup
 w:VeyonSolutions.Veyon
 w:VisualParadigm.Community
+w:VisualParadigm.VisualParadigmViewer
 w:VisualParadigm.VisualParadigm
 w:Venturi.HideVolumeOSD
 w:VB_Audio.Voicemeeter
