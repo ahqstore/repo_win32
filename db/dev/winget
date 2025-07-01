@@ -1374,7 +1374,6 @@ w:Stardock.Start11
 w:Stardock.Curtains
 w:Stardock.Start10
 w:SearchDeflector.SearchDeflector
-w:SonicWALL.NetExtender
 w:SaeraSoft.CaesiumPH
 w:SaeraSoft.CaesiumImageCompressor
 w:SFLinux.Jami
@@ -2134,6 +2133,8 @@ w:WonderIdea.MangoPresentationMaker
 w:WonderIdea.Animiz
 w:WonderIdea.PUBHTML5
 w:WixPie.WixPie
+w:WatchGuard.WatchGuardAuthenticationGateway
+w:WatchGuard.WatchGuardTerminalServiceAgent
 w:WatchGuard.MobileVPNWithSSLClient
 w:WaterbugStudios.Mazerator
 w:WeakAuras.WeakAurasCompanion
