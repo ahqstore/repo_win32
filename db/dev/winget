@@ -180,7 +180,6 @@ w:Bilibili.Bilibili
 w:Bilibili.Livehime
 w:BartelsMedia.ShareMouse
 w:Baidu.BaiduWenku
-w:Baidu.BaiduNetdisk
 w:Baidu.TeraBox
 w:Baidu.BaiduSpeechInput
 w:Baidu.BaiduSIMeeting
@@ -1184,6 +1183,7 @@ w:GLab.GLab
 w:GauzyTech.NeatReader
 w:GauzyTech.NeatConverter
 w:Gridcoin.Client
+w:Gluon.SceneBuilder
 w:Gadwin.WebSnapshot
 w:Gadwin.GeForms
 w:Gadwin.DiagramStudio
