@@ -1160,11 +1160,13 @@ w:Genesys.GenesysCloud
 w:Genesys.GenesysCloudBackgroundAssistant
 w:gileli121.windowtop
 w:GaoYoubo.HexoClient
+w:Greatis.DesktopKeeper
 w:Greatis.RegGun.Platinum.Ukrainian
 w:Greatis.StopUpdates10
 w:Greatis.GWXStopper
 w:Greatis.StartScreenUnlimited
 w:Greatis.A1RunGuard
+w:Greatis.EdgeResetButton
 w:Greatis.IQIYIRemover
 w:Greatis.WinDowse
 w:Greatis.BootRacer
@@ -1431,7 +1433,9 @@ w:SiberSystems.GoodSync
 w:SVZsoft.GEDKeeper
 w:Shure.ShurePlusMOTIV
 w:Seafuture.NetpasTramperBusiness
+w:Seafuture.NetpasVesselMonitorAIS
 w:Seafuture.NetpasMessage
+w:Seafuture.NetpasDistance
 w:Seafuture.NetpasEstimatorTramper
 w:Seafuture.NetpasMaritimeMailAnalyzer
 w:stnkl.EverythingToolbar
