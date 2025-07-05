@@ -869,6 +869,7 @@ w:RadioSky.RadioEyes
 w:Romanitho.Winget_AutoUpdate
 w:Revopoint.RevoScan
 w:RIDI.Ridibooks
+w:Runebook.Tome
 w:Rakudo.Rakudo
 w:REINERSCT.cyberJackDriverPackage
 w:RKibria.frhed
@@ -952,6 +953,7 @@ w:DigitalVolcanoSoftware.TaskCanvas
 w:DigitalVolcanoSoftware.HashTool
 w:dune3d.dune3d
 w:Dicarne.TheCenter
+w:dotNetInstaller.dotNetInstaller
 w:DG0JBJ.HDSDR
 w:Digola.NooG
 w:Digola.7Caps
@@ -1391,6 +1393,7 @@ w:Steady.Steady
 w:ScaryRawr.SL
 w:sonnylab.chatgpt
 w:Selur.Hybrid
+w:SumbitLabs.Aptakube
 w:Steccas.ProtonClient
 w:S3Drive.S3Drive
 w:SystweakSoftware.DuplicateFilesFixer
@@ -1843,7 +1846,6 @@ w:uGetdm.uGet
 w:Ultimaker.Cura
 w:Uniconta.Uniconta
 w:Unidata.NetCDF
-w:uvncbvba.UltraVnc
 w:UnionTech.DeepinCloudPrintServer
 w:UnionTech.DeepinCloudScanServer
 w:UniversityOfAmsterdam.JASP
@@ -1984,6 +1986,7 @@ w:Tenpi.Waifu2xGUI
 w:Taomee.Mole
 w:Transmission.Transmission
 w:TeamDriveSystems.TeamDrive
+w:ThomsonReuters.E_TranscriptBundleViewer
 w:ThinkingManSoftware.Dimension4
 w:TonyPottier.ImageView
 w:TeamSpeakSystems.TeamSpeakClient.Beta.6
@@ -2169,7 +2172,6 @@ w:WestWind.MarkdownMonster
 w:WestWind.WebSurge
 w:wexond.wexond
 w:Warzone2100Project.Warzone2100
-w:Wiris.MathType7
 w:Win32diskimager.win32diskimager
 w:w4po.ExplorerTabUtility
 w:whitewaterfoundry.fedora_remix_for_wsl
