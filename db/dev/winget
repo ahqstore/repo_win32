@@ -2110,6 +2110,8 @@ w:QNAP.Qsync
 w:QNAP.Qsirch
 w:QNAP.ExternalRAIDManager
 w:QNAP.QVRProClient
+w:QNAP.NetBakPCAgent
+w:QNAP.QVPNClient
 w:QNAP.QfinderPro
 w:QNAP.NetBakReplicator
 w:QNapi.QNapi
