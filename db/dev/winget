@@ -43,6 +43,7 @@ w:Iconscout.Iconscout
 w:iLovePDF.iLovePDFDesktop
 w:IDEA.ReadPaper
 w:Iriun.IriunVR
+w:IBM.Aspera
 w:Insomnia.Insomnia
 w:Iceni.InfixPDFEditor
 w:IAMCloud.CloudDriveMapper
@@ -443,6 +444,7 @@ w:VRCX.VRCX
 w:Vonage.VonageBusiness
 w:ViGEm.ViGEmBus
 w:variar.klogg
+w:VSDC.Editor
 w:Velocidex.Velociraptor
 w:ViCon.viflow
 w:Vogan.TinyCodes
@@ -593,6 +595,8 @@ w:PolarGoose.ShowWhatProcessLocksFile
 w:PlazmaBurst2.PlazmaBurst2
 w:Primesieve.Primesieve
 w:PrestoSoft.ExamDiff
+w:Popokey.HL7SoupIntegrationHost
+w:Popokey.HL7Soup
 w:PhotonicsTUL.PLaSK
 w:Puppet.pdk
 w:Puppet.puppet_agent
@@ -1053,6 +1057,7 @@ w:dpaulat.supercell_wx
 w:developersu.ns_usbloader
 w:Dell.DisplayManager
 w:Dell.PeripheralManager
+w:Dell.DisplayAndPeripheralManager
 w:Dell.CommandUpdate
 w:Dell.CommandConfigure
 w:Doist.Todoist
