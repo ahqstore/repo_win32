@@ -353,6 +353,7 @@ w:ExacqTechnologies.exacqVisionClient
 w:EpicGames.EpicGamesLauncher
 w:Eraser.Eraser
 w:erengy.Taiga
+w:EricRaijmakers.Vidiot
 w:e2eSoft.iVCam
 w:Elastic.Metricbeat
 w:Elastic.Packetbeat
@@ -629,6 +630,7 @@ w:Prey.Prey
 w:PatrickWaweru.FLBMusic
 w:PilotEdge.MSFSclient
 w:PrivateInternetAccess.PrivateInternetAccess
+w:PCSX2Team.PCSX2
 w:PurpleI2P.i2pd
 w:PureDevSoftware.10x
 w:PureDevSoftware.MemPro
@@ -1393,6 +1395,7 @@ w:Stardock.Start10
 w:SearchDeflector.SearchDeflector
 w:SonicWall.GlobalVPNClient
 w:SonicWall.NetExtender
+w:SonicWall.ConnectTunnel
 w:SaeraSoft.CaesiumPH
 w:SaeraSoft.CaesiumImageCompressor
 w:SFLinux.Jami
@@ -1421,6 +1424,7 @@ w:Stream_Pi.Server
 w:Stream_Pi.Client
 w:SMPlayer.SMPlayer
 w:Suwayomi.Tachidesk_VaadinUI
+w:Suwayomi.Suwayomi_Server
 w:Suwayomi.Tachidesk_Sorayomi
 w:Suwayomi.Tachidesk_JUI
 w:SerhiiSlieptsov.Utilso
@@ -1836,6 +1840,7 @@ w:NetEase.CloudMusic
 w:NodirTemirkhodjaev.FortFirewall
 w:nzbget.nzbget
 w:NetSurf.NetSurf
+w:namazso.SecureUXTheme
 w:UMEZAWATakeshi.UtvideoCodecSuite
 w:UweSieber.USBDLM
 w:ULAB.PaintAid
@@ -2147,6 +2152,7 @@ w:Wings3D.Wings3D
 w:Wasmer.Wasmer
 w:writage.writage
 w:Waterfox.Waterfox
+w:Wind.WindFinancialTerminal
 w:WinsiderSS.SystemInformer
 w:WiXToolset.WiXAdditionalTools
 w:WiXToolset.WiXToolset
