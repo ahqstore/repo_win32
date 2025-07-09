@@ -2415,7 +2415,9 @@ w:Microsoft.LAPS
 w:Microsoft.AmendmentAppWordService
 w:Microsoft.AzureCLI
 w:Microsoft.DeploymentToolkit
+w:Microsoft.DotNet.DesktopRuntime.9
 w:Microsoft.DotNet.DesktopRuntime.6
+w:Microsoft.DotNet.DesktopRuntime.8
 w:Microsoft.PowerAutomateDesktop
 w:Microsoft.Sqlcmd
 w:Microsoft.VSTOR
