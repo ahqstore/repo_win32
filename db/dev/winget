@@ -71,6 +71,7 @@ w:IsWiX.IsWiX
 w:iOSGods.Sideloadly
 w:Internxt.Drive
 w:IDRIX.VeraCrypt
+w:iGEM.MEGA.CLI.12
 w:iFileSpace.iFileSpace
 w:Inkscape.Inkscape
 w:IndigoByte.DrExplain
@@ -287,6 +288,7 @@ w:easymodo.qimgv
 w:Eassos.DiskGenius
 w:Eassos.CuteRecovery
 w:everauto.zTasker
+w:ENERCALC.ENERCALC
 w:Elgato.4KCaptureUtility
 w:Elgato.WaveLink
 w:Elgato.StreamDeck
@@ -437,6 +439,8 @@ w:Vertexshare.WebpConverter
 w:Vijua.KotobeeAuthor
 w:Vijua.KotobeeReader
 w:Vijua.KotobeeNarrator
+w:Vernier.VernierInstrumentalAnalysis
+w:Vernier.VernierGraphicalAnalysis
 w:Veracode.CLI
 w:VentoByte.Proxifier
 w:vassalengine.VASSAL
@@ -1042,6 +1046,7 @@ w:DoltHub.Dolt
 w:dotenorio.clipboard_manager_electron
 w:DaimlerTruck.FleetboardCockpit
 w:Dio.PureCodec
+w:DocuSign.DocusignPKI
 w:deviceTRUST.deviceTRUSTClientExtension
 w:Deezer.Deezer
 w:DmitryKozhinov.IconEdit2
@@ -1759,6 +1764,7 @@ w:NICESoftware.AmazonDCVClient
 w:NICESoftware.AmazonDCVSessionManagerAgent
 w:NICESoftware.AmazonDCVServer
 w:Nefarius.HidHide
+w:Nanome.Nanome
 w:NathanBeals.WinSSH_Pageant
 w:NoVirusThanks.USBRadar
 w:NoVirusThanks.SysHardener
@@ -2120,6 +2126,10 @@ w:QMPlay2.QMPlay2
 w:Qalculate.Qalculate
 w:qBittorrent.qBittorrent
 w:Quanshi.QuanshiMeeting
+w:QIAGEN.CLCServerCommandLineTools
+w:QIAGEN.CLCMainWorkbench
+w:QIAGEN.CLCNetworkLicenseManager
+w:QIAGEN.CLCGenomicsWorkbench
 w:QNAP.QENCDecrypter
 w:QNAP.QuDedupExtractTool
 w:QNAP.Qsync
