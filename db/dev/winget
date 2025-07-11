@@ -1900,6 +1900,7 @@ w:MysteriumNetwork.Mysterium
 w:marha.VcXsrv
 w:MedZed.youtubetomp3
 w:MYOB.AccountRight
+w:MYOB.BankLinkBooks
 w:MPI.ELAN
 w:MongoDB.Shell
 w:MongoDB.MongoDBCLI
@@ -2895,6 +2896,7 @@ w:Couchbase.ServerCommunity
 w:Commitlint.Commitlint
 w:ClawsMail.ClawsMail
 w:CoderBag.QuickCPUx64
+w:CaprineLogic.CarePackage
 w:Clevertouch.Clevershare
 w:Cube.CubePlatform
 w:caobinrg.electron_office_tools
@@ -3320,6 +3322,7 @@ w:PolarGoose.CoffeeBean
 w:PolarGoose.ShowWhatProcessLocksFile
 w:PostgreSQL.psqlODBC
 w:PenguinLabs.Cacher
+w:powertab.powertabeditor
 w:pluveto.Daan
 w:PointPlanck.FileBot
 w:PRQL.prqlc
