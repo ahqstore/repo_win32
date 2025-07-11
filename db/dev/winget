@@ -13,6 +13,7 @@ w:iOSGods.Sideloadly
 w:Insomnia.Insomnia
 w:ICBC.SecEditCtl
 w:ICBC.ICBCEBankAssist
+w:Intralinks.IntralinksDesigner
 w:idrassi.HashCheckShellExtension
 w:Intel.oneMKL
 w:Intel.OSPRay
@@ -1502,6 +1503,7 @@ w:Teradata.TTUBase
 w:TaskPlays.TSWModManager
 w:thomasnordquist.MQTT_Explorer
 w:TPGi.CCA
+w:Timely.Memory
 w:TunnelBear.TunnelBear
 w:ThinkingManSoftware.Dimension4
 w:testmace.testmace
@@ -1896,6 +1898,7 @@ w:Mojang.MinecraftLauncher
 w:MysteriumNetwork.Mysterium
 w:marha.VcXsrv
 w:MedZed.youtubetomp3
+w:MYOB.AccountRight
 w:MPI.ELAN
 w:MongoDB.Shell
 w:MongoDB.MongoDBCLI
@@ -2028,6 +2031,7 @@ w:WiresharkFoundation.Wireshark
 w:WiresharkFoundation.Stratoshark
 w:WebalexEU.WinBGP
 w:WowUp.Wowup
+w:wanghongenpin.ProxyPin
 w:Workstreampeople.Anywhere365Integrator
 w:Wisedu.CAT
 w:WiXToolset.WiXAdditionalTools
@@ -2090,6 +2094,7 @@ w:WinUAE.WinUAE
 w:Webstudio.Webstudio
 w:Winlink.WinlinkExpress
 w:Webroot.SecureAnywhere
+w:WitteSoftware.ModbusSlave
 w:WillowSoftware.AnvilStudio
 w:Wind.WindFinancialTerminal
 w:WinDirStat.WinDirStat
@@ -2416,6 +2421,7 @@ w:EDCD.EliteDangerousMarketConnector
 w:EastMoney.EastMoney
 w:EastMoney.EastmoneySpeciality
 w:Emulationstation.Emulationstation
+w:esignatur.esignaturPrint
 w:ekvedaras.redis_gui
 w:Elastic.Heartbeat
 w:Elastic.Filebeat
@@ -3006,6 +3012,7 @@ w:CodeLite.CodeLite
 w:CorsixTH.CorsixTH
 w:ccoors.Valeronoi
 w:CodeSystems.TurboStudio
+w:Carbide3D.CarbideCreate
 w:cawa_93.anime_library
 w:Chill_Astro.PyCalc
 w:Chill_Astro.MsixCertImportTool
