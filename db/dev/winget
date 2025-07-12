@@ -816,6 +816,9 @@ w:AlexanderPershin.lsdeer
 w:ADInstruments.ConfigSoft
 w:ADInstruments.LabChartReader
 w:ADInstruments.LabChart
+w:ADInstruments.LabChart.Extension.Spirometry
+w:ADInstruments.LabChart.DeviceEnabler.Equivital
+w:ADInstruments.LabChart.DeviceEnabler.BloodFlowMeter
 w:ADInstruments.kuraCloudDesktop
 w:ADInstruments.LabChartLightning
 w:ADInstruments.GLPClient
@@ -1152,6 +1155,8 @@ w:Doist.Todoist
 w:daltonmenezes.electron_screen_recorder
 w:dune3d.dune3d
 w:Datto.Workplace
+w:DMT.MyoVIEW
+w:DMT.MyoPULSE
 w:Dutchview.Flexwhere
 w:Doxim.StriataReader
 w:DistroAV.DistroAV
