@@ -1,9 +1,12 @@
 use ahqstore_types::{
-  winget::Installer, AHQStoreApplication, AppRepo, DownloadUrl, InstallerFormat, InstallerOptions, InstallerOptionsWindows, WindowsInstallScope
+  winget::Installer, AHQStoreApplication, AppRepo, DownloadUrl, InstallerFormat, InstallerOptions,
+  InstallerOptionsWindows, WindowsInstallScope,
 };
 use serde_yaml::from_str;
 use std::{
-  collections::HashMap, fs::{self, File}, io::Write
+  collections::HashMap,
+  fs::{self, File},
+  io::Write,
 };
 use version_compare::Version;
 
@@ -80,9 +83,7 @@ impl Map {
     self.add_author(&app.authorId, &app.appId);
     self.entries += 1;
 
-    let _ = self
-      .c_file
-      .write(format!("\"w:{}\"", app.appId).as_bytes());
+    let _ = self.c_file.write(format!("\"w:{}\"", app.appId).as_bytes());
     let _ = self.search.write(
       format!(
         "{{\"name\": {}, \"title\": {}, \"id\": {}}}",
@@ -247,14 +248,19 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
 
           let mut msi: (Option<Installer>, Option<Installer>) = (None, None);
           let mut exe: (Option<Installer>, Option<Installer>) = (None, None);
+          let mut msix: (Option<Installer>, Option<Installer>) = (None, None);
 
           for x in installer.Installers {
-            let mut type_msi = x.InstallerUrl.ends_with(".msi");
-            let mut type_exe = x.InstallerUrl.ends_with(".exe");
+            let test_url = x.InstallerUrl.to_lowercase();
 
-            if !type_msi && !type_exe {
+            let mut type_msi = test_url.ends_with(".msi");
+            let mut type_exe = test_url.ends_with(".exe");
+            let mut type_msix = test_url.ends_with(".msixbundle");
+
+            if !type_msi && !type_exe && !type_msix {
               type_msi = http::cnt_dsp_check(&x.InstallerUrl, ".msi").await;
               type_exe = http::cnt_dsp_check(&x.InstallerUrl, ".exe").await;
+              type_msix = http::cnt_dsp_check(&x.InstallerUrl, ".msixbundle").await;
             }
 
             let locale = x.InstallerLocale.clone();
@@ -265,6 +271,10 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
                 msi.0 = Some(x);
               } else if type_msi && &arch == &"arm64" {
                 msi.1 = Some(x);
+              } else if type_msix && &arch == &"x64" {
+                msix.0 = Some(x);
+              } else if type_msix && &arch == &"arm64" {
+                msix.1 = Some(x);
               } else if type_exe && &arch == &"x64" {
                 exe.0 = Some(x);
               } else if type_exe && &arch == &"arm64" {
@@ -273,46 +283,58 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
             }
           }
 
-          let x64_dat = msi.0.map_or_else(
-            || exe.0.and_then(|x| Some((InstallerFormat::WindowsInstallerExe, x))),
-            |x| Some((InstallerFormat::WindowsInstallerMsi, x)),
-          );
-          let arm64_dat = msi.1.map_or_else(
-            || exe.1.and_then(|x| Some((InstallerFormat::WindowsInstallerExe, x))),
-            |x| Some((InstallerFormat::WindowsInstallerMsi, x)),
-          );
+          let x64_dat = if let Some(x) = msi.0 {
+            Some((InstallerFormat::WindowsInstallerMsi, x))
+          } else if let Some(x) = exe.0 {
+            Some((InstallerFormat::WindowsInstallerExe, x))
+          } else if let Some(x) = msix.0 {
+            Some((InstallerFormat::WindowsUWPMsix, x))
+          } else {
+            None
+          };
+          let x64_dat = if let Some(x) = msi.1 {
+            Some((InstallerFormat::WindowsInstallerMsi, x))
+          } else if let Some(x) = exe.1 {
+            Some((InstallerFormat::WindowsInstallerExe, x))
+          } else if let Some(x) = msix.1 {
+            Some((InstallerFormat::WindowsUWPMsix, x))
+          } else {
+            None
+          };
 
           let scope = installer.Scope;
 
-          let mut parse = |x: Option<(InstallerFormat, Installer)>| if let Some((installer, x)) = x {
-            let scope = match scope.as_str() {
-              "machine" => WindowsInstallScope::Machine,
-              "user" => WindowsInstallScope::User,
-              _ => WindowsInstallScope::User,
-            };
+          let mut parse = |x: Option<(InstallerFormat, Installer)>| {
+            if let Some((installer, x)) = x {
+              let scope = match scope.as_str() {
+                "machine" => WindowsInstallScope::Machine,
+                "user" => WindowsInstallScope::User,
+                _ => WindowsInstallScope::User,
+              };
 
-            if &x.Architecture == "x64" {
-              x64.installerType = installer;
+              if &x.Architecture == "x64" {
+                x64.installerType = installer;
 
-              x64.url = x.InstallerUrl;
+                x64.url = x.InstallerUrl;
 
-              win32 = Some(InstallerOptionsWindows {
-                assetId: 1,
-                exec: None,
-                installerArgs: None,
-                scope: Some(scope),
-              });
-            } else if &x.Architecture == "arm64" {
-              arm.installerType = installer;
+                win32 = Some(InstallerOptionsWindows {
+                  assetId: 1,
+                  exec: None,
+                  installerArgs: None,
+                  scope: Some(scope),
+                });
+              } else if &x.Architecture == "arm64" {
+                arm.installerType = installer;
 
-              arm.url = x.InstallerUrl;
+                arm.url = x.InstallerUrl;
 
-              winarm = Some(InstallerOptionsWindows {
-                assetId: 0,
-                exec: None,
-                installerArgs: None,
-                scope: Some(scope),
-              });
+                winarm = Some(InstallerOptionsWindows {
+                  assetId: 0,
+                  exec: None,
+                  installerArgs: None,
+                  scope: Some(scope),
+                });
+              }
             }
           };
 
@@ -382,7 +404,8 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
         letter,
         &format!("{author}/{app}/{}", product.to_str().unwrap_or("unknown")),
         map,
-      ).await;
+      )
+      .await;
     }
   }
 }
