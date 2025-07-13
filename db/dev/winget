@@ -557,6 +557,7 @@ w:GoCD.Agent
 w:GoCD.Server
 w:GitExtensionsTeam.GitExtensions
 w:GlyphrStudio.Desktop
+w:GraylogInc.GraylogSidecar
 w:gPodder.gPodder
 w:Greenshot.Greenshot
 w:Graphviz.Graphviz
@@ -1519,6 +1520,7 @@ w:terkelg.ramme
 w:TossLab.JANDI
 w:Trigone.SystemMonitor
 w:TuxGuitar.TuxGuitar
+w:ThomasGossler.OutlookCalendarSync
 w:Timeular.EARLY
 w:TorProject.TorBrowser
 w:Taiko2k.TauonMusicBox
@@ -2143,6 +2145,7 @@ w:Webroot.SecureAnywhere
 w:WitteSoftware.ModbusPoll
 w:WitteSoftware.ModbusSlave
 w:WillowSoftware.AnvilStudio
+w:Wanpath.MyWorkDriveClient
 w:Wind.WindFinancialTerminal
 w:WinDirStat.WinDirStat
 w:Wox.Wox
@@ -2798,6 +2801,7 @@ w:FlorianFechner.Cells
 w:Fabio286.antares
 w:Formlabs.PreForm
 w:FULI.PhoXoSee
+w:Loxone.LoxoneConfig
 w:Lazesoft.LazesoftRecovery
 w:LGUG2Z.masir
 w:LGUG2Z.whkd
