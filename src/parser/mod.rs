@@ -292,7 +292,7 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
           } else {
             None
           };
-          let x64_dat = if let Some(x) = msi.1 {
+          let arm64_dat = if let Some(x) = msi.1 {
             Some((InstallerFormat::WindowsInstallerMsi, x))
           } else if let Some(x) = exe.1 {
             Some((InstallerFormat::WindowsInstallerExe, x))
