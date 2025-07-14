@@ -674,6 +674,7 @@ w:GristLabs.GristDesktop
 w:GLPI_Project.GLPI_Agent
 w:Abacus.AbaClient
 w:amir1376.ABDownloadManager
+w:AlexanderLitvinov.AutoText
 w:azure06.clips
 w:Archi.Archi
 w:antonreshetov.massCode
@@ -1103,6 +1104,7 @@ w:Vernier.VernierInstrumentalAnalysis
 w:Vernier.VernierSpectralAnalysis
 w:Vernier.VernierGraphicalAnalysis
 w:vim.vim
+w:VaclavJedlicka.ProfiCAD
 w:VirtusLab.ScalaCLI
 w:VOWSoft.iBackupBot
 w:variar.klogg
