@@ -860,7 +860,6 @@ w:ADInstruments.LabChartLightning
 w:ADInstruments.GLPClient
 w:Autodesk.AutodeskAccess
 w:Alibaba.MiniProgramStudio
-w:Alibaba.DingTalk
 w:Alibaba.AliWorkbench
 w:Alibaba.Taobao
 w:Alibaba.LightProxy
@@ -3306,6 +3305,7 @@ w:Paragon.HFS+
 w:Postbox.Postbox
 w:PaddiM8.kalker
 w:PaulPacifico.ShutterEncoder
+w:PhotoVariantsSoftware.PhotoVariants
 w:PokerTH.PokerTH
 w:Poly.PolyLens
 w:Poly.PlantronicsHub
