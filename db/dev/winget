@@ -199,6 +199,7 @@ w:SnapNet.SnapNet
 w:sqlectron.sqlectron_gui
 w:SergeySerkov.TagScanner
 w:SerialStudio.SerialStudio
+w:SteamMemory.Fellou
 w:SeventhString.Transcribe
 w:Stardock.Curtains
 w:Stardock.Start10
@@ -405,6 +406,7 @@ w:Novacura.FlowServerManager
 w:Nanome.Nanome
 w:namazso.SecureUXTheme
 w:namazso.PawnIO
+w:NFON.Cloudya
 w:NimbusWeb.NimbusNote
 w:Nvidia.RTXVoice
 w:Nvidia.PhysXLegacy
@@ -547,6 +549,7 @@ w:Google.Pinyin
 w:Google.ChromeRemoteDesktopHost
 w:Google.AndroidStudio
 w:Google.AndroidGPUInspector
+w:Google.WorkspaceSyncForMicrosoftOutlook
 w:Google.GoogleWebDesigner
 w:Google.VPNByGoogleOne
 w:Google.JapaneseIME
@@ -2172,6 +2175,7 @@ w:WatchGuard.MobileVPNWithSSLClient
 w:Hashicorp.Vagrant
 w:HDDGURU.HDDLLFTool
 w:Haivision.libsrt
+w:HenrikWenz.All_in_OneMessenger
 w:HR.Crypter
 w:Hydrogen_Music.Hydrogen
 w:HMSoft.HMNISEdit
