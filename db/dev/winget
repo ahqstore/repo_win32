@@ -1440,7 +1440,6 @@ w:Testfully.Testfully
 w:TortoiseHg.TortoiseHg
 w:Tonec.InternetDownloadManager
 w:TRUSTSING.iMonitor
-w:TRUSTSING.iDefender
 w:TermoraDev.Termora
 w:titinko.utsu
 w:TravisLane.SteamArtManager
@@ -2070,6 +2069,7 @@ w:winaero.tweaker
 w:WasmEdge.WasmEdge
 w:WiseCleaner.WiseADCleaner
 w:WiseCleaner.WiseDuplicateFinder
+w:WiseCleaner.WiseDataRecovery
 w:WiseCleaner.WiseFolderHider
 w:WiseCleaner.WiseHotKey
 w:WidelandsDevelopmentTeam.Widelands
