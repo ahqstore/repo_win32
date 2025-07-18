@@ -182,6 +182,14 @@ w:SKDataAS.ORMCore
 w:SpeedCrunch.SpeedCrunch
 w:squalou.google_chat_linux
 w:Starpine.Screenbox
+w:SoftPerfect.NetworkScanner
+w:SoftPerfect.BandwidthManager
+w:SoftPerfect.WiFiGuard
+w:SoftPerfect.SwitchPortMapper
+w:SoftPerfect.ConnectionQualityMonitor
+w:SoftPerfect.NetWorx
+w:SoftPerfect.ConnectionEmulator
+w:SoftPerfect.NetGenius
 w:SoftPerfect.RAMDisk
 w:staniel359.muffon
 w:SplitmediaLabs.XSplitVCam
@@ -820,6 +828,7 @@ w:Avanquestpdfforge.PDFCreator_Professional
 w:Avanquestpdfforge.PDFCreator_Server
 w:Avanquestpdfforge.PDFCreator_Free
 w:Arm.GnuArmEmbeddedToolchain
+w:AnnyStudio.JPEGLosslessRotator
 w:Anki.Anki
 w:alexx2000.DoubleCommander
 w:Apryse.XodoPDFReader
