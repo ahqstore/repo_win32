@@ -365,6 +365,7 @@ w:Shooter.SPlayer
 w:Slite.Slite
 w:SumbitLabs.Aptakube
 w:Sohu.SHPlayer
+w:Silhouette.SilhouetteStudio
 w:SimnetLtd.SimpleStickyNotes
 w:Simego.DataSyncStudio
 w:SaferNetworking.SpybotAntiBeacon
@@ -990,7 +991,6 @@ w:Unity.UnityHub
 w:UnifiedIntents.UnifiedRemote
 w:UnionTech.DeepinCloudScanServer
 w:UnionTech.DeepinCloudPrintServer
-w:Uniconta.Uniconta
 w:Uzero.ScanScan
 w:univrsal.scrab
 w:univrsal.tuna
@@ -2072,6 +2072,7 @@ w:WiseCleaner.WiseDuplicateFinder
 w:WiseCleaner.WiseProgramUninstaller
 w:WiseCleaner.WiseDataRecovery
 w:WiseCleaner.WiseMemoryOptimizer
+w:WiseCleaner.WiseGameBooster
 w:WiseCleaner.WiseFolderHider
 w:WiseCleaner.WiseHotKey
 w:WidelandsDevelopmentTeam.Widelands
