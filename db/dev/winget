@@ -1128,7 +1128,6 @@ w:VMPK.VMPK
 w:VirusTotal.VirusTotalUploader
 w:VRCX.VRCX
 w:Veracode.CLI
-w:VMware.IntelligentHub
 w:Veloren.Airshipper
 w:ViCon.viflow
 w:Vup.Vup
@@ -1961,6 +1960,7 @@ w:mentebinaria.retoolkit
 w:MusicBrainz.Picard
 w:ModernFlyouts.ModernFlyouts
 w:MCreator.MCreator
+w:Maltego.Maltego
 w:Mojang.MinecraftLauncher
 w:MysteriumNetwork.Mysterium
 w:marha.VcXsrv
