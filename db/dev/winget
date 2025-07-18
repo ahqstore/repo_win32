@@ -821,7 +821,6 @@ w:ACLAP.DownloadHelperCoApp
 w:ActiveDirectoryPro.365ProToolkit
 w:ActiveDirectoryPro.ADProToolkit
 w:AwthWathje.SteaScree
-w:Agisoft.MetashapeStandard
 w:Anydo.Anydo
 w:Avanquestpdfforge.PDFCreator_Terminal_Server
 w:Avanquestpdfforge.PDFArchitect
@@ -2087,6 +2086,7 @@ w:WiseCleaner.WiseProgramUninstaller
 w:WiseCleaner.WiseDataRecovery
 w:WiseCleaner.WiseMemoryOptimizer
 w:WiseCleaner.WiseGameBooster
+w:WiseCleaner.WiseForceDeleter
 w:WiseCleaner.WiseFolderHider
 w:WiseCleaner.WiseHotKey
 w:WidelandsDevelopmentTeam.Widelands
