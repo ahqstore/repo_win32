@@ -2067,6 +2067,7 @@ w:Wagnardsoft.DisplayDriverUninstaller
 w:winaero.tweaker
 w:WasmEdge.WasmEdge
 w:WiseCleaner.WiseDiskCleaner
+w:WiseCleaner.WiseRegistryCleaner
 w:WiseCleaner.WiseADCleaner
 w:WiseCleaner.WiseDuplicateFinder
 w:WiseCleaner.WiseProgramUninstaller
@@ -2599,6 +2600,7 @@ w:Box.BoxForOffice
 w:Box.Box
 w:Box.BoxSync
 w:BlenderFoundation.Blender
+w:BlueprintFreespeech.RicochetRefresh
 w:BespokeSynth.BespokeSynth
 w:BZFlag.BZFlag
 w:BirdBrain.BlueBirdConnector
