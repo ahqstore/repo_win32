@@ -3062,6 +3062,11 @@ w:Clementine.Clementine
 w:ColorLogic.ZePrA
 w:Cockos.REAPER
 w:CoreyButler.NVMforWindows
+w:Cjwdev.ManagedServiceAccountsGUI
+w:Cjwdev.ADAccountResetTool
+w:Cjwdev.ServicePermissionsReporter
+w:Cjwdev.ProcessPrompt
+w:Cjwdev.GetLocalAdminsGUI
 w:ChilliBits.ComposeGenerator
 w:ChilliBits.Spice
 w:ChilliBits.CCom
