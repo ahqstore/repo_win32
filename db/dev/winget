@@ -2964,6 +2964,7 @@ w:c0re100.qBittorrent_Enhanced_Edition
 w:CertifyTheWeb.CertifySSLManager
 w:cinnyapp.cinny_desktop
 w:Creality.CrealityPrint
+w:Creality.HALOTBOX
 w:CartamundiDigital.Fundels
 w:CCL.NetLogo
 w:CeruleanStudios.Trillian
@@ -3066,6 +3067,7 @@ w:Cjwdev.ManagedServiceAccountsGUI
 w:Cjwdev.ADAccountResetTool
 w:Cjwdev.ServicePermissionsReporter
 w:Cjwdev.ProcessPrompt
+w:Cjwdev.FilePermissionsCheck
 w:Cjwdev.GetLocalAdminsGUI
 w:ChilliBits.ComposeGenerator
 w:ChilliBits.Spice
