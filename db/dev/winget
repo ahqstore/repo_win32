@@ -2520,7 +2520,10 @@ w:ES_DE.EmulationStation_DE
 w:Ebbflow.Ebbflow
 w:Enigma.VirtualBox
 w:EaseUS.PartitionMaster
+w:EaseUS.RecExperts
 w:EaseUS.TodoPCTrans
+w:EaseUS.MobiMover
+w:EaseUS.ChatTrans
 w:EaseUS.TodoBackup
 w:EQAditu.AdvancedCombatTracker
 w:ESET.Nod32
@@ -3060,6 +3063,7 @@ w:Chocolatey.ChocolateyGUI
 w:Chocolatey.Chocolatey
 w:coti.mcxstudio
 w:Clementine.Clementine
+w:ColorLogic.CoPrA
 w:ColorLogic.ZePrA
 w:Cockos.REAPER
 w:CoreyButler.NVMforWindows
