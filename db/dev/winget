@@ -1106,6 +1106,10 @@ w:vatis_project.vAtis
 w:Vysor.Vysor
 w:vassalengine.VASSAL
 w:vividos.winLAME
+w:VictronEnergy.DataControl
+w:VictronEnergy.VictronConnect
+w:VictronEnergy.VEConfigureTools
+w:VictronEnergy.VEPowerSetup
 w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:VoyagerX.Vrew
@@ -3320,6 +3324,7 @@ w:Primecount.Primecount
 w:PeterDaveHello.TransmissionRemoteGUI
 w:Popokey.HL7SoupIntegrationHost
 w:Popokey.HL7Soup
+w:PEAKSystem.PEAKDrivers
 w:PA7LIM.BlueDV
 w:PA7LIM.Doozy
 w:Puppet.puppet_bolt
@@ -3358,6 +3363,7 @@ w:Poly.PlantronicsHub
 w:PlazmaBurst2.PlazmaBurst2
 w:PDFsam.PDFsam
 w:PrestoSoft.ExamDiff
+w:PROSA.Log4View
 w:PrivateInternetAccess.PrivateInternetAccess
 w:Prowise.ProwiseReflect
 w:Prowise.ProwisePresenter
