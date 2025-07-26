@@ -720,7 +720,6 @@ w:alesimula.wsa_pacman
 w:Avanquest.SodaPDFDesktop
 w:AsaphaHalifa.AudioRelay
 w:AlexanderKojevnikov.Spek
-w:aluxnimm.outlookcaldavsynchronizer
 w:AhoyLabs.BackyardAI
 w:AdrienAllard.FileConverter
 w:ArtemChepurnyi.Keyguard
@@ -1254,6 +1253,9 @@ w:DasCanard.Radioss
 w:darktable.darktable
 w:DisruptiveInnovations.BlueGriffon
 w:deviceTRUST.deviceTRUSTClientExtension
+w:Danfoss.CCMS
+w:Danfoss.CoolConfig
+w:Danfoss.TTServiceMonitoringTools
 w:DeepCool.DeepCool
 w:DevToys_app.DevToys
 w:deepnight.LDtk
