@@ -3332,7 +3332,6 @@ w:Puppet.puppet_bolt
 w:Puppet.puppet_agent
 w:Puppet.pdk
 w:ProjectEnv.ProjectEnvCli
-w:Pritunl.Pritunl
 w:Pritunl.PritunlClient
 w:PicoTorrent.PicoTorrent
 w:PrintNode.PrintNode
