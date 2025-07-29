@@ -71,6 +71,7 @@ w:i2van.hourglass
 w:IPU.SecCool
 w:IPU.CoolTools
 w:IPU.SimpleOneStageCO2Cycle
+w:IPU.CoolPack
 w:IPU.PackCalculationPro
 w:isl_kocher.isl_baustellenmanager
 w:IDRIX.VeraCrypt
@@ -1374,6 +1375,7 @@ w:OpenAudible.OpenAudible
 w:OpenShot.OpenShot
 w:OpenShopChannel.Downloader
 w:Orwell.Dev_C++
+w:OneSpan.DIGIPASSeIDPlugin
 w:OpenRails.OpenRails
 w:OpenPHDGuiding.PHD2
 w:OpenSight.FlashFXP
@@ -2158,6 +2160,7 @@ w:Wings3D.Wings3D
 w:whitewaterfoundry.fedora_remix_for_wsl
 w:Wildix.WildixCollaboration
 w:Waterfox.Waterfox
+w:Waterfox.WaterfoxClassic
 w:Wasmer.Wasmer
 w:wkhtmltopdf.wkhtmltox
 w:WonderIdea.YXVideoMaker
