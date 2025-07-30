@@ -93,6 +93,13 @@ w:IObit.ProtectedFolder
 w:IObit.AdvancedSystemCare
 w:IObit.IObitSoftwareUpdater
 w:IObit.DriverBooster
+w:IPEVO.VirtualCamController
+w:IPEVO.Vurbo_ai
+w:IPEVO.VisualizerLTSE
+w:IPEVO.Annotator
+w:IPEVO.Visualizer
+w:IPEVO.CamControl
+w:IPEVO.EyeStage
 w:Ideagen.Huddle
 w:Invo.InvoConnect
 w:InstEd.InstEd
@@ -2161,6 +2168,7 @@ w:WinFsp.WinFsp
 w:Wings3D.Wings3D
 w:whitewaterfoundry.fedora_remix_for_wsl
 w:Wildix.WildixCollaboration
+w:Wildix.WildixIntegrationService
 w:Waterfox.Waterfox
 w:Waterfox.WaterfoxClassic
 w:Wasmer.Wasmer
