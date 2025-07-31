@@ -1547,6 +1547,7 @@ w:Thorlabs.XA
 w:Thorlabs.MC2000B
 w:Thorlabs.LCC25
 w:Thorlabs.TC200
+w:Thorlabs.MC2000
 w:Thorlabs.ThorAOControl
 w:Thorlabs.ThorlabsImagingSystemsSoftware
 w:Thorlabs.CCT
@@ -2901,6 +2902,9 @@ w:FlorianFechner.Cells
 w:Fabio286.antares
 w:Formlabs.PreForm
 w:FULI.PhoXoSee
+w:LANCOM.LANconfig
+w:LANCOM.WirelessePaperServer
+w:LANCOM.LANmonitor
 w:Loxone.LoxoneConfig
 w:Lazesoft.LazesoftRecovery
 w:LGUG2Z.masir
