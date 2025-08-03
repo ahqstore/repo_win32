@@ -20,6 +20,7 @@ w:Intel.OSPRay
 w:Intel.PresentMon
 w:Intel.FortranCompiler
 w:InterActionstudios.ChickenInvaders1
+w:IntegrIT.Hackolade
 w:ItchIo.Itch
 w:iFlytek.iFlyRecSI
 w:iFlytek.iFlyDocs
@@ -37,6 +38,7 @@ w:Invantive.InvantiveOptimizer
 w:Invantive.InvantiveBusinessForOutlook
 w:Invantive.InvantiveAuthenticator
 w:Invantive.InvantiveCompositionForWord
+w:Invantive.InvantiveBridgeForDevelopers
 w:Invantive.InvantiveControlForExcel
 w:Invantive.InvantiveEstateForWindows
 w:Invantive.InvantiveStudio
@@ -1395,6 +1397,7 @@ w:OpenSC.OpenSC
 w:oberrich.win11_toggle_rounded_corners
 w:ossia.score
 w:OpenChemistry.Avogadro2
+w:OwenMarshall.PerlPrimer
 w:Ollama.Ollama
 w:OpenGOAL.Launcher
 w:Objective.Redact
@@ -1443,6 +1446,7 @@ w:TinyCraft.TinyRDM
 w:Telerik.FiddlerPDFView
 w:Timthreetwelve.WUView
 w:TwibrightLabs.Links
+w:Tricerat.ScrewDriversClient
 w:Terrastruct.D2
 w:Thunder.Thunder
 w:Thunder.Xmp
@@ -1554,6 +1558,7 @@ w:Thorlabs.S7FC
 w:Thorlabs.TSP01
 w:Thorlabs.EXULUS_SE1
 w:Toit.Toit
+w:TeXnicCenter.TeXnicCenter
 w:TeXstudio.TeXstudio
 w:Taomee.Mole
 w:Tiled.Tiled
@@ -1595,6 +1600,7 @@ w:THS.THS
 w:THS.HXSmart
 w:theIYD.coursehunt
 w:ThioJoe.SvgThumbnailExtension
+w:TIMi.TIMi
 w:tanshuai.alphabiz
 w:TeamDriveSystems.TeamDrive
 w:TransformerLab.TransformerLab
@@ -2177,6 +2183,7 @@ w:Wildix.WildixIntegrationService
 w:Waterfox.Waterfox
 w:Waterfox.WaterfoxClassic
 w:Wasmer.Wasmer
+w:Wampserver.Wampserver
 w:wkhtmltopdf.wkhtmltox
 w:WonderIdea.YXVideoMaker
 w:WonderIdea.FlipPDFPlus
@@ -2649,6 +2656,7 @@ w:Beeper.Beeper
 w:Biyi.Biyi
 w:Bisq.Bisq
 w:BartelsMedia.ShareMouse
+w:basement_nl.Teach2000
 w:BotProductions.IconViewer
 w:BotProductions.PSPThumbnailHandler
 w:Bytello.BytelloShare
@@ -2893,6 +2901,7 @@ w:FxSound.FxSound
 w:Feodor2.Mypal
 w:Figma.FigmaAgent
 w:FeatherWallet.Feather
+w:FEITIAN.SKManager
 w:Fortinet.FortiClientVPN
 w:Fortra.GoAnywhereOpenPGPStudio
 w:FlorianHeidenreich.Mp3tag
@@ -3215,6 +3224,7 @@ w:CoreFTP.FTPServer
 w:ControlUp.ControlUpAgent
 w:CONZEInformatik.Vistrax
 w:Cal.Cal
+w:Citilab.S4A
 w:chrisant996.Clink
 w:Chadsoft.CTools
 w:ChristianHohnstadt.xca
@@ -3371,7 +3381,6 @@ w:YggdrasilNetwork.Yggdrasil
 w:purocean.YankNote
 w:PCSX2Team.PCSX2
 w:PokeMMO.PokeMMO
-w:Perimeter81Ltd.Perimeter81Ltd
 w:Posit.rig
 w:Posit.RStudio
 w:pavlobu.deskreen
@@ -3463,6 +3472,7 @@ w:Plex.PlexHTPC
 w:Plex.Plex
 w:Plex.Plexamp
 w:Plex.PlexMediaPlayer
+w:PicoTechnology.PicoLog
 w:Postman.PostmanAgent
 w:Postman.Postman
 w:PhotonicsTUL.PLaSK
