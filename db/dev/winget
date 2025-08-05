@@ -982,6 +982,10 @@ w:AtomicJar.Testcontainers
 w:Auslogics.WindowsSlimmer
 w:Auslogics.DuplicateFileFinder
 w:Auslogics.DiskDefrag
+w:Auslogics.FileRecovery
+w:Auslogics.BitReplica
+w:Auslogics.DriverUpdater
+w:Auslogics.RegistryDefrag
 w:Auslogics.VideoGrabber
 w:Auslogics.SSDOptimizer
 w:Auslogics.BoostSpeed
@@ -2618,6 +2622,7 @@ w:EaseUS.TodoBackup
 w:EQAditu.AdvancedCombatTracker
 w:ESET.Nod32
 w:ESET.Security
+w:ESET.EndpointSecurity
 w:EverEdit.EverEdit
 w:Ethereum.grid
 w:Ethereum.geth
