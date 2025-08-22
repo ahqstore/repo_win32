@@ -222,7 +222,6 @@ w:Proton.ProtonVPN
 w:Proton.ProtonMailBridge
 w:PhotonicsTUL.PLaSK
 w:Polyv.PolyvLiveCommunity
-w:Polyv.PolyvLive
 w:Polyv.PolyvDirector
 w:PearAI.PearAI
 w:PRC.ExcireFoto
@@ -582,7 +581,6 @@ w:SerhiiSlieptsov.Utilso
 w:szTheory.exifcleaner
 w:Sharpened.FileViewerPlus
 w:Sharpened.FileViewerLite
-w:SimnetLtd.SimpleStickyNotes
 w:SVZsoft.GEDKeeper
 w:SourceGear.DiffMerge
 w:SlashedIo.Inssist
@@ -1620,6 +1618,7 @@ w:tomlm.electron_outlook_365
 w:TheDocumentFoundation.LibreOffice
 w:Taomee.Mole
 w:Texthelp.AutoCorrect
+w:Texthelp.Equatio
 w:TSDuck.TSDuck
 w:TUitTUWien.TUtoolbox
 w:TunnelBear.TunnelBear
