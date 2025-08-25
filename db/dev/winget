@@ -1168,6 +1168,7 @@ w:WorksMobile.NAVERWORKS
 w:Wazuh.WazuhAgent
 w:Wampserver.Wampserver
 w:Webroot.SecureAnywhere
+w:Webroot.UniversalReporter
 w:WowUp.Wowup
 w:WaterbugStudios.Mazerator
 w:5E.5EClient
@@ -2784,6 +2785,7 @@ w:Elastic.Heartbeat
 w:Elastic.Packetbeat
 w:Elastic.Metricbeat
 w:ENERCALC.ENERCALC
+w:ENVI_met.ENVI_met
 w:esignatur.esignaturPrint
 w:ElectronCash.ElectronCash
 w:ES_Computing.EditPlus
@@ -3236,6 +3238,7 @@ w:Keysight.SoftwareManagerUtility
 w:Keysight.PathWaveLicenseManager
 w:kelibiao.kelibiao
 w:KoushikNaskar.InteractiveDataEditor
+w:Kensington.KensingtonKonnect
 w:KindaBrazy.LynxHub
 w:Khoj.Khoj
 w:Kitemaker.Kitemaker
