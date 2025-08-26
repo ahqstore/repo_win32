@@ -56,6 +56,7 @@ w:VoyagerX.Vrew
 w:Vernier.VernierGraphicalAnalysis
 w:Vernier.VernierInstrumentalAnalysis
 w:Vernier.VernierSpectralAnalysis
+w:Vernier.LoggerLite
 w:Versa.MagiCut
 w:Vitzo.ClipClip
 w:Veracode.CLI
@@ -1632,6 +1633,7 @@ w:TeamDriveSystems.TeamDrive
 w:TermoraDev.Termora
 w:Timthreetwelve.WUView
 w:TristanEdwards.Codespace
+w:Trimble.TrimbleConnect
 w:Trimble.SketchUpViewer
 w:ThanhLe.RefiApp
 w:Texnomic.SecureDNS_Terminal
@@ -1654,6 +1656,7 @@ w:TortoiseSVN.TortoiseSVN
 w:TravisGoodspeed.MaskROMTool
 w:TexasInstruments.TIConnect
 w:TexasInstruments.FusionDigitalPowerDesigner
+w:TexasInstruments.TI_Admin
 w:ThePyzoteam.pyzo
 w:TeXnicCenter.TeXnicCenter
 w:Termius.Termius
@@ -3072,6 +3075,7 @@ w:Apple.AppleSoftwareUpdate
 w:Apple.Bonjour
 w:Apple.iCloud
 w:Apple.AppleMobileDeviceSupport
+w:Avaya.AvayaWorkplace
 w:Anker.AnkerMake
 w:AwthWathje.SteaScree
 w:amir1376.ABDownloadManager
