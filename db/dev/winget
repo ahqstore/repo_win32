@@ -206,6 +206,7 @@ w:ContourDesign.ContourShuttle
 w:clsid2.mpc_hc
 w:Cendio.ThinLincClient
 w:Corel.MindManager
+w:Corel.WinZip
 w:CloudStack.Msty
 w:CPUID.CPU_Z
 w:CPUID.HWMonitor
@@ -1040,6 +1041,7 @@ w:RIA.eIDsoftware
 w:RIA.Libdigidocpp
 w:RIA.DigiDoc4
 w:RODE.RODECentral
+w:RODE.RODECasterApp
 w:RODE.Rode_Connect
 w:raimo.Smallpdf
 w:RenewedVision.ProPresenter
