@@ -188,6 +188,8 @@ w:CrystalDewWorld.CrystalMarkRetro
 w:CorsixTH.CorsixTH
 w:CTerm.CTerm
 w:ComfortSoftwareGroup.FreeAlarmClock
+w:ComfortSoftwareGroup.ComfortKeysPro
+w:ComfortSoftwareGroup.ComfortClipboardPro
 w:Clevertouch.Clevershare
 w:ChefSoftware.InfraClient
 w:ChefSoftware.Workstation
@@ -387,6 +389,7 @@ w:Mirasoft.AnyVizCloudAdapter
 w:MLMGames.VeloDown
 w:MasterPackager.MasterPackager
 w:muffinista.before_dawn
+w:MiTeC.ProjectMaker
 w:MiTeC.InfoBar
 w:MakerBot.MakerBotPrint
 w:Mostaqem.Mostaqem
@@ -1275,6 +1278,7 @@ w:LogMeIn.Hamachi
 w:LBRY.LBRY
 w:Loxone.LoxoneConfig
 w:LIGHTNINGUK.ImgBurn
+w:LopeSoft.LopeEdit
 w:LopeSoft.FileMenuTools
 w:luizzak.GIFViewer
 w:Litecoin.Core
@@ -1299,6 +1303,7 @@ w:AGTEK.MaterialsSA
 w:AGTEK.Gradework
 w:AdsPower.AdsPower
 w:AderitoNeto.AfterLife
+w:aelassas.Servy
 w:AngusJohnson.ResourceHacker
 w:AngusJohnson.PDFTKBuilder
 w:AlbrechtL.WelleIO
@@ -1592,6 +1597,7 @@ w:Auslogics.FileRecovery
 w:Auslogics.DuplicateFileFinder
 w:Auslogics.BitReplica
 w:Auslogics.RegistryDefrag
+w:Auslogics.ChillMate
 w:Auslogics.RegistryCleaner
 w:Auslogics.DriverUpdater
 w:Auslogics.BoostSpeed
@@ -1929,6 +1935,7 @@ w:WebalexEU.WinBGP
 w:WorksMobile.NAVERWORKS
 w:WaterbugStudios.Mazerator
 w:Warzone2100Project.Warzone2100
+w:WjjSoft.MybaseDesktop
 w:Wazuh.WazuhAgent
 w:WowUp.Wowup
 w:Wiesemann_Theis.USB_Redirector
@@ -2202,6 +2209,7 @@ w:GnuWin32.Tree
 w:GnuWin32.GetText
 w:garethgeorge.Backrest
 w:Glarysoft.GlaryUtilities
+w:Glarysoft.AbsoluteUninstaller
 w:GuinpinSoft.MakeMKV
 w:GanttProject.GanttProject
 w:gPodder.gPodder
@@ -2330,6 +2338,7 @@ w:SourceFoundry.HackFonts
 w:SVGExplorerExtension.SVGExplorerExtension
 w:SrcBox.GKrellM
 w:SMARTTechnologies.SMARTMirror
+w:ScreamingFrog.LogFileAnalyser
 w:ScreamingFrog.SEOSpider
 w:Status.Status
 w:SleuthKit.Autopsy
@@ -2436,6 +2445,7 @@ w:Santesoft.SanteWebDownloader
 w:Santesoft.SanteDicomViewerPro
 w:Santesoft.SantePacsServer
 w:Santesoft.SanteDicomViewerLite
+w:Santesoft.SanteFftImaging
 w:Santesoft.SanteDicomEditor
 w:Santesoft.SanteWorklistServer
 w:Santesoft.SantePacsServerFree
@@ -3579,6 +3589,7 @@ w:IPU.SecCool
 w:IEInspector.HTTPAnalyzer
 w:IcecreamApps.PDFCandy
 w:Icons8.Lunacy
+w:Icons8.Pichon
 w:IntegrIT.Hackolade
 w:Insomnia.Insomnia
 w:iQIYI.GeePlayer
