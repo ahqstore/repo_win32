@@ -835,6 +835,7 @@ w:haneWIN.DHCPServer
 w:haneWIN.NFSServer
 w:haneWIN.LLDPAgent
 w:haneWIN.DNSServer
+w:haneWIN.TFTPServer
 w:Dutchview.Flexwhere
 w:DeepCool.DeepCool
 w:DolphinComputerAccess.EasyReader
@@ -1946,6 +1947,7 @@ w:WorksMobile.NAVERWORKS
 w:WaterbugStudios.Mazerator
 w:Warzone2100Project.Warzone2100
 w:WjjSoft.MybaseDesktop
+w:WjjSoft.MybaseServer
 w:Wazuh.WazuhAgent
 w:WowUp.Wowup
 w:Wiesemann_Theis.USB_Redirector
