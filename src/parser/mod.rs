@@ -342,9 +342,9 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
           parse(arm64_dat);
 
           let app = AHQStoreApplication {
-            appDisplayName: en_us.PackageName,
+            appDisplayName: en_us.PackageName.clone(),
             appId: app_id.replace("-", "_"),
-            appShortcutName: format!("Winget Application"),
+            appShortcutName: en_us.PackageName,
             authorId: format!("winget"),
             description: format!(
               "{}\n\n{}\n{}",
