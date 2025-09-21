@@ -188,7 +188,9 @@ w:CorsixTH.CorsixTH
 w:CTerm.CTerm
 w:ComfortSoftwareGroup.FreeAlarmClock
 w:ComfortSoftwareGroup.ComfortKeysPro
+w:ComfortSoftwareGroup.ComfortOSK
 w:ComfortSoftwareGroup.ComfortClipboardPro
+w:ComfortSoftwareGroup.HotAlarmClock
 w:Clevertouch.Clevershare
 w:ChefSoftware.InfraClient
 w:ChefSoftware.Workstation
@@ -895,6 +897,7 @@ w:DuckDB.cli
 w:DigiDNA.iMazingHEICConverter
 w:DigiDNA.iMazing
 w:DigiDNA.iMazingProfileEditor
+w:DSwiss.SecureSafe
 w:DDEVFoundation.DDEV
 w:deviceTRUST.deviceTRUSTClientExtension
 w:DocuSign.DocusignPKI
@@ -1441,6 +1444,7 @@ w:accellence.vimaccEnterprise
 w:accellence.vimaccProfessional
 w:accellence.vimacc
 w:Ablaze.Floorp
+w:AETEurope.SafeSignICMiniDriver
 w:Aurora.Aurora
 w:AlexanderShaduri.GSmartControl
 w:AveekSaha.DuskPlayer
@@ -1710,7 +1714,9 @@ w:Nickvision.Parabolic
 w:Nozbe.NozbePersonal
 w:NativeSoft.NativeRest
 w:NuitsJp.ClaudeToZenn
+w:Nevercenter.CameraBagPro
 w:Nevercenter.Pixelmash
+w:Nevercenter.CameraBagPhoto
 w:Nevercenter.Milo
 w:NAVER.MYBOX
 w:NWEA.NWEASecureTestingBrowser
@@ -2227,6 +2233,7 @@ w:Geany.Geany
 w:GnuWin32.Tree
 w:GnuWin32.GetText
 w:garethgeorge.Backrest
+w:Granola.Granola
 w:Glarysoft.GlaryUtilities
 w:Glarysoft.AbsoluteUninstaller
 w:GuinpinSoft.MakeMKV
@@ -2897,6 +2904,7 @@ w:PRC.ExcireFoto
 w:PopcornTime.Popcorn_Time_Ru
 w:PopcornTime.Popcorn_Time
 w:pavlobu.deskreen
+w:presono.presono
 w:PatchMyPC.PatchMyPC
 w:PathofBuildingCommunity.PathofBuildingCommunity
 w:Posit.rig
@@ -3263,6 +3271,7 @@ w:XLDevelopment.UPnPWizard
 w:Xidicone.AgentGit
 w:Xidicone.AgentSVN
 w:XMoto.XMoto
+w:XKaguya.LenovoLegionToolkit
 w:XmacsLabs.Mogan
 w:xpra_org.xpra
 w:xiles.NexusFont
