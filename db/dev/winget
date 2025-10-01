@@ -769,12 +769,15 @@ w:Vertexshare.WebpConverter
 w:VovSoft.AutoMouseClicker
 w:VovSoft.CryptocurrencyTracker
 w:VovSoft.BatchImageConverter
+w:VovSoft.DirectoryMonitor
 w:VovSoft.ContainerLoadingCalculator
 w:VovSoft.BulkDomainAppraisal
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.AIRequester
+w:VovSoft.DesktopDiary
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.BatchURLDownloader
+w:VovSoft.CSVtoVCFConverter
 w:VovSoft.CopyFilesIntoMultipleFolders
 w:VovSoft.CSVSplitter
 w:VovSoft.CollectURL
