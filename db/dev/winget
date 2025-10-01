@@ -767,13 +767,16 @@ w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:VovSoft.AutoMouseClicker
 w:VovSoft.BatchImageConverter
+w:VovSoft.ContainerLoadingCalculator
 w:VovSoft.BulkDomainAppraisal
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.AIRequester
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.BatchURLDownloader
+w:VovSoft.CopyFilesIntoMultipleFolders
 w:VovSoft.CollectURL
 w:VovSoft.CompareTwoTexts
+w:VovSoft.ConvertVideoToAudio
 w:VovSoft.BatchAudioConverter
 w:VovSoft.ContactManager
 w:VaclavJedlicka.ProfiCAD
