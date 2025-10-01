@@ -788,8 +788,10 @@ w:VovSoft.CompareTwoTexts
 w:VovSoft.ConvertVideoToAudio
 w:VovSoft.BatchAudioConverter
 w:VovSoft.DiskMonitorGadget
+w:VovSoft.PasswordGenerator
 w:VovSoft.CPUBenchmark
 w:VovSoft.DownloadMailboxEmails
+w:VovSoft.TimeSync
 w:VovSoft.ContactManager
 w:VaclavJedlicka.ProfiCAD
 w:Vial.Vial
