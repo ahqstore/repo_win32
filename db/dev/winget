@@ -66,6 +66,7 @@ w:TablePlus.TablePlus
 w:TuneIn.TuneIn
 w:TedZyzsdy.NegativeEncoder
 w:TransendInfo.SSDScopeApp
+w:TGRMNSoftware.ViceVersaPro
 w:TGRMNSoftware.BulkRenameUtility
 w:TransformerLab.TransformerLab
 w:TechHit.JumpToWindow
@@ -778,6 +779,7 @@ w:VovSoft.CollectURL
 w:VovSoft.CompareTwoTexts
 w:VovSoft.ConvertVideoToAudio
 w:VovSoft.BatchAudioConverter
+w:VovSoft.CPUBenchmark
 w:VovSoft.ContactManager
 w:VaclavJedlicka.ProfiCAD
 w:Vial.Vial
@@ -2781,6 +2783,7 @@ w:HTTPToolKit.HTTPToolKit
 w:Hirschmann.NotebookFanControl
 w:H_BAU.FERBOXDesign
 w:H_BAU.ISODESIGN
+w:Hexler.TouchOSC
 w:Hexler.TouchOSC_Bridge
 w:Hitencent.JisuPDFEditor
 w:Hitencent.JisuPDF
