@@ -766,8 +766,11 @@ w:VincentL.Harmony
 w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:VovSoft.AutoMouseClicker
+w:VovSoft.BatchImageConverter
+w:VovSoft.BulkDomainAppraisal
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.AIRequester
+w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.BatchURLDownloader
 w:VovSoft.CollectURL
 w:VovSoft.BatchAudioConverter
@@ -3163,6 +3166,7 @@ w:OpenTTD.OpenTTD
 w:OpenShot.OpenShot
 w:OliverSchwendener.ueli
 w:OpenCPN.OpenCPN
+w:OpenVPNTechnologies.OpenVPNConnect
 w:OpenVPNTechnologies.OpenVPN
 w:OpenLPDevelopers.OpenLP
 w:OverlayedDev.Overlayed
