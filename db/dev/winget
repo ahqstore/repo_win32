@@ -775,9 +775,11 @@ w:VovSoft.ContainerLoadingCalculator
 w:VovSoft.BulkDomainAppraisal
 w:VovSoft.HTTPRequester
 w:VovSoft.BatchVideoUpscaler
+w:VovSoft.WebPlatformIdentifier
 w:VovSoft.AIRequester
 w:VovSoft.WindowResizer
 w:VovSoft.TextEditPlus
+w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.DesktopDiary
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.BatchURLDownloader
@@ -797,6 +799,7 @@ w:VovSoft.BatchAudioConverter
 w:VovSoft.DiskMonitorGadget
 w:VovSoft.PasswordGenerator
 w:VovSoft.CPUBenchmark
+w:VovSoft.ProxyServer
 w:VovSoft.DownloadMailboxEmails
 w:VovSoft.TimeSync
 w:VovSoft.ContactManager
