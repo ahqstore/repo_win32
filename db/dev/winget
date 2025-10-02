@@ -781,7 +781,9 @@ w:VovSoft.WindowResizer
 w:VovSoft.TextEditPlus
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.DesktopDiary
+w:VovSoft.VoiceChanger
 w:VovSoft.BulkBarcodeGenerator
+w:VovSoft.SEOChecker
 w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
 w:VovSoft.PDFReader
@@ -791,11 +793,13 @@ w:VovSoft.CSVSplitter
 w:VovSoft.DomainChecker
 w:VovSoft.CollectURL
 w:VovSoft.DocumentManager
+w:VovSoft.TextToMP3Converter
 w:VovSoft.WebcamCapture
 w:VovSoft.CompareTwoTexts
 w:VovSoft.ConvertVideoToAudio
 w:VovSoft.HideFiles
 w:VovSoft.BatchAudioConverter
+w:VovSoft.WebsiteFileCollector
 w:VovSoft.DiskMonitorGadget
 w:VovSoft.PasswordGenerator
 w:VovSoft.CPUBenchmark
@@ -803,6 +807,7 @@ w:VovSoft.ProxyServer
 w:VovSoft.DownloadMailboxEmails
 w:VovSoft.TimeSync
 w:VovSoft.ContactManager
+w:VovSoft.OCRReader
 w:VaclavJedlicka.ProfiCAD
 w:Vial.Vial
 w:VirtualGL.TurboVNC
