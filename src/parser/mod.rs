@@ -354,7 +354,8 @@ async fn app_parse(letter: &str, author: &str, map: &mut Map) {
             ),
             displayImages: vec![],
             releaseTagName: format!("winget-{}", v),
-            version: v,
+            usrVersion: v,
+            version: 0,
             source: en_us.Publisher,
             license_or_tos: en_us.License,
             repo: AppRepo {
