@@ -769,6 +769,7 @@ w:VincentL.Harmony
 w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:VovSoft.AutoMouseClicker
+w:VovSoft.BrokenLinkDetector
 w:VovSoft.CryptocurrencyTracker
 w:VovSoft.BatchImageConverter
 w:VovSoft.FilenameLister
@@ -788,6 +789,7 @@ w:VovSoft.TextEditPlus
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
 w:VovSoft.DesktopDiary
+w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
 w:VovSoft.KeyboardSoundboard
 w:VovSoft.VoiceChanger
@@ -797,6 +799,7 @@ w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.ExternalLinkDetector
 w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
+w:VovSoft.CSVtoJSONConverter
 w:VovSoft.HTMLStripper
 w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
