@@ -780,6 +780,7 @@ w:VovSoft.ContainerLoadingCalculator
 w:VovSoft.BulkDomainAppraisal
 w:VovSoft.HTTPRequester
 w:VovSoft.BulkQRCodeGenerator
+w:VovSoft.ExecutableBitScanner
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.WebPlatformIdentifier
 w:VovSoft.AIRequester
@@ -3034,6 +3035,7 @@ w:dnGrep.dnGrep
 w:DygmaLabs.Bazecor
 w:dpaulat.supercell_wx
 w:DiRoots.AppManager
+w:DiRoots.ProSheets
 w:Dutchview.Flexwhere
 w:duyxyz.PyDeploy
 w:DistroAV.DistroAV
