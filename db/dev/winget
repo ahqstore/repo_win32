@@ -793,6 +793,7 @@ w:VovSoft.BatchImageUpscaler
 w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
 w:VovSoft.KeyboardSoundboard
+w:VovSoft.ResourceExtractor
 w:VovSoft.VoiceChanger
 w:VovSoft.VovStickyNotes
 w:VovSoft.WebsiteWatcher
@@ -806,6 +807,7 @@ w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
 w:VovSoft.PDFReader
 w:VovSoft.CSVtoVCFConverter
+w:VovSoft.AutoChangeScreensavers
 w:VovSoft.BatchImageResizer
 w:VovSoft.CopyFilesIntoMultipleFolders
 w:VovSoft.CSVSplitter
@@ -829,6 +831,7 @@ w:VovSoft.ProxyServer
 w:VovSoft.DownloadMailboxEmails
 w:VovSoft.FaceDetector
 w:VovSoft.ProxySwitcher
+w:VovSoft.CreateImageGallery
 w:VovSoft.RegExExtractor
 w:VovSoft.FileSplitterAndJoiner
 w:VovSoft.TimeSync
@@ -3646,6 +3649,7 @@ w:PRC.ExcireFoto
 w:PremiumSoft.NavicatOnPremServer
 w:PremiumSoft.NavicatBI
 w:PremiumSoft.NavicatOracle
+w:PremiumSoft.NavicatBIViewer
 w:PTRTECH.UVtools
 w:PTRTECH.NetSonar
 w:ProjectLibre.ProjectLibre
@@ -3704,6 +3708,7 @@ w:PaddiM8.kalker
 w:pizzaboxer.Bloxstrap
 w:PostgreSQL.psqlODBC
 w:PersepolisDownloadManager.Persepolis
+w:Pulover.PuloversMacroCreator
 w:pyfa.pyfa
 w:Perimeter81.HarmonySASE
 w:Postbox.Postbox
