@@ -789,6 +789,7 @@ w:VovSoft.TextEditPlus
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
 w:VovSoft.DesktopDiary
+w:VovSoft.BatchImageUpscaler
 w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
 w:VovSoft.KeyboardSoundboard
