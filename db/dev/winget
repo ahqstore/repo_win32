@@ -3648,7 +3648,9 @@ w:pixel_point.kube_forwarder
 w:PRC.ExcireFoto
 w:PremiumSoft.NavicatOnPremServer
 w:PremiumSoft.NavicatBI
+w:PremiumSoft.NavicatSQLServer
 w:PremiumSoft.NavicatOracle
+w:PremiumSoft.NavicatDataModelerLite
 w:PremiumSoft.NavicatBIViewer
 w:PTRTECH.UVtools
 w:PTRTECH.NetSonar
