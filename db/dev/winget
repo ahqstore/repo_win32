@@ -836,6 +836,7 @@ w:VovSoft.FaceDetector
 w:VovSoft.ProxySwitcher
 w:VovSoft.CreateImageGallery
 w:VovSoft.RegExExtractor
+w:VovSoft.HierarchicalFileManager
 w:VovSoft.FileSplitterAndJoiner
 w:VovSoft.TimeSync
 w:VovSoft.ContactManager
