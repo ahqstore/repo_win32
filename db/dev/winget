@@ -786,10 +786,12 @@ w:VovSoft.BulkQRCodeGenerator
 w:VovSoft.ExecutableBitScanner
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.WebPlatformIdentifier
+w:VovSoft.WEBPConverter
 w:VovSoft.ImageToCartoonConverter
 w:VovSoft.AIRequester
 w:VovSoft.FindAndReplaceMultipleFiles
 w:VovSoft.WindowResizer
+w:VovSoft.TextDecoderAndEncoder
 w:VovSoft.TextEditPlus
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
@@ -847,6 +849,7 @@ w:VovSoft.ReadMode
 w:VovSoft.HierarchicalFileManager
 w:VovSoft.FileSplitterAndJoiner
 w:VovSoft.TimeSync
+w:VovSoft.ProxyChecker
 w:VovSoft.ContactManager
 w:VovSoft.OCRReader
 w:VovSoft.FolderSplitter
