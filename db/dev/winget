@@ -784,6 +784,7 @@ w:VovSoft.BulkQRCodeGenerator
 w:VovSoft.ExecutableBitScanner
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.WebPlatformIdentifier
+w:VovSoft.ImageToCartoonConverter
 w:VovSoft.AIRequester
 w:VovSoft.FindAndReplaceMultipleFiles
 w:VovSoft.WindowResizer
@@ -810,6 +811,7 @@ w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
 w:VovSoft.PDFReader
 w:VovSoft.CSVtoVCFConverter
+w:VovSoft.ImagePixelator
 w:VovSoft.AutoChangeScreensavers
 w:VovSoft.BatchImageResizer
 w:VovSoft.CopyFilesIntoMultipleFolders
