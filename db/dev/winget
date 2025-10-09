@@ -804,6 +804,7 @@ w:VovSoft.ExternalLinkDetector
 w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
 w:VovSoft.CSVtoJSONConverter
+w:VovSoft.ImageCombiner
 w:VovSoft.HTMLStripper
 w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
@@ -837,6 +838,7 @@ w:VovSoft.FaceDetector
 w:VovSoft.ProxySwitcher
 w:VovSoft.CreateImageGallery
 w:VovSoft.RegExExtractor
+w:VovSoft.ReadMode
 w:VovSoft.HierarchicalFileManager
 w:VovSoft.FileSplitterAndJoiner
 w:VovSoft.TimeSync
