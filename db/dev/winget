@@ -809,6 +809,7 @@ w:VovSoft.ExternalLinkDetector
 w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
 w:VovSoft.CSVtoJSONConverter
+w:VovSoft.KeepSoftwareAlive
 w:VovSoft.ImageCombiner
 w:VovSoft.HTMLStripper
 w:VovSoft.BatchURLDownloader
@@ -850,6 +851,7 @@ w:VovSoft.HierarchicalFileManager
 w:VovSoft.FileSplitterAndJoiner
 w:VovSoft.TimeSync
 w:VovSoft.ProxyChecker
+w:VovSoft.KeyboardLights
 w:VovSoft.ContactManager
 w:VovSoft.OCRReader
 w:VovSoft.FolderSplitter
