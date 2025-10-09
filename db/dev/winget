@@ -774,6 +774,7 @@ w:VovSoft.AutoMouseClicker
 w:VovSoft.BrokenLinkDetector
 w:VovSoft.SilenceRemover
 w:VovSoft.CryptocurrencyTracker
+w:VovSoft.RAMBenchmark
 w:VovSoft.BatchImageConverter
 w:VovSoft.FilenameLister
 w:VovSoft.VideoToPhotos
@@ -785,6 +786,7 @@ w:VovSoft.HTTPRequester
 w:VovSoft.BulkQRCodeGenerator
 w:VovSoft.ExecutableBitScanner
 w:VovSoft.BatchVideoUpscaler
+w:VovSoft.VCFtoCSVConverter
 w:VovSoft.WebPlatformIdentifier
 w:VovSoft.WEBPConverter
 w:VovSoft.ImageToCartoonConverter
@@ -799,10 +801,13 @@ w:VovSoft.DesktopDiary
 w:VovSoft.BatchImageUpscaler
 w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
+w:VovSoft.PreventDiskSleep
 w:VovSoft.KeyboardSoundboard
 w:VovSoft.ResourceExtractor
 w:VovSoft.VoiceChanger
 w:VovSoft.VovStickyNotes
+w:VovSoft.PodcastDownloader
+w:VovSoft.PictureDownloader
 w:VovSoft.WebsiteWatcher
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.ExternalLinkDetector
