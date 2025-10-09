@@ -769,8 +769,10 @@ w:Vitzo.ClipClip
 w:VincentL.Harmony
 w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
+w:VovSoft.NoiseDetector
 w:VovSoft.AutoMouseClicker
 w:VovSoft.BrokenLinkDetector
+w:VovSoft.SilenceRemover
 w:VovSoft.CryptocurrencyTracker
 w:VovSoft.BatchImageConverter
 w:VovSoft.FilenameLister
@@ -811,6 +813,7 @@ w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
 w:VovSoft.PDFReader
 w:VovSoft.CSVtoVCFConverter
+w:VovSoft.VovMusicPlayer
 w:VovSoft.ImagePixelator
 w:VovSoft.AutoChangeScreensavers
 w:VovSoft.BatchImageResizer
