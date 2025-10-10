@@ -793,6 +793,7 @@ w:VovSoft.ImageToCartoonConverter
 w:VovSoft.AIRequester
 w:VovSoft.FindAndReplaceMultipleFiles
 w:VovSoft.WindowResizer
+w:VovSoft.JSONBeautifier
 w:VovSoft.TextDecoderAndEncoder
 w:VovSoft.TextEditPlus
 w:VovSoft.NetworkAlarmer
