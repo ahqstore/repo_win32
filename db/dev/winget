@@ -814,6 +814,7 @@ w:VovSoft.PictureDownloader
 w:VovSoft.WebsiteWatcher
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.ExternalLinkDetector
+w:VovSoft.JSONtoCSVConverter
 w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
 w:VovSoft.CSVtoJSONConverter
@@ -3576,6 +3577,7 @@ w:Bosyun.PixsoLocalFont
 w:Bosyun.BoardMix
 w:PokeMMO.PokeMMO
 w:PDFsam.PDFsam
+w:PVS_Studio.PVS_Studio
 w:Paessler.PRTGDesktop
 w:PixPin.PixPin
 w:Philips.SpeechLive
