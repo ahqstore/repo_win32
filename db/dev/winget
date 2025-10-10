@@ -800,6 +800,7 @@ w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
 w:VovSoft.DesktopDiary
 w:VovSoft.BatchImageUpscaler
+w:VovSoft.KeystrokeVisualizer
 w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
 w:VovSoft.PreventDiskSleep
@@ -2573,6 +2574,7 @@ w:ShareFile.ShareFileForWindows
 w:Symphony.Symphony
 w:Shooter.SPlayer
 w:Softros.LogonExpert
+w:Softros.SoftrosLANMessenger
 w:Softros.TransparentLockScreen
 w:Spotify.Spotify
 w:Selur.Hybrid
@@ -3622,6 +3624,7 @@ w:PGPTool.PGPTool
 w:PlanGrid.PlanGrid
 w:PolarGoose.CoffeeBean
 w:PolarGoose.ShowWhatProcessLocksFile
+w:PelleOrinius.PellesC
 w:PerfectWorld.PerfectWorldArena
 w:PerfectWorld.TowerOfFantasy
 w:PerfectWorld.SteamChina
