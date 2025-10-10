@@ -795,6 +795,7 @@ w:VovSoft.FindAndReplaceMultipleFiles
 w:VovSoft.WindowResizer
 w:VovSoft.TextDecoderAndEncoder
 w:VovSoft.TextEditPlus
+w:VovSoft.NetworkAlarmer
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
 w:VovSoft.DesktopDiary
@@ -820,6 +821,7 @@ w:VovSoft.HTMLStripper
 w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
 w:VovSoft.PDFReader
+w:VovSoft.SitemapGenerator
 w:VovSoft.CSVtoVCFConverter
 w:VovSoft.VovMusicPlayer
 w:VovSoft.ImagePixelator
@@ -848,6 +850,7 @@ w:VovSoft.ProxyServer
 w:VovSoft.DownloadMailboxEmails
 w:VovSoft.BatchTranslator
 w:VovSoft.FaceDetector
+w:VovSoft.SoundRecorder
 w:VovSoft.ProxySwitcher
 w:VovSoft.CreateImageGallery
 w:VovSoft.RegExExtractor
@@ -2568,6 +2571,7 @@ w:Superace.UPDF
 w:ShareFile.ShareFileForWindows
 w:Symphony.Symphony
 w:Shooter.SPlayer
+w:Softros.LogonExpert
 w:Spotify.Spotify
 w:Selur.Hybrid
 w:SuperTuxKart.SuperTuxKart
