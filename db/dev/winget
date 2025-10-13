@@ -779,6 +779,7 @@ w:VovSoft.BatchImageConverter
 w:VovSoft.FilenameLister
 w:VovSoft.VideoToPhotos
 w:VovSoft.MergeMultipleFolders
+w:VovSoft.VCFSplitter
 w:VovSoft.VCFMerger
 w:VovSoft.DirectoryMonitor
 w:VovSoft.VovScreenRecorder
@@ -835,6 +836,7 @@ w:VovSoft.BatchURLDownloader
 w:VovSoft.HexViewer
 w:VovSoft.PDFReader
 w:VovSoft.SitemapGenerator
+w:VovSoft.WebsiteSpellChecker
 w:VovSoft.CSVtoVCFConverter
 w:VovSoft.VovMusicPlayer
 w:VovSoft.ImagePixelator
@@ -865,6 +867,7 @@ w:VovSoft.PasswordGenerator
 w:VovSoft.CPUBenchmark
 w:VovSoft.ProxyServer
 w:VovSoft.DownloadMailboxEmails
+w:VovSoft.VovAlphaBlend
 w:VovSoft.BatchTranslator
 w:VovSoft.FaceDetector
 w:VovSoft.SoundRecorder
