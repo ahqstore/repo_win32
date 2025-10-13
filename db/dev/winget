@@ -788,6 +788,7 @@ w:VovSoft.ExecutableBitScanner
 w:VovSoft.BatchVideoUpscaler
 w:VovSoft.VCFtoCSVConverter
 w:VovSoft.WebPlatformIdentifier
+w:VovSoft.PhotosToVideo
 w:VovSoft.WEBPConverter
 w:VovSoft.ImageToCartoonConverter
 w:VovSoft.AIRequester
@@ -814,6 +815,7 @@ w:VovSoft.VovStickyNotes
 w:VovSoft.PodcastDownloader
 w:VovSoft.PictureDownloader
 w:VovSoft.WebsiteWatcher
+w:VovSoft.PreventComputerSleep
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.ExternalLinkDetector
 w:VovSoft.JSONtoCSVConverter
@@ -1149,6 +1151,7 @@ w:coti.mcxstudio
 w:ClassicOldSong.Apollo
 w:Chocolatey.Chocolatey
 w:Chocolatey.ChocolateyGUI
+w:ChristianWade.PowerBIALMToolkit
 w:CrystalIDEASoftware.UninstallTool
 w:ChaosRecipeEnhancer.ChaosRecipeEnhancer
 w:ChristianGalla.AutoStartConfirm
@@ -2066,6 +2069,7 @@ w:MoeruAI.AIRI
 w:madisvain.upcount
 w:mellobacon.scpterminal
 w:Morgen.Morgen
+w:MurGee.AutoMouseClick
 w:MIXVoip.Voxbi
 w:MolotovTV.Molotov
 w:MCreator.MCreator
