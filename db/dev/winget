@@ -544,6 +544,7 @@ w:Apple.iCloud
 w:Apple.iTunes
 w:Apple.BonjourPrintServices
 w:AtomicJar.Testcontainers
+w:AndreaMarucci.HD2Arsenal
 w:Articulate.Articulate360
 w:AlexRedden.G14ControlV2
 w:Atomi.ActivePresenter
@@ -770,6 +771,7 @@ w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:VovSoft.NoiseDetector
 w:VovSoft.AutoMouseClicker
+w:VovSoft.SpreadsheetCombiner
 w:VovSoft.SearchTextInFiles
 w:VovSoft.BrokenLinkDetector
 w:VovSoft.SilenceRemover
@@ -3143,6 +3145,7 @@ w:Docker.DockerDesktop
 w:DuckStudio.FufuTools
 w:DiskInternals.EFSRecovery
 w:DiskInternals.LinuxReader
+w:DiskInternals.NTFSRecovery
 w:DogecoinCoreproject.DogecoinCore
 w:Diladele.WebProxy
 w:Dubsky.Aiko
