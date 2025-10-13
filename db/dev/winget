@@ -807,6 +807,7 @@ w:VovSoft.MergeXMLFiles
 w:VovSoft.NetworkAlarmer
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
+w:VovSoft.RAMMonitorGadget
 w:VovSoft.DesktopDiary
 w:VovSoft.BatchImageUpscaler
 w:VovSoft.KeystrokeVisualizer
@@ -3145,7 +3146,9 @@ w:Docker.DockerDesktop
 w:DuckStudio.FufuTools
 w:DiskInternals.LinuxRecovery
 w:DiskInternals.EFSRecovery
+w:DiskInternals.PartitionRecovery
 w:DiskInternals.LinuxReader
+w:DiskInternals.VideoRecovery
 w:DiskInternals.NTFSRecovery
 w:DogecoinCoreproject.DogecoinCore
 w:Diladele.WebProxy
