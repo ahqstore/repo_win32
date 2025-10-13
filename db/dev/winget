@@ -770,6 +770,7 @@ w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:VovSoft.NoiseDetector
 w:VovSoft.AutoMouseClicker
+w:VovSoft.SearchTextInFiles
 w:VovSoft.BrokenLinkDetector
 w:VovSoft.SilenceRemover
 w:VovSoft.CryptocurrencyTracker
@@ -806,6 +807,7 @@ w:VovSoft.BatchImageUpscaler
 w:VovSoft.KeystrokeVisualizer
 w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
+w:VovSoft.SerialPortMonitor
 w:VovSoft.PDFtoImageConverter
 w:VovSoft.PreventDiskSleep
 w:VovSoft.KeyboardSoundboard
@@ -836,6 +838,7 @@ w:VovSoft.ImagePixelator
 w:VovSoft.AutoChangeScreensavers
 w:VovSoft.BatchImageResizer
 w:VovSoft.CopyFilesIntoMultipleFolders
+w:VovSoft.SpeechToSubtitleConverter
 w:VovSoft.CSVSplitter
 w:VovSoft.DomainChecker
 w:VovSoft.CollectURL
@@ -850,6 +853,7 @@ w:VovSoft.VCFEditor
 w:VovSoft.HideFiles
 w:VovSoft.BatchAudioConverter
 w:VovSoft.HealthBreakReminder
+w:VovSoft.RandomWordlistGenerator
 w:VovSoft.WebsiteFileCollector
 w:VovSoft.DiskMonitorGadget
 w:VovSoft.MachineLearningRequester
@@ -870,6 +874,7 @@ w:VovSoft.TimeSync
 w:VovSoft.ProxyChecker
 w:VovSoft.KeyboardLights
 w:VovSoft.ContactManager
+w:VovSoft.QRCodeAndBarcodeReader
 w:VovSoft.OCRReader
 w:VovSoft.FolderSplitter
 w:VaclavJedlicka.ProfiCAD
