@@ -779,6 +779,7 @@ w:VovSoft.BatchImageConverter
 w:VovSoft.FilenameLister
 w:VovSoft.VideoToPhotos
 w:VovSoft.MergeMultipleFolders
+w:VovSoft.VCFMerger
 w:VovSoft.DirectoryMonitor
 w:VovSoft.VovScreenRecorder
 w:VovSoft.ContainerLoadingCalculator
@@ -787,6 +788,7 @@ w:VovSoft.HTTPRequester
 w:VovSoft.BulkQRCodeGenerator
 w:VovSoft.ExecutableBitScanner
 w:VovSoft.BatchVideoUpscaler
+w:VovSoft.VovStopStart
 w:VovSoft.VCFtoCSVConverter
 w:VovSoft.WebPlatformIdentifier
 w:VovSoft.PhotosToVideo
@@ -815,6 +817,7 @@ w:VovSoft.ResourceExtractor
 w:VovSoft.VoiceChanger
 w:VovSoft.VovStickyNotes
 w:VovSoft.PodcastDownloader
+w:VovSoft.TextFilter
 w:VovSoft.PictureDownloader
 w:VovSoft.WebsiteWatcher
 w:VovSoft.PreventComputerSleep
@@ -841,6 +844,7 @@ w:VovSoft.CopyFilesIntoMultipleFolders
 w:VovSoft.SpeechToSubtitleConverter
 w:VovSoft.CSVSplitter
 w:VovSoft.DomainChecker
+w:VovSoft.URLExtractor
 w:VovSoft.CollectURL
 w:VovSoft.DocumentManager
 w:VovSoft.TextToMP3Converter
