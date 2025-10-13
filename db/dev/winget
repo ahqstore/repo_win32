@@ -777,6 +777,7 @@ w:VovSoft.RAMBenchmark
 w:VovSoft.BatchImageConverter
 w:VovSoft.FilenameLister
 w:VovSoft.VideoToPhotos
+w:VovSoft.MergeMultipleFolders
 w:VovSoft.DirectoryMonitor
 w:VovSoft.VovScreenRecorder
 w:VovSoft.ContainerLoadingCalculator
@@ -795,6 +796,7 @@ w:VovSoft.WindowResizer
 w:VovSoft.JSONBeautifier
 w:VovSoft.TextDecoderAndEncoder
 w:VovSoft.TextEditPlus
+w:VovSoft.MergeXMLFiles
 w:VovSoft.NetworkAlarmer
 w:VovSoft.WebsiteScreenshotGenerator
 w:VovSoft.EMLConverter
@@ -803,6 +805,7 @@ w:VovSoft.BatchImageUpscaler
 w:VovSoft.KeystrokeVisualizer
 w:VovSoft.DuplicateFileFinder
 w:VovSoft.FileChecksumCalculator
+w:VovSoft.PDFtoImageConverter
 w:VovSoft.PreventDiskSleep
 w:VovSoft.KeyboardSoundboard
 w:VovSoft.ResourceExtractor
@@ -818,6 +821,7 @@ w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
 w:VovSoft.CSVtoJSONConverter
 w:VovSoft.KeepSoftwareAlive
+w:VovSoft.MarkdownConverter
 w:VovSoft.ImageCombiner
 w:VovSoft.HTMLStripper
 w:VovSoft.BatchURLDownloader
@@ -846,6 +850,7 @@ w:VovSoft.BatchAudioConverter
 w:VovSoft.HealthBreakReminder
 w:VovSoft.WebsiteFileCollector
 w:VovSoft.DiskMonitorGadget
+w:VovSoft.MachineLearningRequester
 w:VovSoft.PasswordGenerator
 w:VovSoft.CPUBenchmark
 w:VovSoft.ProxyServer
