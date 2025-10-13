@@ -3146,6 +3146,7 @@ w:Docker.DockerDesktop
 w:DuckStudio.FufuTools
 w:DiskInternals.LinuxRecovery
 w:DiskInternals.EFSRecovery
+w:DiskInternals.VMFSRecovery
 w:DiskInternals.PartitionRecovery
 w:DiskInternals.LinuxReader
 w:DiskInternals.VideoRecovery
