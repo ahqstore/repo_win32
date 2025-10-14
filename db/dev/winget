@@ -3146,12 +3146,14 @@ w:DolphinComputerAccess.EasyReader
 w:Docker.DockerDesktop
 w:DuckStudio.FufuTools
 w:DiskInternals.LinuxRecovery
+w:DiskInternals.OutlookRecovery
 w:DiskInternals.DVRRecovery
 w:DiskInternals.EFSRecovery
 w:DiskInternals.MySQLRecovery
 w:DiskInternals.VMFSRecovery
 w:DiskInternals.WordRecovery
 w:DiskInternals.MSSQLRecovery
+w:DiskInternals.MailRecoveryExpress
 w:DiskInternals.PartitionRecovery
 w:DiskInternals.LinuxReader
 w:DiskInternals.VideoRecovery
