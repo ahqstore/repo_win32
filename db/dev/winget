@@ -3156,6 +3156,8 @@ w:DiskInternals.PartitionRecovery
 w:DiskInternals.LinuxReader
 w:DiskInternals.VideoRecovery
 w:DiskInternals.NTFSRecovery
+w:DiskInternals.AccessRecovery
+w:DiskInternals.OfficeRecovery
 w:DogecoinCoreproject.DogecoinCore
 w:Diladele.WebProxy
 w:Dubsky.Aiko
