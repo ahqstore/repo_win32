@@ -3146,6 +3146,7 @@ w:DolphinComputerAccess.EasyReader
 w:Docker.DockerDesktop
 w:DuckStudio.FufuTools
 w:DiskInternals.LinuxRecovery
+w:DiskInternals.DVRRecovery
 w:DiskInternals.EFSRecovery
 w:DiskInternals.VMFSRecovery
 w:DiskInternals.PartitionRecovery
