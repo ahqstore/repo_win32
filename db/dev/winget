@@ -260,6 +260,7 @@ w:NirSoft.VideoCacheView
 w:NitroSoftware.NitroPro
 w:ntwind.AltTabTer
 w:ntwind.windowspace
+w:ntwind.UploadRemote
 w:ntwind.VistaSwitcher
 w:NitrokeyGmbH.Nitrokey_App
 w:NitrokeyGmbH.Nitropy
@@ -3159,6 +3160,8 @@ w:DiskInternals.LinuxReader
 w:DiskInternals.VideoRecovery
 w:DiskInternals.NTFSRecovery
 w:DiskInternals.AccessRecovery
+w:DiskInternals.ExcelRecovery
+w:DiskInternals.MailRecovery
 w:DiskInternals.OfficeRecovery
 w:DogecoinCoreproject.DogecoinCore
 w:Diladele.WebProxy
