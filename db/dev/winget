@@ -776,6 +776,7 @@ w:VovSoft.NoiseDetector
 w:VovSoft.AutoMouseClicker
 w:VovSoft.SpreadsheetCombiner
 w:VovSoft.SearchTextInFiles
+w:VovSoft.WatermarkVideo
 w:VovSoft.BrokenLinkDetector
 w:VovSoft.SilenceRemover
 w:VovSoft.CryptocurrencyTracker
@@ -848,6 +849,7 @@ w:VovSoft.VovMusicPlayer
 w:VovSoft.ImagePixelator
 w:VovSoft.AutoChangeScreensavers
 w:VovSoft.BatchImageResizer
+w:VovSoft.KeywordCombiner
 w:VovSoft.CopyFilesIntoMultipleFolders
 w:VovSoft.SpeechToSubtitleConverter
 w:VovSoft.CSVSplitter
@@ -3172,6 +3174,7 @@ w:DiskInternals.VideoRecovery
 w:DiskInternals.NTFSRecovery
 w:DiskInternals.AccessRecovery
 w:DiskInternals.ExcelRecovery
+w:DiskInternals.RAIDRecovery
 w:DiskInternals.MailRecovery
 w:DiskInternals.OfficeRecovery
 w:DogecoinCoreproject.DogecoinCore
