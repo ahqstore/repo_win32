@@ -1509,6 +1509,7 @@ w:VovSoft.FileSplitterAndJoiner
 w:VovSoft.JSONBeautifier
 w:VovSoft.FileChecksumCalculator
 w:VovSoft.ReadMode
+w:VovSoft.VCFtoXLSConverter
 w:VovSoft.HealthBreakReminder
 w:VovSoft.CSVtoJSONConverter
 w:VovSoft.KeywordCombiner
