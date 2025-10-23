@@ -829,6 +829,7 @@ w:VovSoft.KeyboardSoundboard
 w:VovSoft.ResourceExtractor
 w:VovSoft.VoiceChanger
 w:VovSoft.VCFtoTXTConverter
+w:VovSoft.SubtitleTranslator
 w:VovSoft.VovStickyNotes
 w:VovSoft.PodcastDownloader
 w:VovSoft.TextFilter
