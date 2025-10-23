@@ -2670,6 +2670,7 @@ w:subhra74.XtremeDownloadManager
 w:StellarDataRecovery.StellarRepairForQuickBooks
 w:StellarDataRecovery.StellarMigratorForExchange
 w:StellarDataRecovery.StellarFileEraser
+w:StellarDataRecovery.StellarRepairForPDF
 w:StellarDataRecovery.StellarRepairForMySQL
 w:StellarDataRecovery.StellarExtractorforWindowsBackup
 w:StellarDataRecovery.StellarRepairForExcel
@@ -3187,6 +3188,7 @@ w:DiskInternals.MSSQLRecovery
 w:DiskInternals.MailRecoveryExpress
 w:DiskInternals.PartitionRecovery
 w:DiskInternals.LinuxReader
+w:DiskInternals.Uneraser
 w:DiskInternals.VideoRecovery
 w:DiskInternals.NTFSRecovery
 w:DiskInternals.AccessRecovery
