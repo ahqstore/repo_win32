@@ -838,6 +838,7 @@ w:VovSoft.WebsiteWatcher
 w:VovSoft.PreventComputerSleep
 w:VovSoft.BulkBarcodeGenerator
 w:VovSoft.ExternalLinkDetector
+w:VovSoft.SpeechToTextConverter
 w:VovSoft.JSONtoCSVConverter
 w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
