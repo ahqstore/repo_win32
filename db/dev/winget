@@ -842,6 +842,7 @@ w:VovSoft.ImageSplitter
 w:VovSoft.SEOChecker
 w:VovSoft.CSVtoJSONConverter
 w:VovSoft.KeepSoftwareAlive
+w:VovSoft.XLStoCSVConverter
 w:VovSoft.MarkdownConverter
 w:VovSoft.ImageCombiner
 w:VovSoft.HTMLStripper
