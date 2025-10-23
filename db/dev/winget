@@ -827,6 +827,7 @@ w:VovSoft.PreventDiskSleep
 w:VovSoft.KeyboardSoundboard
 w:VovSoft.ResourceExtractor
 w:VovSoft.VoiceChanger
+w:VovSoft.VCFtoTXTConverter
 w:VovSoft.VovStickyNotes
 w:VovSoft.PodcastDownloader
 w:VovSoft.TextFilter
@@ -1202,6 +1203,7 @@ w:Cjwdev.ManagedServiceAccountsGUI
 w:Cjwdev.ADAccountResetTool
 w:Cjwdev.ServicePermissionsReporter
 w:Cairo.Cairo
+w:CraftEdge.EasyCutStudio
 w:CozyCloud.CozyDrive
 w:CONZEInformatik.Vistrax
 w:CTerm.CTerm
@@ -2497,6 +2499,7 @@ w:RadioSky.Spectrograph
 w:RARLab.WinRAR
 w:rcmaehl.MSEdgeRedirect
 w:Renode.Renode
+w:RcloneUI.RcloneUI
 w:ramdor.Thetis
 w:Resplendence.SanityCheck
 w:Resplendence.WhoCrashed
