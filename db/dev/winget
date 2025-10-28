@@ -2677,10 +2677,12 @@ w:StellarDataRecovery.StellarConverterForOST
 w:StellarDataRecovery.StellarMigratorForExchange
 w:StellarDataRecovery.StellarFileEraser
 w:StellarDataRecovery.StellarConverterForEDB
+w:StellarDataRecovery.StellarRepairforOutlook
 w:StellarDataRecovery.StellarRepairForPDF
 w:StellarDataRecovery.StellarRepairForMySQL
 w:StellarDataRecovery.StellarRepairforSQLite
 w:StellarDataRecovery.StellarExtractorforWindowsBackup
+w:StellarDataRecovery.StellarRepairforActiveDirectory
 w:StellarDataRecovery.StellarRepairForExcel
 w:StellarDataRecovery.StellarRepairForVideo
 w:StellarDataRecovery.StellarRepairForExchange
@@ -2981,6 +2983,7 @@ w:Hurdle.Hurdle
 w:Hexandcube.DesktopIconToggle
 w:Hasleo.BackupSuiteFree
 w:Hetman.PartitionRecovery
+w:Hetman.FileRepair
 w:Hetman.PhotoRecovery
 w:Hetman.DataRecoveryPack
 w:Hetman.OfficeRecovery
