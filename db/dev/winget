@@ -1133,7 +1133,6 @@ w:IPMHub.IPM
 w:iQIYI.GeePlayer
 w:Iminetsoft.DarkSwitcher
 w:Inkscape.Inkscape
-w:IAMCloud.CloudDriveMapper
 w:iGEM.MEGA.CLI.12
 w:IsWiX.IsWiX
 w:ifedapoolarewaju.IGdm
@@ -2682,6 +2681,7 @@ w:StellarDataRecovery.StellarRepairForQuickBooks
 w:StellarDataRecovery.StellarConverterForOST
 w:StellarDataRecovery.StellarMigratorForExchange
 w:StellarDataRecovery.StellarFileEraser
+w:StellarDataRecovery.StellarDataRecovery
 w:StellarDataRecovery.StellarConverterForEDB
 w:StellarDataRecovery.StellarRepairforOutlook
 w:StellarDataRecovery.StellarRepairForPDF
@@ -2990,6 +2990,7 @@ w:Hexandcube.DesktopIconToggle
 w:Hasleo.BackupSuiteFree
 w:Hetman.InternetSpy
 w:Hetman.PartitionRecovery
+w:Hetman.Uneraser
 w:Hetman.FileRepair
 w:Hetman.RAIDRecovery
 w:Hetman.PhotoRecovery
