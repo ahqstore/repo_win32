@@ -1251,6 +1251,7 @@ w:ComfortSoftwareGroup.ComfortOSK
 w:ComfortSoftwareGroup.HotAlarmClock
 w:ComfortSoftwareGroup.ComfortKeysPro
 w:ComfortSoftwareGroup.ComfortClipboardPro
+w:combostrap.doc_exec
 w:CareScribe.CaptionEd
 w:CareScribe.TalkType
 w:Coder.CoderDesktop
@@ -2609,6 +2610,7 @@ w:Stream_Pi.Client
 w:Stream_Pi.Server
 w:Slite.Slite
 w:SuperCollider.SuperCollider
+w:SoftSea.ISOOpener
 w:SystemExplorer.SystemExplorer
 w:Skillbrains.Lightshot
 w:SiberSystems.RoboForm
