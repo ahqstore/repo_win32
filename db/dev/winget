@@ -542,6 +542,7 @@ w:allentown521.Saladict
 w:AirExplorer.AirExplorer
 w:Altova.MobileTogetherDesigner
 w:Altova.Authentic.Integration.2024
+w:Altova.Authentic.Integration.2026
 w:Altova.Authentic.Integration.2025
 w:Altova.Authentic.Integration.2023
 w:Altova.MobileTogetherServer
@@ -1725,6 +1726,7 @@ w:Microsoft.DeploymentToolkit
 w:Microsoft.GameInput
 w:Microsoft.PowerShell
 w:Microsoft.PowerBIReportServer
+w:Microsoft.DependencyAgent
 w:Microsoft.UpdateAssistant
 w:Microsoft.DebugDiag
 w:Microsoft.MouseWithoutBorders
