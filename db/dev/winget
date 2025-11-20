@@ -1522,6 +1522,7 @@ w:Genesys.GenesysCloud
 w:Genesys.GenesysCloudBackgroundAssistant
 w:Google.IAPDesktop
 w:Google.VPNByGoogleOne
+w:Google.Antigravity
 w:Google.GoogleDrive
 w:Google.Chrome
 w:Google.AndroidGPUInspector
@@ -1712,6 +1713,7 @@ w:Microsoft.DotNet.DesktopRuntime.6
 w:Microsoft.WindowsTerminal
 w:Microsoft.PowerBIReportBuilder
 w:Microsoft.ServiceFabricRuntime
+w:Microsoft.AKSdesktop
 w:Microsoft.FSLogix
 w:Microsoft.VisualStudio.Extensions.TypeScript
 w:Microsoft.WindowsAdminCenter
