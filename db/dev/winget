@@ -427,6 +427,7 @@ w:AdGuard.AdGuard
 w:AdGuard.AdGuardVPN
 w:ArcadeRenegade.SidebarDiagnostics
 w:advancedfx.HLAE
+w:Agisoft.TextureDeLighter
 w:andrewbrey.flot
 w:ATLauncher.ATLauncher
 w:Akiflow.Akiflow
@@ -1229,8 +1230,10 @@ w:crosswire.xiphos
 w:c0re100.qBittorrent_Enhanced_Edition
 w:Cypherix.DeCypherIT
 w:Cypherix.Cryptainer.Pro.18
+w:Cypherix.Cryptainer.Pro.19
 w:Cypherix.Cryptainer.Lite.18
 w:Cypherix.Cryptainer.Personal.18
+w:Cypherix.Cryptainer.Personal.19
 w:Cypherix.SecureIT
 w:Clickteam.InstallCreator
 w:Clickteam.PatchMaker
@@ -2960,6 +2963,7 @@ w:SoftPerfect.WiFiGuard
 w:SoftPerfect.BandwidthManager
 w:SoftPerfect.ConnectionQualityMonitor
 w:steventhanna.proton
+w:SoftMaker.FlexiPDF
 w:SoftMaker.FreePDF
 w:stakira.OpenUTAU
 w:Seafuture.NetpasVesselMonitorAIS
