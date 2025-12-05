@@ -2634,9 +2634,11 @@ w:Slite.Slite
 w:SuperCollider.SuperCollider
 w:SoftSea.ISOOpener
 w:SoftSea.ISOtoWBFS
+w:SoftSea.MDFtoISO
 w:SoftSea.CDDVDLabelMaker
 w:SoftSea.FreeISOCreator
 w:SoftSea.WBFStoISO
+w:SoftSea.ISOCompressor
 w:SystemExplorer.SystemExplorer
 w:Skillbrains.Lightshot
 w:SKHynix.DriverManager
