@@ -1748,6 +1748,7 @@ w:Microsoft.Teams
 w:Microsoft.AmendmentAppWordService
 w:Microsoft.GlobalSecureAccessClient
 w:Microsoft.quicreach
+w:Microsoft.16BitInstallShieldSupport
 w:Microsoft.HwpConverter
 w:Microsoft.WindowsPCHealthCheck
 w:Microsoft.RemoteDesktopClient
@@ -2632,11 +2633,14 @@ w:Stream_Pi.Client
 w:Stream_Pi.Server
 w:Slite.Slite
 w:SuperCollider.SuperCollider
+w:SoftSea.DVDtoISO
 w:SoftSea.ISOOpener
 w:SoftSea.ISOtoWBFS
+w:SoftSea.IMGtoISO
 w:SoftSea.UIFtoISO
 w:SoftSea.MDFtoISO
 w:SoftSea.ISODisk
+w:SoftSea.ISOtoUSB
 w:SoftSea.CDDVDLabelMaker
 w:SoftSea.FreeISOCreator
 w:SoftSea.WBFStoISO
