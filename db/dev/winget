@@ -3841,6 +3841,7 @@ w:Plex.PlexHTPC
 w:PawelSalawa.SQLiteStudio
 w:PatentLobster.stinker
 w:ProjectEnv.ProjectEnvCli
+w:PicGuard.PicGuard
 w:pavlobu.deskreen
 w:Pixellu.SmartAlbums
 w:PDQ.PDQDeploy
@@ -3895,6 +3896,7 @@ w:PassMark.OSForensics
 w:PassMark.RAMMon
 w:PassMark.ZoomSearchEngine
 w:PassMark.PerformanceTest
+w:PassMark.BurnInTest
 w:PilotEdge.MSFSclient
 w:Principle.FlowPrompter
 w:powertab.powertabeditor
