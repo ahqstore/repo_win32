@@ -1757,6 +1757,7 @@ w:Microsoft.WindowsPCHealthCheck
 w:Microsoft.RemoteDesktopClient
 w:Microsoft.PIX
 w:Microsoft.FoundryLocal
+w:Microsoft.WindowsADK
 w:Microsoft.ServiceFabricSDK
 w:Microsoft.MouseandKeyboardCenter
 w:Microsoft.PowerBI
@@ -3118,6 +3119,7 @@ w:hisschemoller.music_pattern_generator
 w:H2IK.JoystickGremlin
 w:Heroku.HerokuCLI
 w:DBBrowserForSQLite.DBBrowserForSQLite
+w:Digiexam.Digiexam
 w:dawg.dawg
 w:decipher.Capter
 w:Deltek.Maconomy
