@@ -1752,6 +1752,7 @@ w:Microsoft.quicreach
 w:Microsoft.16BitInstallShieldSupport
 w:Microsoft.HwpConverter
 w:Microsoft.WindowsPCHealthCheck
+w:Microsoft.IntegrationRuntime
 w:Microsoft.RemoteDesktopClient
 w:Microsoft.PIX
 w:Microsoft.FoundryLocal
