@@ -3309,6 +3309,7 @@ w:Dell.DisplayManager
 w:Dell.CommandConfigure
 w:Dell.CommandUpdate
 w:Dell.DisplayAndPeripheralManager
+w:Dell.Optimizer
 w:Dell.PeripheralManager
 w:daynix.UsbDk
 w:Deezer.Deezer
