@@ -752,7 +752,6 @@ w:Ubiquiti.UniFiNetworkServer
 w:UnionTech.DeepinCloudPrintServer
 w:UnionTech.DeepinCloudScanServer
 w:Uzero.ScanScan
-w:Unity.Unity.CN.6000
 w:Unity.Unity.CN.2020
 w:Unity.Unity.CN.2022
 w:Unity.Unity.CN.2021
@@ -2654,15 +2653,19 @@ w:Stream_Pi.Server
 w:Slite.Slite
 w:SuperCollider.SuperCollider
 w:SoftSea.DVDtoISO
+w:SoftSea.DocxReader
 w:SoftSea.ISOOpener
 w:SoftSea.ISOtoWBFS
 w:SoftSea.IMGtoISO
+w:SoftSea.CSVViewer
 w:SoftSea.UIFtoISO
 w:SoftSea.MDFtoISO
 w:SoftSea.ISODisk
+w:SoftSea.CSVtovCard
 w:SoftSea.ISOtoUSB
 w:SoftSea.CDDVDLabelMaker
 w:SoftSea.FreeISOCreator
+w:SoftSea.ChecksumCalculator
 w:SoftSea.WBFStoISO
 w:SoftSea.ISOCompressor
 w:SystemExplorer.SystemExplorer
@@ -2883,7 +2886,6 @@ w:SysInfoTools.MBOXExporterTool
 w:StephenRessler.BridgeDesigner
 w:Stormix.DeadlockModManager
 w:Symless.Synergy
-w:Secomba.Boxcryptor
 w:SysNucleus.USBTrace
 w:Station.Station
 w:SZCHKT.Leaklog
