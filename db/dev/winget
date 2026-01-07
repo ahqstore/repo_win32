@@ -1751,7 +1751,6 @@ w:Microsoft.UpdateAssistant
 w:Microsoft.DebugDiag
 w:Microsoft.MouseWithoutBorders
 w:Microsoft.VFSforGit
-w:Microsoft.Teams
 w:Microsoft.AmendmentAppWordService
 w:Microsoft.GlobalSecureAccessClient
 w:Microsoft.quicreach
@@ -2662,6 +2661,7 @@ w:SoftSea.UIFtoISO
 w:SoftSea.MDFtoISO
 w:SoftSea.ISODisk
 w:SoftSea.CSVtovCard
+w:SoftSea.MD5Calculator
 w:SoftSea.ISOtoUSB
 w:SoftSea.CDDVDLabelMaker
 w:SoftSea.FreeISOCreator
