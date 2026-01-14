@@ -2670,6 +2670,7 @@ w:SoftSea.SWFFilePlayer
 w:SoftSea.UIFtoISO
 w:SoftSea.MDFtoISO
 w:SoftSea.ISODisk
+w:SoftSea.DjVuViewer
 w:SoftSea.CSVtovCard
 w:SoftSea.FreeVideoJoiner
 w:SoftSea.MD5Calculator
@@ -2681,6 +2682,7 @@ w:SoftSea.CDDVDLabelMaker
 w:SoftSea.FreeISOCreator
 w:SoftSea.ChecksumCalculator
 w:SoftSea.WBFStoISO
+w:SoftSea.CBRReader
 w:SoftSea.ISOCompressor
 w:SystemExplorer.SystemExplorer
 w:Skillbrains.Lightshot
