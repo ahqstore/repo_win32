@@ -2658,6 +2658,7 @@ w:Stream_Pi.Server
 w:Slite.Slite
 w:SuperCollider.SuperCollider
 w:SoftSea.DVDtoISO
+w:SoftSea.MobiFileReader
 w:SoftSea.UTMConverter
 w:SoftSea.DocxReader
 w:SoftSea.ISOOpener
@@ -2677,6 +2678,7 @@ w:SoftSea.CSVtovCard
 w:SoftSea.FreeVideoJoiner
 w:SoftSea.MD5Calculator
 w:SoftSea.RARFileExtractor
+w:SoftSea.DjVuConverter
 w:SoftSea.FreeMKVPlayer
 w:SoftSea.CHMViewer
 w:SoftSea.ISOtoUSB
