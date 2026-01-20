@@ -2662,6 +2662,7 @@ w:Stream_Pi.Client
 w:Stream_Pi.Server
 w:Slite.Slite
 w:SuperCollider.SuperCollider
+w:SoftSea.EPSFileViewer
 w:SoftSea.DVDtoISO
 w:SoftSea.MobiFileReader
 w:SoftSea.UTMConverter
@@ -2677,11 +2678,14 @@ w:SoftSea.CSVViewer
 w:SoftSea.SWFFilePlayer
 w:SoftSea.UIFtoISO
 w:SoftSea.MDFtoISO
+w:SoftSea.DDSConverter
 w:SoftSea.ISODisk
 w:SoftSea.DjVuViewer
 w:SoftSea.CSVtovCard
+w:SoftSea.ExifDataViewer
 w:SoftSea.FreeVideoJoiner
 w:SoftSea.MD5Calculator
+w:SoftSea.NEFtoJPG
 w:SoftSea.RARFileExtractor
 w:SoftSea.DjVuConverter
 w:SoftSea.FreeMKVPlayer
@@ -4033,6 +4037,7 @@ w:easymodo.qimgv
 w:EryouHao.Gridea
 w:Ethersphere.Swarm_Desktop
 w:evsar3.sshfs_win_manager
+w:Eigent.Eigent
 w:Earthshine.DashcamViewer
 w:EDPB.WebsiteAuditTool
 w:Elcomsoft.AdvancedPDFPasswordRecovery
