@@ -1739,6 +1739,7 @@ w:Microsoft.DotNet.DesktopRuntime.6
 w:Microsoft.WindowsTerminal
 w:Microsoft.PowerBIReportBuilder
 w:Microsoft.ServiceFabricRuntime
+w:Microsoft.IntuneWSLPlugin
 w:Microsoft.AKSdesktop
 w:Microsoft.FSLogix
 w:Microsoft.VisualStudio.Extensions.TypeScript
