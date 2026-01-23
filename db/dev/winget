@@ -1738,6 +1738,7 @@ w:ManaManaIoT.DeviceManagementAssistant
 w:Microsoft.NetMon
 w:Microsoft.WindowsJournal
 w:Microsoft.DotNet.DesktopRuntime.6
+w:Microsoft.IdFix
 w:Microsoft.WindowsTerminal
 w:Microsoft.PowerBIReportBuilder
 w:Microsoft.ServiceFabricRuntime
