@@ -1077,8 +1077,11 @@ w:IDEA.ReadPaper
 w:iFileSpace.iFileSpace
 w:ImperativeSoftware.InputDirector
 w:IdeaMK.TGAViewer
+w:IdeaMK.STPViewer
 w:IdeaMK.AIViewer
 w:IdeaMK.EPSViewer
+w:IdeaMK.IGSViewer
+w:IdeaMK.STLViewer
 w:IdeaMK.RAWImageViewer
 w:IBM.Aspera
 w:Intel.FortranCompiler
@@ -2565,6 +2568,7 @@ w:Rakuten.Viber
 w:RussellBanks.HashHash
 w:RedHat.Podman
 w:RedHat.VirtIO
+w:RedHat.Podman_Desktop
 w:RedHat.VirtViewer
 w:r12f.Rnp
 w:Renoise.Renoise
