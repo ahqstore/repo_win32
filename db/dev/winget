@@ -70,6 +70,10 @@ w:Timthreetwelve.WUView
 w:TorProject.TorBrowser
 w:ThePyzoteam.pyzo
 w:Tachosys.digiConnect
+w:Tachosys.digiCentral
+w:Tachosys.digiCardResort
+w:Tachosys.TachographFileViewer
+w:Tachosys.digiCentralArchiveSync
 w:Tachosys.digiCentralAuthenticate
 w:TourBox.TourBoxConsole
 w:Taskcade.Taskade
@@ -292,6 +296,7 @@ w:Nodist.Nodist
 w:nashaofu.dingtalk
 w:nashaofu.Shell360
 w:NETIO.NETIODiscover
+w:NeocomSoftware.TRBOnetWatch
 w:NICESoftware.AmazonDCVClient
 w:NICESoftware.AmazonDCVVirtualDisplay
 w:NICESoftware.AmazonDCVServer
@@ -2800,6 +2805,7 @@ w:Santesoft.SanteDicomEditor
 w:Santesoft.SantePacsServerPG
 w:Santesoft.SantePacsServerFree
 w:splode.pomotroid
+w:SevIQ.ThemeToggle
 w:SonicVisualiser.SonicVisualiser
 w:Steady.Steady
 w:szTheory.exifcleaner
