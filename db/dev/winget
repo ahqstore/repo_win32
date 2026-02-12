@@ -552,6 +552,7 @@ w:Alibaba.aDrive
 w:Alibaba.LightProxy
 w:Alibaba.Qoder
 w:Alibaba.MiniProgramStudio
+w:archisman_panigrahi.QuickBib
 w:A_SIT.PDF_Over
 w:AAS.WorldWideTelescope
 w:Atola.FindandMount
@@ -1087,12 +1088,14 @@ w:IDEA.ReadPaper
 w:iFileSpace.iFileSpace
 w:ImperativeSoftware.InputDirector
 w:IdeaMK.TGAViewer
+w:IdeaMK.PCXViewer
 w:IdeaMK.STPViewer
 w:IdeaMK.AIViewer
 w:IdeaMK.EPSViewer
 w:IdeaMK.IGSViewer
 w:IdeaMK.STLViewer
 w:IdeaMK.RAWImageViewer
+w:IdeaMK.PSDViewer
 w:IBM.Aspera
 w:Intel.FortranCompiler
 w:Intel.PresentMon
@@ -1668,7 +1671,6 @@ w:LeNgocKhoa.Laragon
 w:lucasdeeiroz.RobotRunner
 w:LukiLabs.Craft
 w:linepod.linepodlauncher
-w:Logitech.OptionsPlus
 w:Logitech.Solar
 w:Logitech.Options
 w:Logitech.LogiTune
@@ -2214,6 +2216,7 @@ w:mmanela.markdownoutlook
 w:MPC_BE.MPC_BE
 w:MartinBresson.Executor
 w:MichalKrenek.QSpectrumAnalyzer
+w:MiniMax.MiniMaxAgent
 w:Mobsya.ThymioSuite
 w:Mirillis.SplashUltimate
 w:marchellodev.Sharik
@@ -2825,6 +2828,7 @@ w:SpeedCrunch.SpeedCrunch
 w:Salesforce.sfdx_cli
 w:Smogon.PokemonShowdown
 w:ShiftCryptoAG.BitBoxApp
+w:SMART.SMARTEducationSoftware
 w:SABnzbdTeam.SABnzbd
 w:SEA.OssAccess
 w:Softpcapps.MinimizetoTrayTool
@@ -3307,6 +3311,7 @@ w:dorssel.usbipd_win
 w:Danfoss.CoolConfig
 w:Danfoss.CCMS
 w:Danfoss.TTServiceMonitoringTools
+w:derekwisong.datui
 w:Daum.PotPlayer
 w:DavidMoore.IPFilterUpdater
 w:Dyad.Dyad
