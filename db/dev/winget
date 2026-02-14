@@ -1882,6 +1882,7 @@ w:MIXVoip.Voxbi
 w:madisvain.upcount
 w:MathWorks.MATLABRuntime
 w:MathWorks.MATLABConnector
+w:mlocati.GetText
 w:MacPaw.Encrypto
 w:Mercurial.Mercurial
 w:MSEndpointMgr.IntuneDebugToolkit
@@ -2693,6 +2694,7 @@ w:Vivi.Vivi
 w:ViGEm.ViGEmBus
 w:vatis_project.vAtis
 w:ViewSonic.AirSyncSender
+w:VMABroadcast.VMAMonitor
 w:VirusTotal.VirusTotalUploader
 w:VirtualGL.TurboVNC
 w:VeyonSolutions.Veyon
@@ -4104,6 +4106,7 @@ w:Logitech.LGS
 w:Logitech.LogiTune
 w:Logitech.LogiBolt
 w:Logitech.Presentation
+w:Logitech.OptionsPlus
 w:Logitech.GHUB
 w:LamantineSoftware.StickyPassword
 w:LIGHTNINGUK.ImgBurn
