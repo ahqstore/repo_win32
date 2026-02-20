@@ -1327,7 +1327,6 @@ w:CorsixTH.CorsixTH
 w:CPUID.CPU_Z
 w:CPUID.HWMonitor
 w:CopyTrans.Studio
-w:CopyTrans.CopyTransHEIC
 w:Cyotek.ColorPaletteEditor
 w:CHERRY.CHERRYKEYS
 w:chanplecai.smarttaskbar
@@ -3005,6 +3004,7 @@ w:sum1re.CaptionOCRTool
 w:SmartProjects.IsoBuster
 w:StartIsBack.StartIsBack
 w:Streamlabs.Streamlabs
+w:Sogou.SogouWBInput
 w:Sogou.SogouInput
 w:Sogou.SogouInputSkinEditor
 w:SourceGear.DiffMerge
