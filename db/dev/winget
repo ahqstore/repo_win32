@@ -3413,6 +3413,7 @@ w:DolphinComputerAccess.EasyReader
 w:DBAdminX.Diff
 w:Dataflare.Dataflare
 w:Docker.DockerDesktop
+w:Docker.Sandbox
 w:Docker.SecretsEngine
 w:DuckStudio.FufuTools
 w:DiskInternals.LinuxRecovery
