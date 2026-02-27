@@ -2110,6 +2110,7 @@ w:Devolutions.Launcher
 w:Devolutions.Gateway
 w:Devolutions.ServerConsole
 w:Devolutions.Workspace
+w:Devolutions.Agent
 w:Devolutions.RemoteDesktopManagerAgent
 w:dillonkearns.mobster
 w:Dataflare.Dataflare
@@ -3213,6 +3214,7 @@ w:ToDesktop.ToDesktop
 w:Taomee.Mole
 w:TSDuck.TSDuck
 w:TIMi.TIMi
+w:TotalCareCentralFlorida.TCALT
 w:TescoSW.CryptoNativeAppNG
 w:Thunder.Thunder
 w:Thunder.Xmp
