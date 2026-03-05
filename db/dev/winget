@@ -109,6 +109,7 @@ w:erez_c137.NetSpeedTray
 w:ENVI_met.ENVI_met
 w:EdgeTX.Companion
 w:Electrum.Electrum
+w:EMCO.UnlockIT
 w:Eziriz.DotNetReactor
 w:Espressif.eim
 w:Esko.CapePack
@@ -297,6 +298,7 @@ w:Xiaomi.MiService
 w:XplicitTrust.Agent
 w:Xidicone.AgentSVN
 w:Xidicone.AgentGit
+w:0x4D44.mdmdview
 w:3CX.MultilineTAPI
 w:3CX.PhoneSystem
 w:3CX.CallFlowDesigner
@@ -689,6 +691,7 @@ w:IObit.RandomPasswordGenerator
 w:IObit.AdvancedSystemCare
 w:Initex.YogaDNS
 w:i2p.I2PEasyInstallBundle
+w:Infiniact.IATerm
 w:iLovePDF.iLovePDFDesktop
 w:ITRI.QuickSECS
 w:IPMHub.IPM
@@ -2443,7 +2446,6 @@ w:CrystalDewWorld.CrystalDiskInfo
 w:CrystalDewWorld.CrystalMark3D25
 w:CrystalDewWorld.CrystalMarkRetro
 w:CrystalDewWorld.CrystalDiskMark
-w:Chill_Astro.MsixCertImportTool
 w:Chill_Astro.PyCalc_GUI
 w:Chill_Astro.TMM
 w:chen08209.FlClash
