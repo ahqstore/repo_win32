@@ -784,7 +784,6 @@ w:SomePythonThings.ZipManager
 w:SteampunkLabs.AWSLoggy
 w:Signiant.Kyno
 w:SleuthKit.Autopsy
-w:SevIQ.ThemeToggle
 w:Salesforce.sfdx_cli
 w:sedwards2009.extraterm
 w:SuperCollider.SuperCollider
@@ -2170,6 +2169,7 @@ w:daltonmenezes.electron_screen_recorder
 w:Docker.SecretsEngine
 w:Docker.Sandbox
 w:Docker.DockerDesktop
+w:Docker.ds
 w:DISTRHO.Cardinal
 w:DoltHub.Dolt
 w:DasCanard.Radioss
