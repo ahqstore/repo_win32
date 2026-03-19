@@ -165,6 +165,7 @@ w:ECSoftware.eWriter
 w:Eigent.Eigent
 w:ES_DE.EmulationStation_DE
 w:equalsraf.neovim_qt
+w:EPSON.EpsonScan2
 w:EPSON.EpsonConnectPrinterSetup
 w:ETHZurich.SafeExamBrowser
 w:Omnissa.HorizonClient
@@ -2280,6 +2281,7 @@ w:KDE.digiKam
 w:KDE.Skrooge
 w:KDE.PuMoKu
 w:KDE.GCompris
+w:KDE.Tellico
 w:KDE.Krita
 w:KDE.Marble
 w:Kensington.KensingtonKonnect
