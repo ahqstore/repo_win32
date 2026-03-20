@@ -336,7 +336,6 @@ w:BandicamCompany.Bandicut
 w:BandicamCompany.Bandicam
 w:Brother.iPrintScan
 w:Betterbird.Betterbird
-w:BlueprintFreespeech.RicochetRefresh
 w:Billfish.Billfish
 w:BrutalChess.BrutalChess
 w:BrianApps.Sizer
@@ -1979,7 +1978,6 @@ w:Microsoft.GameInput
 w:Microsoft.HwpConverter
 w:Microsoft.IntegrationRuntime
 w:Microsoft.ServiceFabricRuntime
-w:Microsoft.PowerShell
 w:Microsoft.MouseWithoutBorders
 w:Microsoft.PowerBIReportBuilder
 w:Microsoft.IdFix
@@ -2358,6 +2356,7 @@ w:JiveOff.roPresence
 w:JakobHellermann.Atlas
 w:JinweiZhiguang.MasterGo
 w:JinweiZhiguang.MasterAgent
+w:JayPrall.ColorCop
 w:Jacksta.Instigator
 w:jazzdelightsme.WingetPathUpdater
 w:CartamundiDigital.Fundels
@@ -3883,6 +3882,7 @@ w:ABB.i_busTool
 w:AntiMicroX.antimicrox
 w:AntiMicroX.antimicroxPortable
 w:AppiumDevelopers.AppiumInspector
+w:asheroto.MessagesforWeb
 w:airSlate.pdfFiller
 w:ATLauncher.ATLauncher
 w:Airzone.Ductzone
