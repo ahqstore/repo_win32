@@ -101,6 +101,7 @@ w:ElectronicTeam.SerialOverEthernet
 w:ElectronicTeam.Flexihub
 w:ElectronicTeam.USBNetworkGate
 w:ElectronicTeam.VirtualSerialPortDriver
+w:Emsisoft.EmergencyKit
 w:Eraser.Eraser
 w:Espanso.Espanso
 w:Eagle1.PrettyMark
@@ -363,6 +364,7 @@ w:ByteDance.JianyingPro
 w:ByteDance.Feishu
 w:ByteDance.Debugtron
 w:ByteDance.Douyin
+w:ByteDance.LarkRooms
 w:ByteDance.FeiLian
 w:ByteDance.StreamingTool
 w:ByteDance.Lark
