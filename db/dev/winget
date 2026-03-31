@@ -319,6 +319,7 @@ w:FarManager.FarManager
 w:Formagrid.Airtable
 w:Fortra.GoAnywhereOpenPGPStudio
 w:f3d_app.f3d
+w:fwupd.fwupd
 w:FutureFiniti.Fotosizer
 w:FastStone.Viewer
 w:FastStone.Capture
@@ -2113,9 +2114,7 @@ w:GitHub.ClassroomAssistant
 w:GitHub.GitLFS
 w:GitHub.Atom
 w:GeoDa.GeoDa
-w:Gauge.Gauge
 w:GPSoftware.DirectoryOpus
-w:GristLabs.GristDesktop
 w:Gynzy.GynzyDesktop
 w:Grammarly.Grammarly
 w:GDATA.TypeRefHasher
