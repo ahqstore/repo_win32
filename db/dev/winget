@@ -1059,6 +1059,7 @@ w:TuneIn.TuneIn
 w:Trigone.SystemMonitor
 w:ThePyzoteam.pyzo
 w:TortoiseSVN.TortoiseSVN
+w:tonhowtf.OmniGet
 w:Tricerat.ScrewDriversClient
 w:therealpaulgg.ssh_sync
 w:TablePlus.TablePlus
@@ -3480,6 +3481,7 @@ w:Proton.ProtonMailBridge
 w:Proton.ProtonVPN
 w:Proton.ProtonDrive
 w:Proton.ProtonPass
+w:Proton.ProtonMeet
 w:Postman.PostmanAgent
 w:Postman.Postman
 w:prefix_dev.pixi
