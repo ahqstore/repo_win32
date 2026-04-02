@@ -451,7 +451,6 @@ w:Coq.CoqPlatform
 w:CISDI.Qingtui
 w:Commitlint.Commitlint
 w:caobinrg.electron_office_tools
-w:chrdavis.smartrename
 w:chrox.Readest
 w:CakeWallet.CakeWallet
 w:CEB.CEBEBankAssistant
@@ -3378,6 +3377,7 @@ w:Jitbit.MacroRecorder
 w:JPersson77.LGTVCompanion
 w:JoeTaylor.WSJT_X
 w:JumpCloud.PasswordManager
+w:joadoumie.NBACommandPaletteExtension
 w:JannisX11.Blockbench
 w:JD.HiOffice
 w:JiangGujin.OllamaDesktop
