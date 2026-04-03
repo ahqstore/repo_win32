@@ -449,6 +449,7 @@ w:CPUID.CPU_Z
 w:CrowdSecurity.CrowdSec
 w:Couchcoding.Logbert
 w:CopyTrans.Studio
+w:Cribl.CriblEdge
 w:Coq.CoqPlatform
 w:CISDI.Qingtui
 w:Commitlint.Commitlint
@@ -3278,6 +3279,7 @@ w:Henry++.MemReduct
 w:hisschemoller.music_pattern_generator
 w:Hirschmann.NotebookFanControl
 w:H2IK.JoystickGremlin
+w:heStudioCommunity.APKSignerGUI(Machine_MSI)
 w:Hashicorp.Vagrant
 w:hexajohnny.Rusty
 w:Happ.Happ
@@ -4162,7 +4164,6 @@ w:DolphinEmulator.Dolphin
 w:docmirror.dev_sidecar
 w:Docker.DockerDesktop
 w:Docker.sbx
-w:Docker.SecretsEngine
 w:Docker.ds
 w:DDEVFoundation.DDEV
 w:dsheiko.puppetry
