@@ -1768,7 +1768,9 @@ w:Resplendence.WhySoSlow
 w:Resplendence.LatencyMon
 w:Resplendence.RegistrarRegistryManager
 w:Resplendence.WhoCrashed
+w:Revopoint.RevoMeasure
 w:Revopoint.RevoMetro
+w:Revopoint.RevoMirror
 w:RemNote.RemNote
 w:RicoSuter.NSwagStudio
 w:Romanitho.Winget_AutoUpdate
@@ -2325,6 +2327,7 @@ w:accellence.vimaccEnterprise_2215
 w:accellence.vimaccEnterprise
 w:AlexThuering.DVDStyler
 w:Avaya.AvayaWorkplace
+w:Avaya.CloudOfficeForTeamsDesktopPlugin
 w:AprelTech.HVManager
 w:AprelTech.SilentInstallBuilder
 w:AndreWiethoff.ExactAudioCopy
