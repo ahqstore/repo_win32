@@ -1077,6 +1077,7 @@ w:RossCarlson.VATSpy
 w:Rhinode.TradingPaints
 w:RevoUninstaller.RevoUninstallerPro
 w:RevoUninstaller.RevoUninstaller
+w:ReadAI.ReadAI
 w:rwv.OnlineDOSGames
 w:Runebook.Tome
 w:RomanKubiak.Ctrlr
@@ -1165,10 +1166,8 @@ w:ksnip.ksnip
 w:KLayout.KLayout
 w:Kongkong.AskLink
 w:KDE.Krita
-w:KDE.PuMoKu
 w:KDE.Skrooge
 w:KDE.Marble
-w:KDE.Minuet
 w:KDE.Tellico
 w:KDE.GCompris
 w:KDE.digiKam
@@ -1674,6 +1673,7 @@ w:Snowflake.SnowSQL
 w:Snowflake.SnowflakeCLI
 w:Snowflake.OdbcDriver
 w:SteamMemory.Fellou
+w:SimplyCA.Typeless
 w:ShareX.XerahS
 w:SmartProjects.IsoBuster
 w:SaferNetworking.SpybotAntiBeacon
