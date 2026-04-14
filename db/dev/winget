@@ -724,6 +724,7 @@ w:Qualibyte.Pixelformer
 w:Quobyte.Client
 w:QGIS.QField
 w:QNapi.QNapi
+w:QuinGillespie.Fedra
 w:QIAGEN.CLCMainWorkbench
 w:QIAGEN.CLCServerCommandLineTools
 w:QIAGEN.CLCGenomicsWorkbench
@@ -3097,6 +3098,7 @@ w:Nikse.SubtitleEdit
 w:Nevcairiel.LAVFilters
 w:NodirTemirkhodjaev.FortFirewall
 w:Nullpomino.Nullpomino
+w:nullCarbon.RevitExport
 w:Neovim.Neovim
 w:Navidrome.Navidrome
 w:ntwind.windowspace
@@ -4315,7 +4317,6 @@ w:EFF.Certbot
 w:Echowire.Echowire
 w:elvirbrk.notehighlight2016
 w:EastSun5566.HackDesk
-w:Electrum.Electrum
 w:Embarcadero.Dev_C++
 w:ErykRakowski.Multrin
 w:EShare.EShare
