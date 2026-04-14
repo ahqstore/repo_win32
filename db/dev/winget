@@ -143,6 +143,7 @@ w:PaloAltoNetworks.PrismaAccessBrowser
 w:Playnite.Playnite
 w:Posit.RStudio
 w:Posit.rig
+w:Podman.CLI
 w:PathofBuildingCommunity.PathofBuildingCommunity
 w:PlazmaBurst2.PlazmaBurst2
 w:PeculiarVentures.Fortify
@@ -1007,6 +1008,7 @@ w:RoyalApps.RoyalServer
 w:Readdle.Spark
 w:RemcoStoeten.Dora
 w:Reginald.Reginald
+w:Remio.RemioHost
 w:Reblexis.LookPilot
 w:RockinChaos.Shiru
 w:RemNote.RemNote
