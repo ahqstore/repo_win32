@@ -1036,6 +1036,7 @@ w:Redisant.TinyGUI
 w:RedHat.VirtIO
 w:RedHat.Podman_Desktop
 w:RedHat.VirtViewer
+w:RedHat.Podman
 w:ramdor.Thetis
 w:RaoPics.RaoPics
 w:r12f.Rnp
@@ -2711,7 +2712,6 @@ w:FaronStudio.PixPlant
 w:FelipeSantos.ClipboardSync
 w:freecnsz.TikTak
 w:f3d_app.f3d
-w:Feodor2.Mypal
 w:FrontApp.Front
 w:FEITIAN.SKManager
 w:FlipperDevicesInc.qFlipper
@@ -2827,6 +2827,7 @@ w:osquery.osquery
 w:OpenRCT2.OpenRCT2
 w:OpenShopChannel.Downloader
 w:OSSEC.OSSECAgent
+w:OEClassic.OEClassic
 w:OpenWhisperSystems.Signal
 w:oberrich.win11_toggle_rounded_corners
 w:OwenMarshall.PerlPrimer
