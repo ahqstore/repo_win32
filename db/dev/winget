@@ -2025,6 +2025,7 @@ w:Microsoft.DependencyAgent
 w:Microsoft.AKSdesktop
 w:Microsoft.PowerBIReportServer
 w:Microsoft.DebugDiag
+w:Microsoft.ESRPWingetTest
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.Edge
 w:Microsoft.Sqlcmd
