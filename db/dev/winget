@@ -890,7 +890,6 @@ w:CHERRY.CHERRYKEYS
 w:CHERRY.UTILITY
 w:ContourDesign.ContourShuttle
 w:commercialhaskell.stack
-w:ChefSoftware.ChefDK
 w:ChefSoftware.InfraClient
 w:ChefSoftware.Inspec
 w:ChefSoftware.Workstation
@@ -1398,6 +1397,7 @@ w:DuckStudio.FufuTools
 w:DoublOneStudios.Glucose
 w:Douyu.DouyuLive
 w:DZEDSystems.Dragonframe
+w:DZEDSystems.DragonframeLicenseManager
 w:DennisBareis.MAKEMSI
 w:drakkan.SFTPGoEnterprise
 w:drakkan.SFTPGo
@@ -2622,6 +2622,7 @@ w:FreeMat.FreeMat
 w:Formlabs.PreForm
 w:Foldr.Foldr
 w:FlorianHeidenreich.Mp3tag
+w:Flowersauce.FSClicker
 w:FNPrg.BookCAT
 w:FNPrg.CATVids
 w:FNPrg.CATraxx
