@@ -2030,9 +2030,9 @@ w:Microsoft.DependencyAgent
 w:Microsoft.AKSdesktop
 w:Microsoft.PowerBIReportServer
 w:Microsoft.DebugDiag
-w:Microsoft.ESRPWingetTest
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.Edge
+w:Microsoft.WindowsCloudIOProtectionDriver
 w:Microsoft.Sqlcmd
 w:Microsoft.FoundryLocal
 w:Microsoft.DotNet.DesktopRuntime.6
@@ -4247,6 +4247,7 @@ w:Elgato.4KCaptureUtility
 w:Elgato.CameraHub
 w:Elgato.StreamDeck
 w:eVenture.HideMe
+w:ENERCON.SCADARemote
 w:Evoluent.EvoluentMouseManager
 w:EduMIPS64.EduMIPS64
 w:ElectronCommunity.ElectronFiddle
