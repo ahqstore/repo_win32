@@ -3766,6 +3766,7 @@ w:Amazon.Games
 w:Amazon.SAM_CLI
 w:Amazon.EC2Launch
 w:Amazon.SessionManagerPlugin
+w:Amazon.WorkspacesClient
 w:Amazon.Kindle
 w:Amazon.AWSCLI
 w:Amazon.AWSVPNClient
