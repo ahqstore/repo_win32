@@ -3806,6 +3806,10 @@ w:AlexanderLitvinov.AutoText
 w:AmyXun.AxGlyph
 w:AmyXun.AxMath
 w:Argente.DriveCleaner
+w:Argente.DuplicateFinder
+w:Argente.SoftwareUpdater
+w:Argente.RegistryCleaner
+w:Argente.StartupManager
 w:Argente.MalwareCleaner
 w:Argente.UninstallManager
 w:Aardappel.Cube
