@@ -2565,7 +2565,6 @@ w:Wacom.WacomTabletDriver
 w:WSDOT.BridgeLink
 w:WillowSoftware.AnvilStudio
 w:WlhEx.WIFbox
-w:Wox.Wox
 w:WrzDJ.WrzDJ_Bridge
 w:Wildix.WildixCollaboration
 w:Wildix.WildixIntegrationService
@@ -3218,6 +3217,7 @@ w:NetAtWork.NoSpamProxyOutlookAddin
 w:NHNCorporation.Dooray!Drive
 w:NHNCorporation.Dooray!Messenger
 w:NeocomSoftware.TRBOnetWatch
+w:nickknissen.TailscaleCommandPalette
 w:Nlitesoft.NTLite
 w:NearAI.IronClaw
 w:NuitsJp.ClaudeToZenn
