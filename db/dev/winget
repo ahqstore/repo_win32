@@ -113,6 +113,7 @@ w:Prusa3D.PrusaSlicer
 w:PicoTechnology.PicoLog
 w:Psi.Psi
 w:PhotonicsTUL.PLaSK
+w:ParadoxInteractive.ParadoxLauncher
 w:PyPA.Hatch
 w:PEAKSystem.PEAKDrivers
 w:Parallels.Parallels
@@ -916,7 +917,6 @@ w:CubeSoft.CubePDF
 w:CubeSoft.CubePDFUtility
 w:CrystalIDEASoftware.UninstallTool
 w:Couchbase.ServerCommunity
-w:CHIRPSoftware.CHIRP_next
 w:ColdTurkeySoftware.ColdTurkeyBlocker
 w:CISDI.Qingtui
 w:ChristianKaiser.Lightscreen
