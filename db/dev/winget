@@ -2805,6 +2805,7 @@ w:OOMOL.OOMOLStudio
 w:OISF.Suricata
 w:Open_Shell.Open_Shell_Menu
 w:OpenCascade.CADAssistant
+w:Optimidoc.OptimidocCloudClient
 w:Orica.SHOTPlus
 w:OpenNoteBlockStudio.MinecraftNoteBlockStudio
 w:OpenSource.Grisbi
@@ -3816,7 +3817,9 @@ w:AAAInternetPublishing.WTFast
 w:AlexanderLitvinov.AutoText
 w:AmyXun.AxGlyph
 w:AmyXun.AxMath
+w:Argente.DataShredder
 w:Argente.DriveCleaner
+w:Argente.SystemRepair
 w:Argente.DuplicateFinder
 w:Argente.SoftwareUpdater
 w:Argente.RegistryCleaner
