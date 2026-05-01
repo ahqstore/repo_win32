@@ -164,6 +164,7 @@ w:PawelSalawa.SQLiteStudio
 w:PlotSoft.PDFill
 w:PVsyst.PVsyst
 w:Philips.SmartControl
+w:Philips.Interact
 w:Philips.SpeechLive
 w:PureDevSoftware.FramePro
 w:PureDevSoftware.10x
@@ -3252,6 +3253,7 @@ w:Nvidia.GeForceNow
 w:Nvidia.PhysX
 w:NWEA.NWEASecureTestingBrowser
 w:nzbget.nzbget
+w:NetSentinel.NetSentinel
 w:Nagios.NCPA
 w:Nishal.NekoBeat
 w:nrittsti.NTag
@@ -3821,6 +3823,7 @@ w:Argente.DataShredder
 w:Argente.DriveCleaner
 w:Argente.SystemRepair
 w:Argente.DuplicateFinder
+w:Argente.SystemManager
 w:Argente.SoftwareUpdater
 w:Argente.RegistryCleaner
 w:Argente.StartupManager
