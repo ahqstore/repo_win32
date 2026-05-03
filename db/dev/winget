@@ -2033,7 +2033,6 @@ w:Microsoft.quicreach
 w:Microsoft.WindowsADK
 w:Microsoft.PowerBIReportBuilder
 w:Microsoft.16BitInstallShieldSupport
-w:Microsoft.AmendmentAppWordService
 w:Microsoft.PowerBI
 w:Microsoft.ServiceFabricSDK
 w:Microsoft.AzureMonitorAgent
@@ -4084,6 +4083,7 @@ w:Lunex.Lunex
 w:Liquibase.Liquibase
 w:LRCLIB.LRCGET
 w:LSXPrime.ProseFlow
+w:LaurensVanLeer.WinTranscribe
 w:luapp.ToDo
 w:LibgenApps.LibgenDesktop
 w:logisim_evolution.logisim_evolution
