@@ -89,6 +89,7 @@ w:PIKCLOUD.PikPak
 w:Prey.Prey
 w:ProlificPublishing.MarineAquarium
 w:Pearson.TestNav
+w:Picocrypt_NG.Picocrypt_NG
 w:Primesieve.Primesieve
 w:PicoTorrent.PicoTorrent
 w:PixPin.PixPin
@@ -3283,7 +3284,6 @@ w:Valve.Steam
 w:ViewSonic.AirSyncSender
 w:VovSoft.DiskMonitorGadget
 w:VovSoft.CSVSplitter
-w:VovSoft.BatchImageResizer
 w:VovSoft.SilenceRemover
 w:VovSoft.VCFtoXLSConverter
 w:VovSoft.HideFiles
@@ -3296,7 +3296,6 @@ w:VovSoft.ProxyChecker
 w:VovSoft.HealthBreakReminder
 w:VovSoft.CSVtoVCFConverter
 w:VovSoft.DesktopDiary
-w:VovSoft.BatchImageConverter
 w:VovSoft.XLStoCSVConverter
 w:VovSoft.BatchTranslator
 w:VovSoft.VCFEditor
@@ -3331,7 +3330,6 @@ w:VovSoft.CSVtoJSONConverter
 w:VovSoft.ExternalLinkDetector
 w:VovSoft.PDFReader
 w:VovSoft.KeywordCombiner
-w:VovSoft.BrokenLinkDetector
 w:VovSoft.ImageSplitter
 w:VovSoft.WebsiteFileCollector
 w:VovSoft.CopyFilesIntoMultipleFolders
@@ -3351,7 +3349,6 @@ w:VovSoft.VovMusicPlayer
 w:VovSoft.ProxySwitcher
 w:VovSoft.MarkdownConverter
 w:VovSoft.ConvertVideoToAudio
-w:VovSoft.AIRequester
 w:VovSoft.CreateImageGallery
 w:VovSoft.SyslogServer
 w:VovSoft.HierarchicalFileManager
@@ -3371,10 +3368,8 @@ w:VovSoft.SpeechToTextConverter
 w:VovSoft.HTTPRequester
 w:VovSoft.PasswordGenerator
 w:VovSoft.JSONBeautifier
-w:VovSoft.AutoMouseClicker
 w:VovSoft.SpreadsheetCombiner
 w:VovSoft.PicturePuzzle
-w:VovSoft.BatchImageUpscaler
 w:VovSoft.ExecutableBitScanner
 w:VovSoft.VovStopStart
 w:VovSoft.ReadMode
@@ -3394,7 +3389,6 @@ w:VovSoft.BatchAudioConverter
 w:VovSoft.PhotosToVideo
 w:VovSoft.FaceDetector
 w:VovSoft.URLExtractor
-w:VovSoft.BulkQRCodeGenerator
 w:VovSoft.ImageToCartoonConverter
 w:VovSoft.NetworkAlarmer
 w:VovSoft.NoiseDetector
@@ -3406,7 +3400,6 @@ w:VovSoft.DocumentManager
 w:VovSoft.DomainChecker
 w:VovSoft.WebcamCapture
 w:VovSoft.PreventComputerSleep
-w:VovSoft.AutoChangeScreensavers
 w:VovSoft.KeepSoftwareAlive
 w:VovSoft.TimeSync
 w:VovSoft.ClipboardReader
