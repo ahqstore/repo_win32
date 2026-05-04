@@ -2067,6 +2067,7 @@ w:Microsoft.WindowsVirtualDesktopAgent
 w:Microsoft.VFSforGit
 w:Microsoft.PIX
 w:Microsoft.GlobalSecureAccessClient
+w:Microsoft.AdvertisingEditor
 w:Microsoft.IntuneWSLPlugin
 w:Microsoft.DeploymentToolkit
 w:Microsoft.MouseandKeyboardCenter
@@ -3295,6 +3296,7 @@ w:VisionAid.IvonaVoicePack.English.British
 w:VisionAid.IvonaVoicePack.English.American
 w:Vercel.Hyper
 w:Vup.Vup
+w:Vinkius.MCPDesktop
 w:VaclavJedlicka.ProfiCAD
 w:VariCAD.VariCAD
 w:VariCAD.VariCADViewer
