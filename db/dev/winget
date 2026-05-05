@@ -24,7 +24,6 @@ w:Prowise.ProwisePresenter
 w:Pantaray.QSetup
 w:Postman.Postman
 w:Postman.PostmanAgent
-w:ProjectTick.ProjTLauncher
 w:PenguinLabs.Cacher
 w:ProjectLibre.ProjectLibre
 w:PopcornTime.Popcorn_Time_Ru
@@ -2630,6 +2629,7 @@ w:Workstreampeople.Anywhere365Integrator
 w:Webstudio.Webstudio
 w:Wagnardsoft.DisplayDriverUninstaller
 w:WilsonGlasser.BaseMaster
+w:WilsonGlasser.Oryxis
 w:WatchGuard.WatchGuardAuthenticationGateway
 w:WatchGuard.WatchGuardTerminalServiceAgent
 w:WatchGuard.MobileVPNWithSSLClient
