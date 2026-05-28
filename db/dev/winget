@@ -208,6 +208,7 @@ w:PassMark.PerformanceTest
 w:PassMark.MonitorTest
 w:PassMark.KeyboardTest
 w:PassMark.OSForensics
+w:packetThrower.Baudrun
 w:Postman.PostmanAgent
 w:Postman.Postman
 w:Plenom.kuandoIn_A_Call
