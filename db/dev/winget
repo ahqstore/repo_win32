@@ -937,6 +937,7 @@ w:AppWork.JDownloader
 w:Astronet.Scholaread
 w:Aardappel.Cube
 w:azure06.clips
+w:AloxBook.AloxBook
 w:AutonomousSoftware.MetronomeWallet
 w:ART.ART
 w:AbdelrahmanBayoumi.Azkar
@@ -1412,6 +1413,7 @@ w:SST.OpenCodeDesktop
 w:strimio.strimio
 w:SoroushChehresa.UnsplashWallpapers
 w:Spatie.Ray
+w:Simprint.Simprint
 w:sbt.sbt
 w:Snaz.Snaz
 w:SerialStudio.SerialStudio
@@ -1995,6 +1997,7 @@ w:Microsoft.LAPS
 w:Microsoft.Edge
 w:Microsoft.WindowsVirtualDesktopAgent
 w:Microsoft.AzureMonitorAgent
+w:Microsoft.AdministrativeTemplates
 w:Microsoft.16BitInstallShieldSupport
 w:Microsoft.PIX
 w:Microsoft.WindowsCloudIOProtectionDriver
@@ -2674,6 +2677,7 @@ w:ossia.score
 w:osquery.osquery
 w:OpenTTD.OpenTTD
 w:OpenCPN.OpenCPN
+w:OrcaSVN.OrcaSVN
 w:OpenRocket.OpenRocket
 w:openwong2kim.wmux
 w:OOMOL.OOMOLStudio
@@ -3152,6 +3156,7 @@ w:LANCOM.TrustedAccessClient
 w:LANCOM.LANconfig
 w:LANCOM.WirelessePaperServer
 w:Livebook.Livebook
+w:Lascar.WiFiSensorSoftware
 w:LopeSoft.FileMenuTools
 w:LopeSoft.LopeEdit
 w:LCTechnology.RescuePRO
@@ -3706,6 +3711,7 @@ w:Thegrideon.AccessForensics
 w:TextExpander.TextExpander
 w:team_aie.aie
 w:TeamDriveSystems.TeamDrive
+w:TageCode.CHMAssistant
 w:TinyCraft.TinyRDM
 w:Taiko2k.TauonMusicBox
 w:TrackerSoftware.PDF_XChangeEditor
