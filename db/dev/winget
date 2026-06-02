@@ -236,6 +236,7 @@ w:Philips.SpeechLive
 w:Philips.Interact
 w:PurpleI2P.i2pd
 w:ProjectEnv.ProjectEnvCli
+w:Pathloss.AntRad
 w:PRelectronics.PReset
 w:Popokey.HL7SoupIntegrationHost
 w:Popokey.HL7Soup
@@ -2818,6 +2819,8 @@ w:Clevertouch.Clevershare
 w:Cppcheck.Cppcheck
 w:CarstenGehling.JiraStopWatch
 w:ChrisLauinger77.QontrolPanel
+w:ChrisMcLennan.mixr
+w:ChrisMcLennan.mnml
 w:Chatty.Chatty
 w:CISDI.Qingtui
 w:ColorLogic.CoPrA
@@ -3529,6 +3532,8 @@ w:wanghongenpin.ProxyPin
 w:WesternDigital.Security
 w:williamnie.NetSend
 w:WorksMobile.NAVERWORKS
+w:wnunezc.Codex_Chat_Vault
+w:wnunezc.WSDD
 w:Wisedu.CAT
 w:Winamp.Winamp
 w:wkhtmltopdf.wkhtmltox
