@@ -208,8 +208,10 @@ w:PassMark.ZoomSearchEngine
 w:PassMark.WirelessMon
 w:PassMark.PerformanceTest
 w:PassMark.MonitorTest
+w:PassMark.DiskCheckup
 w:PassMark.KeyboardTest
 w:PassMark.OSForensics
+w:PassMark.BatteryMon
 w:packetThrower.Baudrun
 w:Postman.PostmanAgent
 w:Postman.Postman
@@ -1483,6 +1485,7 @@ w:Sharpened.FileViewerPlus
 w:Sharpened.FileViewerLite
 w:Snapmaker.Luban
 w:Shure.ShurePlusMOTIV
+w:SantaCruzSoftware.LinkrUI
 w:sinelaw.fresh_editor
 w:SuperCollider.SuperCollider
 w:scottlerch.hosts_file_editor
@@ -1987,6 +1990,7 @@ w:Microsoft.FSLogix
 w:Microsoft.IdFix
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.UpdateAssistant
+w:Microsoft.IntelligentTerminal
 w:Microsoft.ServiceFabricRuntime
 w:Microsoft.GameInput
 w:Microsoft.HwpConverter
@@ -2377,6 +2381,7 @@ w:mulaRahul.Keyviz
 w:MinBrowser.Min
 w:MusicBrainz.Picard
 w:MiniMax.MiniMaxAgent
+w:MiniMax.MiniMaxCode
 w:Muye.FlickerList
 w:MaxCut.MaxCut
 w:MediathekViewTeam.MediathekView
