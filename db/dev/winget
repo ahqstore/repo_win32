@@ -1509,6 +1509,7 @@ w:sparrowwallet.sparrow
 w:Servo.Servo
 w:SlashedIo.Inssist
 w:SmartProjects.IsoBuster
+w:Snowflake.CortexCode
 w:Snowflake.SnowflakeCLI
 w:Snowflake.OdbcDriver
 w:Snowflake.SnowSQL
@@ -3195,6 +3196,7 @@ w:LogTag.LogTagXpress
 w:LogTag.LogTagAnalyzer
 w:LukasHermann.stagetimer_io
 w:LasseMarkusRautiainen.TextEditorPro
+w:LinkopingUniversity.Hopsan
 w:LIGHTNINGUK.ImgBurn
 w:LukiLabs.Craft
 w:leapbtw.uxplay
@@ -3483,7 +3485,6 @@ w:WiseCleaner.WiseADCleaner
 w:WiseCleaner.WiseImageX
 w:WiseCleaner.WiseMemoryOptimizer
 w:WidelandsDevelopmentTeam.Widelands
-w:wexond.wexond
 w:WHONET.AMRIE
 w:Wiesemann_Theis.USB_Redirector
 w:Wiesemann_Theis.WuTility
@@ -3772,7 +3773,6 @@ w:TopazLabs.TopazPhotoAI
 w:TopazLabs.TopazGigapixelAI
 w:TechNobo.TcNoAccountSwitcher
 w:TPGi.CCA
-w:TPGi.CCAe
 w:TigerVNC.TigerVNC
 w:TortoiseHg.TortoiseHg
 w:thomasnordquist.MQTT_Explorer
