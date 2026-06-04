@@ -212,6 +212,7 @@ w:PassMark.DiskCheckup
 w:PassMark.KeyboardTest
 w:PassMark.OSForensics
 w:PassMark.BatteryMon
+w:packetThrower.PortFinder
 w:packetThrower.Baudrun
 w:Postman.PostmanAgent
 w:Postman.Postman
