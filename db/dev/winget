@@ -1653,7 +1653,6 @@ w:Racket.Racket
 w:RealVNC.VNCViewer
 w:RealVNC.RealVNCConnct
 w:RealVNC.VNCServer
-w:RaynerSec.Hyper_V_Switch
 w:Rhinode.TradingPaints
 w:ReadAI.ReadAI
 w:RbDevOps.HMPraxis
@@ -2974,6 +2973,7 @@ w:NetSentinel.NetSentinel
 w:netbsd.rawrite32
 w:namazso.PawnIO
 w:namazso.SecureUXTheme
+w:NTKERNEL.WireSockVPNClient
 w:NodirTemirkhodjaev.FortFirewall
 w:NewRelic.InfrastructureAgent
 w:NETIO.NETIODiscover
