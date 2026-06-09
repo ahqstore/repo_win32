@@ -142,6 +142,7 @@ w:PA7LIM.BlueDV
 w:PMDaniels.WPDConverter
 w:Polyv.PolyvLiveCommunity
 w:Polyv.PolyvDirector
+w:PresenceJam.PresenceJam
 w:PersepolisDownloadManager.Persepolis
 w:PatchMyPC.PatchMyPC
 w:Prey.Prey
@@ -1241,6 +1242,8 @@ w:Sonocent.AudioNotetaker
 w:StardockSystems.DeskScapes2026
 w:SecurityRonin.blazehash
 w:Scribus.Scribus
+w:sysmanage.sysmanage
+w:sysmanage.sysmanage_agent
 w:ShareFile.ShareFileForWindows
 w:SumbitLabs.Aptakube
 w:sunzongzheng.music
@@ -2616,6 +2619,7 @@ w:h3poteto.fedistar
 w:Honor.HonorSuite
 w:HiBitSoftware.HiBitUninstaller
 w:HyperspaceDev.HyperspaceDesktop
+w:OpenClaw.OpenClawCompanion
 w:OpenCascade.CADAssistant
 w:OpenShot.OpenShot
 w:Open_Shell.Open_Shell_Menu
@@ -2686,6 +2690,7 @@ w:OpenTTD.OpenTTD
 w:OpenCPN.OpenCPN
 w:OrcaSVN.OrcaSVN
 w:OpenRocket.OpenRocket
+w:Okta.OktaVerify
 w:openwong2kim.wmux
 w:OOMOL.OOMOLStudio
 w:OpenSource.Grisbi
