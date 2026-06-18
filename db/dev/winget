@@ -1108,6 +1108,7 @@ w:ENERCALC.ENERCALC
 w:Erlang.ErlangOTP
 w:EFIBootEditor.EFIBootEditor
 w:EverEdit.EverEdit
+w:EnterpriseDT.CompleteFTP
 w:ExtendOffice.OfficeTab
 w:ES_Computing.EditPlus
 w:Elastic.Auditbeat
@@ -1807,6 +1808,7 @@ w:ScopeFun.ScopeFun
 w:sc0ty.SubSync
 w:Symphony.Symphony
 w:stackless.stackless
+w:StreamHush.StreamHush
 w:SecurepointGmbH.SecurepointSSLVPN
 w:Servo.Servo
 w:Solidigm.StorageTool
@@ -1877,6 +1879,7 @@ w:SimplyCA.Typeless
 w:SerialStudio.SerialStudio
 w:Syncplay.Syncplay
 w:SFLinux.Jami
+w:ShoneAnstey.Inkstone
 w:sqlectron.sqlectron_gui
 w:ShiftCryptoAG.BitBoxApp
 w:skardyy.Rhiza
@@ -2000,6 +2003,7 @@ w:Maximus5.ConEmu
 w:Modyfi.Modyfi
 w:MoonlightGameStreamingProject.Moonlight
 w:maurizuki.O2
+w:Multica.MulticaDesktop
 w:MITK.MITK
 w:Mango3D.LycheeSlicer
 w:Mimecast.MimecastForOutlook
@@ -2453,6 +2457,7 @@ w:LightBurnSoftware.LightBurn
 w:LukasHermann.stagetimer_io
 w:lukehaas.RunJS
 w:lostdesign.linked
+w:LinklyAI.LinklyAI
 w:Lunex.Lunex
 w:LazapDevelopment.Lazap
 w:LibreWolf.LibreWolf
@@ -2536,6 +2541,7 @@ w:LiskFoundation.LiskHub
 w:lin_ycv.EverythingPowerToys
 w:Logtalk.Logtalk
 w:LizardSystems.TerminalServicesManager
+w:LevelAI.LevelScreenRecorder
 w:LGUG2Z.komorebi
 w:LGUG2Z.masir
 w:LGUG2Z.komokana
@@ -3146,7 +3152,9 @@ w:azure06.clips
 w:ATNSOFT.KeyManager
 w:ATNSOFT.TextPaster
 w:ATNSOFT.KeyRemapper
+w:AXIS.AXISOptimizer
 w:AXIS.AxisIPUtility
+w:AXIS.AXISOptimizerBodyWornExtension
 w:AXIS.AXISDeviceManager
 w:Anydo.Anydo
 w:AlexandrSubbotin.Cerebro
@@ -3784,6 +3792,7 @@ w:Zoom.Zoom
 w:Zoom.ZoomRooms
 w:Zoom.ZoomOutlookPlugin
 w:Zoom.ZoomRemoteControl
+w:Zophie.Sticker
 w:ZeroTier.ZeroTierOne
 w:ZeusSoftware.nGlide
 w:Zen_Team.Zen_Browser
@@ -3800,6 +3809,7 @@ w:ZWSOFT.NetworkLicenseManager
 w:Zwift.Zwift
 w:Zoho.Mail
 w:Zoho.Arattai
+w:Zoho.ZohoAssist
 w:Zoho.Notebook
 w:Zoho.Connect
 w:Zoho.SalesIQ
@@ -3956,6 +3966,7 @@ w:Intel.FortranCompiler
 w:ipatalas.AppSwitcher
 w:InterActionstudios.ChickenInvaders1
 w:IndigoByte.DrExplain
+w:Illimitable.Docutaz
 w:InterceptSuite.ProxyBridge
 w:ImaginationTech.PVRTexTool
 w:ImaginationTech.PVRCarbon
@@ -4122,6 +4133,7 @@ w:Tarma.PublishOrPerish
 w:TechHit.JumpToWindow
 w:TechHit.QuickJump
 w:TeamSonarr.Sonarr
+w:Tylergibbs1.Substrate
 w:testmace.testmace
 w:TheZDaemonTeam.ZDaemon
 w:TandemHealth.Tandem
