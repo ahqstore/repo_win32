@@ -608,6 +608,7 @@ w:Perplexity.Comet
 w:Perplexity.Perplexity
 w:packetThrower.Baudrun
 w:packetThrower.PortFinder
+w:packetThrower.Zorite
 w:PeterDaveHello.TransmissionRemoteGUI
 w:PCGen.PCGen
 w:PeterStrick.ViVeTool_GUI
@@ -4122,7 +4123,6 @@ w:therealpaulgg.ssh_sync
 w:Timely.Memory
 w:tonhowtf.OmniGet
 w:terrymacdonald.DisplayMagician
-w:TheBrain.TheBrain
 w:TransposonY.GestureSign
 w:Texnomic.SecureDNS_Terminal
 w:toasterofbread.spmp
