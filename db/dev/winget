@@ -108,6 +108,7 @@ w:RaoPics.RaoPics
 w:RaspberryPiFoundation.RaspberryPiImager
 w:Rye.Rye
 w:RKibria.frhed
+w:Remio.RemioClient
 w:Remio.RemioHost
 w:RoonLabs.RoonBridge
 w:RemcoStoeten.Dora
@@ -260,6 +261,7 @@ w:Vup.Vup
 w:Vertexshare.HEICFileConverter
 w:Vertexshare.WebpConverter
 w:Velocidex.Velociraptor
+w:VibeBrains.VibeIDE
 w:VirtualDesktop.Streamer
 w:Voltius.Voltius
 w:variar.klogg
@@ -2077,6 +2079,7 @@ w:MatthiasZronek.BenchMate
 w:Microlife.WatchBPAnalyzer
 w:Maltego.Maltego
 w:Msgify.Lite
+w:Materializr.Materializr
 w:ModOrganizer2.modorganizer
 w:ManaManaIoT.DeviceManagementAssistant
 w:marcelotrevisani.zoio
@@ -3156,6 +3159,8 @@ w:kvirc.KVIrc
 w:KaringX.Karing
 w:KaringX.ClashMi
 w:KindaBrazy.LynxHub
+w:Kindel.WinPrint
+w:Kindel.mcec
 w:Kameleo.App
 w:Kubus.BCFManager.AutoCAD.2025
 w:Kubus.BCFManager.Revit.2025
@@ -3521,6 +3526,7 @@ w:Albion.Online
 w:ArcadeRenegade.SidebarDiagnostics
 w:ALCPU.CoreTemp
 w:Abelssoft.YouTubeSongDownloader
+w:AcuityBrands.VisualControls
 w:AppDynamic.AirServer
 w:ArianesLine.Ariane
 w:AMSSoftware.Clipify
@@ -3551,6 +3557,7 @@ w:accellence.vimaccProfessional
 w:accellence.vimacc
 w:AwthWathje.SteaScree
 w:Apryse.XodoPDFReader
+w:akon47.ClaudeAccountSwitcher
 w:ApSIC.Xbench
 w:AkelPad.AkelPad
 w:AlterPhoto.AlterPhoto
@@ -3612,6 +3619,8 @@ w:ColorLogic.CoPrA
 w:ColorLogic.ZePrA
 w:ColorLogic.ColorAnt
 w:Ciphra.Ciphra
+w:Code_iX.QConvert
+w:Code_iX.QNetwork
 w:ClassicOldSong.Apollo
 w:CameronSutter.Plottr
 w:Caphyon.AdvancedInstaller
@@ -3767,6 +3776,7 @@ w:Calibrite.PROFILER
 w:Clementine.Clementine
 w:coolcoala.KoalaClash
 w:CodeLite.CodeLite
+w:Codexo.ExoSnap
 w:ChrisMcLennan.mnml
 w:ChrisMcLennan.mixr
 w:ChrisMcLennan.tmnl
@@ -4137,6 +4147,7 @@ w:TrackerSoftware.PDF_XChangeStandard
 w:TrackerSoftware.PDF_XChangeViewer
 w:TrackerSoftware.PDF_Tools
 w:TrackerSoftware.PDF_XChangeEditor
+w:TrackerSoftware.PDF_XChangeLite
 w:TrackerSoftware.PDF_XChangePRO
 w:TheBlind.T_Shell
 w:Timthreetwelve.WUView
