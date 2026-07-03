@@ -745,6 +745,7 @@ w:Bethesda.Launcher
 w:BZFlag.BZFlag
 w:BlueStack.BlueStacks
 w:Bytello.BytelloShare
+w:BeagleEditor.BeagleEditor
 w:boostio.boostnote
 w:Balena.Etcher
 w:Balena.BalenaCLI
@@ -3158,6 +3159,7 @@ w:Khoj.Khoj
 w:KoushikNaskar.InteractiveDataEditor
 w:Kotatogram.Kotatogram
 w:Kubernetes.minikube
+w:KeyMasterPro.KeyMasterPro
 w:KhronosGroup.VulkanSDK
 w:kvirc.KVIrc
 w:KaringX.Karing
@@ -3582,6 +3584,7 @@ w:Chocolatey.ChocolateyGUI
 w:Convectiva.AgentWatcher
 w:CatnipGames.ShroudoftheAvatar
 w:ChristopherHotchkiss.SkylanderPortalController
+w:Cozmix.AlignMix
 w:cangzhang.champ_r
 w:COAS.Donkey
 w:COAS.SemantaModeler
@@ -4059,6 +4062,9 @@ w:Invantive.InvantiveWebService
 w:idrassi.HashCheckShellExtension
 w:Iterate.Cyberduck
 w:IQM2.MinuteTraq
+w:Igneus.SprinklerFitterCalculator
+w:Igneus.HydrantFlowTest
+w:Igneus.SimpleHydraulicCalculator
 w:ItchIo.Itch
 w:ImageMagick.ImageMagick
 w:IPEP.Scantailor_Experimental
