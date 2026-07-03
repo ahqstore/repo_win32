@@ -26,6 +26,7 @@ w:QMK.QMKToolbox
 w:qforce.DocFetcher
 w:Qt.QtDesigner
 w:QL_Win.QuickLook
+w:QZIndustries.QZTray
 w:QIAGEN.CLCGenomicsWorkbench
 w:QIAGEN.CLCNetworkLicenseManager
 w:QIAGEN.CLCServerCommandLineTools
@@ -655,6 +656,7 @@ w:Baidu.BaiduSpeechInput
 w:Baidu.BaiduPinyin
 w:Baidu.TeraBox
 w:Baidu.BaiduSIMeeting
+w:Barracuda.SecureEdgeAgent
 w:Benji377.Tooka
 w:BitcoinCoreProject.BitcoinCore
 w:bkryza.clang_uml
