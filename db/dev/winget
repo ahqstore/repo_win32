@@ -1886,7 +1886,6 @@ w:Splashtop.SplashtopStreamer
 w:Splashtop.SplashtopStreamer.Deployment.MSI
 w:Stream_Pi.Client
 w:Stream_Pi.Server
-w:SUSE.RancherDesktop
 w:STEMpedia.PictoBlox
 w:SolarWinds.SolarWindsTFTPServer
 w:Sysprogs.SmarTTY
@@ -4591,3 +4590,4 @@ w:Unibo.Alchemist
 w:Ultimaker.Cura
 w:univrsal.scrab
 w:univrsal.tuna
+w:unpaved028.ClipTyper
