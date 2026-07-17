@@ -2473,6 +2473,7 @@ w:LocalTV.Remote
 w:lemueldls.mnemo
 w:LukiLabs.Craft
 w:Lazesoft.LazesoftRecovery
+w:LoxSmoke.OpenLogiNet
 w:Lunascape.Phoebe
 w:Laker.EasyPostman
 w:LifeAt.LifeAt
@@ -3114,7 +3115,6 @@ w:Microsoft.VSTOR
 w:Microsoft.GlobalSecureAccessClient
 w:Microsoft.quicreach
 w:Microsoft.Sqlcmd
-w:Microsoft.GameInput
 w:Microsoft.16BitInstallShieldSupport
 w:Microsoft.ServiceFabricSDK
 w:Microsoft.PowerAutomateDesktop
@@ -3886,6 +3886,7 @@ w:CakeWallet.CakeWallet
 w:Chill_Astro.Lamina
 w:CorporateClashCrew.ToontownCorporateClash
 w:Cencit.BAS21
+w:CyrilPeng.VeneraNext
 w:Caphyon.Hover
 w:Caphyon.AdvancedInstaller
 w:chanplecai.smarttaskbar
