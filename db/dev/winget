@@ -2290,7 +2290,6 @@ w:Hydraulic.Conveyor
 w:HermannSchinagl.LinkShellExtension
 w:Hyperionics.HyperSnap9
 w:Heroku.HerokuCLI
-w:H2IK.JoystickGremlin
 w:HypixelStudios.Hytale
 w:Huawei.Welink
 w:Huawei.DevEcoDeviceTool
@@ -3405,6 +3404,7 @@ w:RockinChaos.Shiru
 w:Refactoring.Tolaria
 w:Relux.ReluxDesktop
 w:RemcoStoeten.Dora
+w:RemcoStoeten.Skriuw
 w:raimo.Smallpdf
 w:Remio.RemioClient
 w:Remio.RemioHost
