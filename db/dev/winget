@@ -455,6 +455,7 @@ w:Thorlabs.SA201B
 w:Thorlabs.FWxC
 w:Thorlabs.PCD1K
 w:Thorlabs.TC200
+w:tsouth89.CubbyClipboard
 w:TobySuggate.GitFiend
 w:tanshuai.alphabiz
 w:Trelby.Trelby
@@ -523,6 +524,7 @@ w:toyobayashi.mishiro
 w:TUitTUWien.TUtoolbox
 w:Twinkstar.TwinkstarBrowser
 w:tonythethompson.QuickShell
+w:tonythethompson.QuickShellforCmdPal
 w:TreasureData.TDAgent
 w:TheZDaemonTeam.ZDaemon
 w:TablePlus.TablePlus
@@ -701,6 +703,7 @@ w:WALTRONE.MouseKeeper
 w:WHTA.Tamara
 w:Wacom.WacomTabletDriver
 w:Wasmer.Wasmer
+w:WarlordSoftwares.4kwall
 w:wanghongenpin.ProxyPin
 w:Waytech.CloudDrive2
 w:WXRIW.Lyricify
@@ -831,6 +834,7 @@ w:OctopusDeploy.Cli
 w:Orwell.Dev_C++
 w:OpenGeos.GeoLibre
 w:OpenShopChannel.Downloader
+w:OwenMcGirr.UsefulTopmost
 w:opentrack.opentrack
 w:OctopusData.Octoparse
 w:OpenRails.OpenRails
@@ -1251,6 +1255,7 @@ w:ENVI_met.ENVI_met
 w:eMule.eMule
 w:Enigma.VirtualBox
 w:Emulationstation.Emulationstation
+w:ensardev.QuiverKit
 w:HandBrake.HandBrake
 w:HamRadioDeluxe.HamRadioDeluxe
 w:hamidfzm.Glyph
@@ -1655,6 +1660,7 @@ w:AGSProjectTeam.AdventureGameStudio
 w:Andersama.obs_asio
 w:alesimula.wsa_pacman
 w:Arm.GnuArmEmbeddedToolchain
+w:ArcBox.LinkCode
 w:Artha.Artha
 w:ahkohd.switch
 w:alexvallat.AlbumArtDownloader
@@ -2441,6 +2447,7 @@ w:FlawlessWidescreen.FlawlessWidescreen
 w:FredEmmott.HandTrackedCockpitClicking
 w:Faithlife.Logos
 w:filips.FirefoxPWA
+w:FSPProductions.FileHasher
 w:floyd68.FICture2
 w:FlorianFechner.Cells
 w:FastStone.Viewer
@@ -2841,6 +2848,7 @@ w:NelsonNumericalSoftware.Nelson
 w:NetSarangComputer.PortX
 w:Nova_Max.XBatteryStatus
 w:nvisionative.nvQuickSite
+w:neyham.AIUsageDashboard
 w:nzbget.nzbget
 w:Nickvision.Parabolic
 w:NearAI.IronClaw
@@ -3137,6 +3145,7 @@ w:CareScribe.CaptionEd
 w:CareScribe.TalkType
 w:ComicCatcher.ComicCatcher
 w:Cryptomator.Cryptomator
+w:CaptainKillSwitch.CaptainKillSwitch
 w:CorporateClashCrew.ToontownCorporateClash
 w:cLLeB.Gear
 w:Canonical.Juju
@@ -3509,7 +3518,6 @@ w:LibrePCB.LibrePCB
 w:Logtalk.Logtalk
 w:Levminer.Authme
 w:lexandro.mdedit
-w:Logseq.Logseq
 w:LibreCAD.LibreCAD
 w:LoreSoft.MSBuildCommunityTasks
 w:LSXPrime.ProseFlow
@@ -3915,6 +3923,7 @@ w:Seafile.Seadrive
 w:Seafile.Seafile
 w:SyncROSoft.OxygenPDFChemistry
 w:SmartHoldemDAPPs.heads_tails
+w:sharpninja.ViceSharp
 w:SSHFS_Win.SSHFS_Win
 w:Shabinder.SpotiFlyer
 w:SomePythonThings.ZipManager
@@ -4197,6 +4206,7 @@ w:GitHub.GitLFS
 w:gnuplot.gnuplot
 w:gtamas.etcdmanager
 w:GitButler.GitButler
+w:GimHome.KanbanViz
 w:GAM_Team.gam
 w:GraphPad.Prism
 w:GOG.Galaxy
@@ -4678,6 +4688,7 @@ w:Beeftext.Beeftext
 w:Balena.BalenaCLI
 w:Balena.Etcher
 w:bruhov.WinThumbsPreloader
+w:Beulea.EveIndustry
 w:Blur009.BlurAutoClicker
 w:Beamr.JPEGminiPro
 w:BiniSoft.WindowsFirewallControl
