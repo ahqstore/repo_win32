@@ -3020,6 +3020,7 @@ w:Intel.oneMKL
 w:Intel.IntelDriverAndSupportAssistant
 w:Intel.FortranCompiler
 w:ibrahemid.Writ
+w:ibsorn.gLabels
 w:IvyScience.ivySCI
 w:ImperativeSoftware.InputDirector
 w:IPMHub.IPM
@@ -3263,6 +3264,7 @@ w:crosswire.xiphos
 w:CloudImperiumGames.RSILauncher
 w:ControlUp.ControlUpAgent
 w:Code_iX.QTiles
+w:Code_iX.QTop
 w:Code_iX.QConvert
 w:Code_iX.QNetwork
 w:COWON.jetAudio
@@ -4486,6 +4488,7 @@ w:Phoner.PhonerLite
 w:Paragon.HFS+
 w:PuTTY.PuTTY
 w:Postimage.Postimage
+w:ProxyKit.ProxyKitCLI
 w:Proton.ProtonDrive
 w:Proton.ProtonVPN
 w:Proton.ProtonMailBridge
