@@ -1986,6 +1986,7 @@ w:Microsoft.IntegrationRuntime
 w:Microsoft.RemoteHelp
 w:Microsoft.FSLogix
 w:Microsoft.AzureCLI
+w:Microsoft.WindowsBatteryLifeTool
 w:Microsoft.MouseWithoutBorders
 w:Microsoft.DependencyAgent
 w:Microsoft.GlobalSecureAccessClient
