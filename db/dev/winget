@@ -731,6 +731,7 @@ w:uxmal.reko
 w:UprightLabs.ListerConnect
 w:UnionTech.DeepinCloudScanServer
 w:UnionTech.DeepinCloudPrintServer
+w:Uncaged.Uncaged
 w:Unigine.SuperpositionBenchmark
 w:Unigine.HeavenBenchmark
 w:Unigine.ValleyBenchmark
@@ -1995,7 +1996,6 @@ w:Microsoft.DependencyAgent
 w:Microsoft.GlobalSecureAccessClient
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.VisualStudio.Extensions.TypeScript
-w:Microsoft.DeploymentToolkit
 w:Microsoft.ProfileExplorer
 w:Microsoft.PIX
 w:Microsoft.WindowsAdminCenter
@@ -3266,7 +3266,6 @@ w:coolcoala.KoalaClash
 w:crosswire.xiphos
 w:CloudImperiumGames.RSILauncher
 w:ControlUp.ControlUpAgent
-w:Code_iX.QTiles
 w:Code_iX.QTop
 w:Code_iX.QConvert
 w:Code_iX.QNetwork
@@ -4489,7 +4488,6 @@ w:Powerformer.OpenDesign
 w:Primesieve.Primesieve
 w:Phoner.PhonerLite
 w:Paragon.HFS+
-w:PuTTY.PuTTY
 w:Postimage.Postimage
 w:ProxyKit.ProxyKitCLI
 w:Proton.ProtonDrive
