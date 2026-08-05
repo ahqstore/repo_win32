@@ -569,6 +569,7 @@ w:WinStep.Nexus
 w:wire.wire
 w:WeatherStudio.WSV3
 w:WixPie.WixPie
+w:WhatPulse.WhatPulse
 w:WjjSoft.MybaseDesktop
 w:WjjSoft.MybaseServer
 w:WeakAuras.WeakAurasCompanion
@@ -764,7 +765,6 @@ w:Uniqkey.UniqkeyDesktop
 w:UweSieber.USBDLM
 w:Ultimaker.Cura
 w:UniversityOfAmsterdam.JASP
-w:Unity.UnityHub
 w:Unity.Unity.CN.2021
 w:Unity.Unity.CN.2023
 w:Unity.Unity.CN.2022
@@ -1523,6 +1523,7 @@ w:AGTEK.MaterialsSA
 w:AGTEK.Gradework
 w:AGTEK.UndergroundSA
 w:AGTEK.Trackwork
+w:AptiStock.AptiStockX
 w:A_SIT.PDF_Over
 w:Ahlyab.UdemyCouponFetcher
 w:Ahlyab.PasswordChecker
@@ -2483,6 +2484,7 @@ w:FxSound.FxSound
 w:FarManager.FarManager
 w:FounderType.FounderType
 w:FlyByWireSimulations.FlyByWireSimulationsInstaller
+w:FreedomofthePressFoundation.Dangerzone
 w:Fork.Fork
 w:FengZeng.Soia
 w:FineprintSoftware.pdfFactory
@@ -2529,6 +2531,7 @@ w:fjsoft.MyPhoneExplorer
 w:frequency403.OpenSSHGUI
 w:feugy.melodie
 w:Floweb.Floweb
+w:FactFoundry.SemanticModeler
 w:Foldr.Foldr
 w:Flameshot.Flameshot
 w:FEITIAN.SKManager
@@ -3477,6 +3480,7 @@ w:vassalengine.VASSAL
 w:Valyreon.Subloader
 w:Vinkius.MCPDesktop
 w:Velocidex.Velociraptor
+w:VAND.VAND
 w:VirtualDesktop.Streamer
 w:vividos.winLAME
 w:VovSoft.HideFiles
@@ -3677,6 +3681,7 @@ w:SnailDOS.StreamBop
 w:SnailDOS.SnailFM
 w:SonicTeamJr.SonicRoboBlast2
 w:StirlingTools.StirlingPDF
+w:sf_yuzifu.bcm_convertor
 w:SnoopWpf.Snoop
 w:SpectrumQT.XXMILauncher
 w:Sejda.PDFDesktop
@@ -3981,7 +3986,6 @@ w:Sogou.SogouInput
 w:Sogou.SogouInputSkinEditor
 w:SerialStudio.SerialStudio
 w:sidneys.pb_for_desktop
-w:stnkl.EverythingToolbar
 w:ScaryRawr.SL
 w:Splawik.pytigon
 w:Santesoft.SantePacsServerPG
