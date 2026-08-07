@@ -183,6 +183,7 @@ w:Devolutions.Agent
 w:Devolutions.Gateway
 w:Devolutions.Workspace
 w:Devolutions.RemoteDesktopManagerAgent
+w:Dexcom.DexcomUploader
 w:DragonLang.Dragon
 w:damt.Eqho
 w:Dyad.Dyad
@@ -458,6 +459,7 @@ w:Thorlabs.SA201B
 w:Thorlabs.FWxC
 w:Thorlabs.PCD1K
 w:Thorlabs.TC200
+w:tsouth89.Ceiling
 w:tsouth89.CubbyClipboard
 w:TobySuggate.GitFiend
 w:tanshuai.alphabiz
@@ -814,11 +816,13 @@ w:OpenMedia.4KVideoToMP3
 w:OpenMedia.4KVideoDownloader
 w:OpenMedia.4KStogram
 w:OpenMedia.4KTokkit
+w:OO_Software.DiskRecovery
 w:OuterWildsMods.OuterWildsModManager
 w:OmegaT.OmegaT
 w:OpenShot.OpenShot
 w:OpenRocket.OpenRocket
 w:OpenSource.Grisbi
+w:Oscium.MetaGeekApp
 w:OpenGOAL.Launcher
 w:ogdesign.Eagle
 w:ossia.score
@@ -1133,6 +1137,7 @@ w:ENERCON.SCADARemote
 w:equalsraf.neovim_qt
 w:EuropeanCommission.EUROMOD
 w:Ecosia.EcosiaBrowser
+w:EuropeanSpaceAgency.SNAP
 w:EuSoft.Eudic
 w:EventHelix.VisualEther
 w:Erlang.ErlangOTP
@@ -1141,6 +1146,7 @@ w:Elcomsoft.ElcomsoftUpdater
 w:Elcomsoft.AdvancedPDFPasswordRecovery
 w:EVEIPH.EVEIPH
 w:ExacqTechnologies.exacqVisionClient
+w:Ekahau.Capture
 w:Eassos.CuteRecovery
 w:Eassos.DiskGenius
 w:EasyTier.EasyTierGUI
@@ -1543,6 +1549,8 @@ w:Adobe.Acrobat.Pro.2020
 w:Adobe.Brackets
 w:AirDroid.AirDroid
 w:Abacus.AbaClient
+w:axes4.axesPDF
+w:axes4.axesWord
 w:axes4.PAC
 w:Alibaba.LightProxy
 w:Alibaba.Lingma
@@ -1704,6 +1712,7 @@ w:Allecsc.StremioKai
 w:antonreshetov.massCode
 w:agentty.agentty
 w:Anydo.Anydo
+w:Atlassian.Rovo
 w:androidWG.Corkscrew
 w:AbiruzzamanMolla.DailyPrayerTimer
 w:AXIS.AXISDeviceManager
@@ -1901,6 +1910,7 @@ w:monkeyWie.Gopeed
 w:muCommander.muCommander
 w:Mojang.MinecraftLauncher
 w:Mstrx.NoKill
+w:MailStore.MailStoreClient
 w:MongoDB.Server
 w:MongoDB.MongoDBCLI
 w:MongoDB.Shell
@@ -1993,6 +2003,7 @@ w:MiTeC.ProjectMaker
 w:MiTeC.InfoBar
 w:MartinBresson.Executor
 w:Meazure.GuardianBrowser
+w:mcuee.libusb_win32
 w:Microsoft.RemoteDesktopClient
 w:Microsoft.IdFix
 w:Microsoft.ServiceFabricSDK
@@ -2060,6 +2071,7 @@ w:mmalmi.nostr_vpn
 w:Mondago.GoIntegratorCara
 w:Moku.Moku
 w:Mirillis.SplashUltimate
+w:MIDAS.MDesk
 w:MedZed.youtubetomp3
 w:mortenn.BrowserPicker
 w:MarcielDegasperi.MDBAdmin
@@ -3054,6 +3066,7 @@ w:Igneus.SimpleHydraulicCalculator
 w:Igneus.HydrantFlowTest
 w:Iconscout.Iconscout
 w:ImageMagick.ImageMagick
+w:ilastik.ilastik
 w:Iceni.InfixPDFEditor
 w:IBESoftware.HelpNDoc
 w:Invo.InvoConnect
@@ -3178,6 +3191,7 @@ w:CallMarcus.DJIMetadataEmbedder
 w:Caprine.Caprine
 w:Chatty.Chatty
 w:Castr.Castr
+w:CardExchange.PriceTag
 w:Clickteam.InstallCreator
 w:Clickteam.PatchMaker
 w:Columnar.dbc
@@ -3582,6 +3596,7 @@ w:Langflow.Langflow
 w:Lucanet.LucanetSoftwareManager
 w:lemueldls.mnemo
 w:LucidLink.LucidLink
+w:Lonestill.OnyxLauncher
 w:LightZoneProject.LightZone
 w:Loko.OnyxCode
 w:LIGHTNINGUK.ImgBurn
@@ -3695,6 +3710,7 @@ w:Splunk.UniversalForwarder
 w:schemacrawler.schemacrawler
 w:SamuelElliott.NintendoSwitchOnline
 w:SatDump.SatDump
+w:SzymonPorwolik.CQOps
 w:SWI_Prolog.SWI_Prolog
 w:Sonos.S1Controller
 w:Sonos.Controller
@@ -3807,6 +3823,7 @@ w:ScopeFun.ScopeFun
 w:Safing.Portmaster
 w:SystweakSoftware.DuplicateFilesFixer
 w:StardockSystems.DeskScapes2026
+w:SaturnPCBDesign.SaturnPCBToolkit
 w:Stormix.DeadlockModManager
 w:seb07_cloud.AVDHealthMonitor
 w:SimpleTex.SimpleTex
@@ -4530,6 +4547,15 @@ w:Bytello.BytelloShare
 w:BedaKosata.BKChem
 w:BlueStack.BlueStacks
 w:brunurd.companion
+w:BroadcastRadio.AudioMonitor
+w:BroadcastRadio.HardwareService
+w:BroadcastRadio.MyriadPlayoutSupportApplications
+w:BroadcastRadio.MyriadManagementService
+w:BroadcastRadio.BootStuff
+w:BroadcastRadio.MyriadSchedule
+w:BroadcastRadio.MyriadPlayout
+w:BroadcastRadio.MyriadAutoTrackSE
+w:BroadcastRadio.BRLiveStudioClient
 w:BerndBestel.grocy_desktop
 w:BrunoNova.DrMIPS
 w:BohdanKoudelka.FileSearchManager
@@ -4596,6 +4622,7 @@ w:BinanceTech.Binance
 w:byte_physics.ipt
 w:Blushyes.Sofast
 w:BetterCrewLink.BetterCrewLink
+w:Bluebits.Trikker
 w:Bambulab.Bambustudio
 w:Beeper.Beeper
 w:BenjaminLSR.HandheldCompanion
