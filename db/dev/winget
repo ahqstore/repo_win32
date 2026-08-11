@@ -1491,6 +1491,7 @@ w:AAS.WorldWideTelescope
 w:Antutu.AntutuLLMBenchmark
 w:Antutu.AntutuBenchmark
 w:Aegisub.Aegisub
+w:AiRost.RemoteDeck
 w:airSlate.pdfFiller
 w:AppiumDevelopers.AppiumInspector
 w:Approximatrix.SimplyFortran
@@ -2042,6 +2043,10 @@ w:Microsoft.WindowsADK
 w:Microsoft.DotNet.DesktopRuntime.6
 w:Microsoft.DotNet.DesktopRuntime.Preview
 w:Microsoft.DotNet.HostingBundle.Preview
+w:Microsoft.DotNet.HostingBundle.8
+w:Microsoft.DotNet.AspNetCore.8
+w:Microsoft.DotNet.SDK.Preview
+w:Microsoft.DotNet.SDK.8
 w:Microsoft.Coreutils
 w:Microsoft.WindowsTerminal
 w:Microsoft.PowerBIReportServer
@@ -3120,6 +3125,7 @@ w:isl_kocher.isl_baustellenmanager
 w:Insecure.Nmap
 w:iChemLabs.ChemScribble
 w:iChemLabs.ChemDoodle
+w:iChemLabs.ChemDoodle3D
 w:IQM2.MinuteTraq
 w:InterActionstudios.ChickenInvaders1
 w:Iriun.IriunVR
@@ -4434,6 +4440,7 @@ w:PenguinLabs.Cacher
 w:PrimeBuild.LightCrosshair
 w:PrimeBuild.TweakHub
 w:Proxyman.Proxyman
+w:PingRank.PingRank
 w:PCGen.PCGen
 w:PadWorld_Entertainment.WorldOfPadman
 w:Plex.PlexHTPC
