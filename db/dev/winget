@@ -2044,11 +2044,17 @@ w:Microsoft.WindowsADK
 w:Microsoft.DotNet.DesktopRuntime.6
 w:Microsoft.DotNet.DesktopRuntime.Preview
 w:Microsoft.DotNet.DesktopRuntime.10
+w:Microsoft.DotNet.DesktopRuntime.8
 w:Microsoft.DotNet.HostingBundle.Preview
+w:Microsoft.DotNet.HostingBundle.10
 w:Microsoft.DotNet.HostingBundle.8
 w:Microsoft.DotNet.HostingBundle.9
+w:Microsoft.DotNet.AspNetCore.Preview
 w:Microsoft.DotNet.AspNetCore.8
+w:Microsoft.DotNet.Runtime.10
+w:Microsoft.DotNet.Runtime.8
 w:Microsoft.DotNet.SDK.Preview
+w:Microsoft.DotNet.SDK.10
 w:Microsoft.DotNet.SDK.8
 w:Microsoft.Coreutils
 w:Microsoft.WindowsTerminal
@@ -4028,6 +4034,7 @@ w:Signiant.Kyno
 w:SyncTrayzor.SyncTrayzor
 w:SnipeGroupLimited.Snipe
 w:StefanMalzner.Franz
+w:Spokenly.Spokenly
 w:SartoxOnlyGNU.Audacium
 w:Smogon.PokemonShowdown
 w:Sogou.SogouWBInput
