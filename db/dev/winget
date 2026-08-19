@@ -449,6 +449,7 @@ w:EventHelix.VisualEther
 w:EPOS.EPOSConnect
 w:EXEMSI.MSIWrapper
 w:EcoPaste.EcoPaste
+w:Ephraem.InputBar
 w:EuSoft.Eudic
 w:Espressif.eim
 w:ENVI_met.ENVI_met
@@ -1944,6 +1945,7 @@ w:Gadwin.DiagramStudio
 w:Gadwin.WebSnapshot
 w:Gadwin.ScreenRecorder
 w:Gadwin.GeForms
+w:GiovaniFreitag.lode
 w:Granola.Granola
 w:GDGSoftware.PaquetBuilder
 w:Gynzy.GynzyDesktop
