@@ -203,6 +203,7 @@ w:Velocidex.Velociraptor
 w:votinvv.JustQuery
 w:Volta.Volta
 w:ViewSonic.AirSyncSender
+w:ViewSonic.DisplayPortal
 w:VariCAD.VariCAD
 w:VariCAD.VariCADViewer
 w:VentoByte.Proxifier
@@ -265,10 +266,12 @@ w:Zidoro.Pomatez
 w:zevnda.SteamGameIdler
 w:Zultys.ZAC
 w:ZhornSoftware.Stickies
+w:zenolab124.Monet
 w:ZhongshiHuiyun.Boom
 w:Zenarmor.Zenarmor
 w:ZMGID.Kivio
 w:ZauJulio.ZeroWhats
+w:ZRainbow1275.BentoDesk
 w:ZaferKilic.MDPlus
 w:Zoho.Arattai
 w:Zoho.ZohoAssist
@@ -280,6 +283,7 @@ w:Zoho.Mail
 w:Zimwiki.Zim
 w:Zentraedi.ZSPACE
 w:ZeusSoftware.nGlide
+w:ZH_heng.TextLens
 w:Ziad.TCG
 w:ZeroTier.ZeroTierOne
 w:zkSNACKs.WasabiWallet
@@ -303,6 +307,7 @@ w:zeankundev.suside
 w:ZoiteChat.ZoiteChat
 w:zumoshi.BrowserSelect
 w:ZugferdCommunity.QubaViewer
+w:zcx960.DeepSeekDesktop
 w:zhaopengme.gitnote
 w:zafaco.Breitbandmessung
 w:Zandronum.Zandronum
@@ -320,6 +325,7 @@ w:Elastic.Packetbeat
 w:Elastic.Auditbeat
 w:Elastic.Filebeat
 w:Elastic.Metricbeat
+w:Evolis.BadgeStudio
 w:esignatur.esignaturPrint
 w:EastSun5566.HackDesk
 w:erez_c137.NetSpeedTray
@@ -348,6 +354,7 @@ w:ESET.Security
 w:ESET.EndpointAntivirus
 w:ESET.EndpointSecurity
 w:EvilHumphrey.LegendCTL
+w:EspressoDisplays.espressoFlow
 w:EuropeanCommission.EUROMOD
 w:ESBConsultancy.ESBCalc
 w:ESBConsultancy.ESBCalc.Pro.Trial
@@ -364,6 +371,8 @@ w:Eagle1.PrettyMark
 w:EliasFotinis.DeskPins
 w:EDCD.EliteDangerousMarketConnector
 w:Exelearning.Exelearning
+w:EasyMorph.EasyMorph
+w:EasyMorph.EasyMorphHub
 w:EclipseFoundation.SUMO
 w:EclipseFoundation.Mosquitto
 w:ElCruncharino.NeoStego
@@ -492,6 +501,7 @@ w:ErkanOzgurYilmaz.DisplayCAL
 w:Eumenes.HOSMeeting
 w:EinsVier.BlitzText
 w:Empoche.Empoche
+w:Egress.Egress
 w:developersu.ns_usbloader
 w:DBMobile.Resonance
 w:daynix.UsbDk
@@ -623,6 +633,7 @@ w:dev47apps.DroidCam
 w:dev47apps.DroidCamOBSPlugin
 w:dev47apps.DroidCamOBSClient
 w:Dicarne.TheCenter
+w:DigitalDetective.DCode
 w:dabrain34.GstPipelineStudio
 w:DigiDNA.iMazingProfileEditor
 w:DigiDNA.iMazing
@@ -869,6 +880,7 @@ w:FastStone.Viewer
 w:FireDaemon.OpenSSL
 w:Framer.Framer
 w:FastCopy.FastCopy
+w:Fragstats.Fragstats
 w:cuzic.awase
 w:Couchcoding.Logbert
 w:Codexo.ExoSnap
@@ -999,6 +1011,7 @@ w:ChristianKaiser.Lightscreen
 w:cawa_93.anime_library
 w:CleverFiles.DiskDrill
 w:chrox.Readest
+w:Coooolfan.UniRhy
 w:chuccp.win_sshpass
 w:Confold.Confold
 w:Cryptomator.Cryptomator
@@ -1034,6 +1047,7 @@ w:Commitlint.Commitlint
 w:Carbide3D.CarbideCreate
 w:Caprine.Caprine
 w:CardExchange.PriceTag
+w:CardExchange.Press
 w:Clementine.Clementine
 w:CareScribe.CaptionEd
 w:CareScribe.TalkType
@@ -1652,6 +1666,8 @@ w:RDPilot.RDPilot
 w:Raudo.RaudoIPTV
 w:RbDevOps.HMPraxis
 w:Ritlabs.TheBat
+w:Ratta.SupernotePartner
+w:RongleCat.GrokApp
 w:RabidViperProductions.AssaultCube
 w:RicochetIM.Ricochet
 w:RockinChaos.Shiru
@@ -2490,6 +2506,7 @@ w:Modrinth.ModrinthApp
 w:MSEndpointMgr.IntuneDebugToolkit
 w:ModOrganizer2.modorganizer
 w:MiniMax.MiniMaxCode
+w:MiniMax.MiniMaxDesign
 w:macnev2013.anySCP
 w:Movavi.MovaviPowerPointToVideoConverter
 w:Movavi.MovaviScreenRecorder
@@ -2520,6 +2537,7 @@ w:MathWorks.MATLABRuntime
 w:MathWorks.MATLABConnector
 w:Mu.Mu
 w:McServ.McServ
+w:MemoirStudio.Memoir
 w:MHNexus.HxD
 w:MediaHuman.Collagerator
 w:MediaHuman.VideoConverter
@@ -2528,6 +2546,7 @@ w:MediaHuman.AudioConverter
 w:MediaHuman.YouTubeToMP3Converter
 w:MediaHuman.YouTubeDownloader
 w:MediaHuman.mTube
+w:Maka.Maka
 w:Meituan.TabbitBrowser
 w:MPI.ELAN
 w:Mimecast.MimecastSynchronizationEngine
@@ -2843,6 +2862,7 @@ w:SnailDOS.SnailFM
 w:SiberSystems.RoboForm
 w:SSHFS_Win.SSHFS_Win
 w:Sinew.Enpass
+w:SuperSmashing.Blink
 w:Symless.Synergy
 w:ShiftPad.ShiftPad
 w:SecurityRonin.disk4n6
@@ -3084,6 +3104,7 @@ w:Unigine.HeavenBenchmark
 w:Unigine.ValleyBenchmark
 w:Unigine.SuperpositionBenchmark
 w:Unibo.Alchemist
+w:UnslothAI.Unsloth
 w:uxmal.reko
 w:Unknown_HorizonsTeam.Unknown_Horizons
 w:UprightLabs.ListerConnect
@@ -3423,11 +3444,13 @@ w:LMCP.LocalMCP
 w:LinkopingUniversity.Hopsan
 w:LocalTV.Remote
 w:Levminer.Authme
+w:Lody.Lody
 w:LouisHinchliffe.HardwareMon
 w:LoreSoft.MSBuildCommunityTasks
 w:luizzak.GIFViewer
 w:LiteratureAndLatte.Scrivener
 w:LiteratureAndLatte.Scapple
+w:lencx.Noi
 w:lencx.ChatGPT
 w:LSoftTechnologies.ActiveDiskImage
 w:LSoftTechnologies.ActivePartitionRecovery
@@ -3559,6 +3582,7 @@ w:XMoto.XMoto
 w:xssnick.TON_Torrent
 w:XCP_ng.Center
 w:XLDevelopment.UPnPWizard
+w:xiufengsun.TokenTracker
 w:AndreWiethoff.ExactAudioCopy
 w:asheroto.MessagesforWeb
 w:Asep1582.GTN_Easymode
@@ -3860,6 +3884,7 @@ w:AlterPhoto.AlterPhoto
 w:AnchorFree.TouchVPN
 w:Avanquest.SodaPDFDesktop
 w:afonsojramos.discrakt
+w:amine123max.Monolith
 w:AlexanderPaterson.PodcastSoundboard
 w:ArashiVisionInc.Insta360Studio
 w:AdamMiskiewicz.GraphiQL
@@ -4037,6 +4062,7 @@ w:WiresharkFoundation.Stratoshark
 w:Waytech.CloudDrive2
 w:wenming.ThirdSpace
 w:Wangnov.CodexAppManager
+w:wxhcore.BumbleHive
 w:Waterfox.WaterfoxClassic
 w:Waterfox.Waterfox
 w:Wozhi.WizNote
@@ -4122,6 +4148,7 @@ w:webrecorder.replayweb_page
 w:WACUP.WACUP
 w:Wisedu.CAT
 w:winaero.tweaker
+w:WingSoft.FTPRush
 w:WitteSoftware.ModbusPoll
 w:WitteSoftware.ModbusSlave
 w:WEIFENG2333.VideoCaptioner
@@ -4243,6 +4270,7 @@ w:360.360Zip
 w:360.360DocProtect
 w:3d_io.Exr_IO
 w:2BrightSparks.UndeleteOnClick
+w:2218164692.FridaGUIHelper
 w:Kotatogram.Kotatogram
 w:KakaoEntertainmentCorp.MelonPlayer
 w:KaringX.Karing
@@ -4334,6 +4362,7 @@ w:Kindel.mcec
 w:Kindel.WinPrint
 w:Koyubi.SKK
 w:klinker24.google_calendar_desktop
+w:Kuddev.Nebula
 w:KhronosGroup.VulkanSDK
 w:Keybase.Keybase
 w:Kesomannen.Gale
@@ -4441,6 +4470,7 @@ w:ipatalas.AppSwitcher
 w:Intralinks.IntralinksDesigner
 w:iTop.IOTransfer
 w:iTop.iTopVPN
+w:iPlato.iPlatoToolbar
 w:iOSGods.Sideloadly
 w:Insynchq.Insync
 w:IPEVO.CamControl
@@ -4605,6 +4635,7 @@ w:Oracle.VirtualBox
 w:Oracle.MySQL
 w:Oracle.JavaRuntimeEnvironment
 w:Okta.OktaVerify
+w:Okta.ScaleFT
 w:OpenCascade.CADAssistant
 w:OpenCoworkAI.OpenCoDesign
 w:OBSProject.obs_amd_encoder
@@ -4836,9 +4867,11 @@ w:Paessler.PRTGDesktop
 w:Pixellu.SmartAlbums
 w:PowerSoftware.PowerISO
 w:PowerSoftware.AnyBurn
+w:Probably.BackScene
 w:PointPlanck.FileBot
 w:PicoTorrent.PicoTorrent
 w:PRelectronics.PReset
+w:ProcessingFoundation.Processing
 w:PreVeil.PreVeil
 w:Purple.PurplePlus
 w:PlotSoft.PDFill
