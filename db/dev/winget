@@ -37,6 +37,7 @@ w:NoMoreFood.PuTTY_CAC
 w:NetSurf.NetSurf
 w:NoRiskClient.Launcher
 w:NathanBeals.WinSSH_Pageant
+w:NamelessSaint.EntraChecks
 w:Nexmoe.VidBee
 w:Navitel.NavitelDvrPlayer
 w:NDBlist.YaND
@@ -3439,6 +3440,7 @@ w:Loxone.LoxoneConfig
 w:lonr_6.CCDesktopSwitch
 w:LukaszSwiszcz.Winpinator
 w:LibrePCB.LibrePCB
+w:LudoTechnologies.Hiroba
 w:leonsnajdr.sast
 w:LaurentPRenedeCotret.pandoc_plot
 w:LogMeIn.Hamachi
@@ -3799,6 +3801,7 @@ w:AdventDevelopmentInc.Kudu
 w:aliceandbob_io.aliceandbob
 w:Avocode.Avocode
 w:Argente.DriveCleaner
+w:Argente.RegistryCleaner
 w:Argente.UninstallManager
 w:Argente.SystemRepair
 w:Argente.StartupManager
@@ -3894,7 +3897,6 @@ w:Austin_Patrician.MultiCLIStudio
 w:ABowlOfEleven.hopscout
 w:ABowlOfEleven.NeonPrime
 w:AsciidocFX.AsciidocFX
-w:AlekseyHoffman.Sigma_File_Manager
 w:AlekseyHoffman.SigmaFileManager
 w:AlexThuering.DVDStyler
 w:AlveSvaren.Resizer2
@@ -4787,6 +4789,8 @@ w:Psi.Psi
 w:Penneo.Penneo
 w:PhotonicsTUL.PLaSK
 w:PrismLauncher.PrismLauncher
+w:pzielinski.pureplayer
+w:pzielinski.purequery
 w:pzielinski.purerequest
 w:pavlobu.deskreen
 w:Palsternakka.OutlookWindowHook
