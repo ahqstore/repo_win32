@@ -138,6 +138,7 @@ w:Nvidia.GeForceNow
 w:NonpolynomialLabs.IntifaceCentral
 w:Nisonxi.PowerDoze
 w:NextITComputers.CyberProt
+w:NextITComputers.StasherX
 w:NuitsJp.ClaudeToZenn
 w:noguia.lockbox
 w:NETIO.NETIODiscover
@@ -563,6 +564,7 @@ w:dontcallmejames.CodexBar
 w:DeutLab.HandyVoice
 w:Dutchview.Flexwhere
 w:docmirror.dev_sidecar
+w:Draconequus.PromptlyHash
 w:Deezer.Deezer
 w:DavidXanatos.TaskExplorer
 w:DZEDSystems.DragonframeLicenseManager
@@ -573,6 +575,7 @@ w:Ditto.Ditto
 w:DIAL.DIALux_evo
 w:deepnight.LDtk
 w:DORON177.BatteryHub
+w:DynoTable.DynoTable
 w:DreamSourceLab.DSView
 w:DeepCool.DeepCool
 w:DevToys_app.DevToys
@@ -999,6 +1002,7 @@ w:CodeBerserkers888.DxGPT_AI
 w:CatnipGames.ShroudoftheAvatar
 w:Corel.WinZip
 w:CopyTrans.Studio
+w:ClumsysLab.ClumsyLinkWatch
 w:CarstenGehling.JiraStopWatch
 w:ContourDesign.ContourShuttle
 w:CEB.CEBEBankAssistant
@@ -1974,6 +1978,7 @@ w:GeoGebra.GraphingCalculator
 w:GeoGebra.CalculatorSuite
 w:GeoGebra.CASCalculator
 w:GaetanSencie.Retro_asteroid_war
+w:gohide.gohide
 w:garethgeorge.Backrest
 w:Glarysoft.AbsoluteUninstaller
 w:Glarysoft.GlaryUtilities
@@ -2638,12 +2643,14 @@ w:SyncTERM.SyncTERM
 w:Samsung.DeX
 w:Samsung.EasyConnectionToScreen
 w:Samsung.EasySettingBox
+w:Stipple.VoiceNote
 w:SimonG4ELI.SDR_Television
 w:SimonG4ELI.WorldMap
 w:sylikc.JPEGView
 w:Singular.Recast
 w:Scribus.Scribus
 w:solpbc.Solstone
+w:StefanGhitescu.GitAssistant
 w:SoftPerfect.NetGenius
 w:SoftPerfect.NetWorx
 w:SoftPerfect.ConnectionEmulator
@@ -2969,6 +2976,7 @@ w:SBCL.SBCL
 w:ShareFile.ShareFileForWindows
 w:sw4you.Hardcopy
 w:SosomLab.NexaMarkdownViewer
+w:SosomLab.NexaMemKeeper
 w:Sogou.SogouWBInput
 w:Sogou.SogouInput
 w:Sogou.SogouInputSkinEditor
@@ -4720,6 +4728,7 @@ w:OpenStreetMap.Josm
 w:OpenLPDevelopers.OpenLP
 w:OpenRGB.OpenRGB
 w:osquery.osquery
+w:oPaozinh0.YTMDesktopAdblock
 w:OxygenCloud.odrive
 w:ONLYOFFICE.DesktopEditors
 w:OpenSourcePhysics.Tracker
