@@ -437,7 +437,6 @@ w:PVS.AUDACSystemManager
 w:Prowise.ProwisePresenter
 w:Prowise.ProwiseReflect
 w:Prowise.TouchServiceTool
-w:PaulSori.mStreamServer
 w:PlazmaBurst2.PlazmaBurst2
 w:PixPin.PixPin
 w:PrismLauncher.PrismLauncher
@@ -2746,7 +2745,6 @@ w:Sonos.Controller
 w:Sonos.S1Controller
 w:SpikeHD.Dorion
 w:SimpleTex.SimpleTex
-w:SABnzbdTeam.SABnzbd
 w:Softros.LogonExpert
 w:Softros.SoftrosLANMessenger
 w:Softros.TransparentLockScreen
@@ -2988,7 +2986,6 @@ w:Splunk.UniversalForwarder
 w:SaltStack.SaltMinion
 w:Simnet.SimpleStickyNotes
 w:Syncplay.Syncplay
-w:SabakiHQ.Sabaki
 w:SnipeGroupLimited.Snipe
 w:Synfig.SynfigStudio
 w:Safing.Portmaster
@@ -4466,6 +4463,7 @@ w:Abbott.LibreViewDeviceDrivers
 w:alexx2000.DoubleCommander
 w:AppWork.JDownloader
 w:AppDynamic.AirServer
+w:AirUSB.Client
 w:Albion.Online
 w:AsafSaar.Dofek
 w:angryziber.AngryIPScanner
