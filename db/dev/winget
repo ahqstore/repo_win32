@@ -2485,6 +2485,7 @@ w:OnOff.Onlook
 w:OpenShot.OpenShot
 w:OctopusData.Octoparse
 w:OSSEC.OSSECAgent
+w:Odikon.RissNotes
 w:ONLYOFFICE.DesktopEditors
 w:OpenWebUI.OpenWebUI
 w:OneWare.OneWareStudio
@@ -2798,6 +2799,7 @@ w:StefansTools.SKTimeStamp
 w:StefansTools.BowPad
 w:StefansTools.grepWin
 w:SystweakSoftware.DuplicateFilesFixer
+w:Skywork.SkyworkDesktop
 w:sufone.qawl
 w:SumbitLabs.Aptakube
 w:Siemens.JT2Go
@@ -3005,6 +3007,7 @@ w:StardockSystems.DeskScapes2026
 w:SaferNetworking.SpybotAntiBeacon
 w:swiftyapp.swifty
 w:SrcBox.GKrellM
+w:spieglt.FlyingCarpet
 w:StellarDataRecovery.StellarRepairForMySQL
 w:StellarDataRecovery.StellarPhotoRecovery
 w:StellarDataRecovery.StellarRepairForExcel
@@ -4458,6 +4461,9 @@ w:aesgalexis.CodexUsageMeter
 w:AlexThuering.DVDStyler
 w:AbiruzzamanMolla.DailyPrayerTimer
 w:arjun_g.google_meet_desktop
+w:AuthorityGate.RackSight
+w:AuthorityGate.HealthCheck
+w:AuthorityGate.RackSightIISServer
 w:Anki.Anki
 w:Aquashot.Aquashot
 w:amir1376.ABDownloadManager
@@ -4516,6 +4522,7 @@ w:AltSnap.AltSnap
 w:AliMuhammad.Multilarm
 w:AlexandrSubbotin.Cerebro
 w:AnnyStudio.JPEGLosslessRotator
+w:AkshayNikhare.RealtimeClipboard
 w:AdaLang.Alire
 w:AdventDevelopmentInc.Kudu
 w:AlexanderShaduri.GSmartControl
