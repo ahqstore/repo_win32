@@ -456,6 +456,7 @@ w:Proton.ProtonMailBridge
 w:PLFJY.ContextMenuMgrPlus
 w:PeculiarVentures.Fortify
 w:PlanGrid.PlanGrid
+w:ptweezy.cronstable
 w:PolarGoose.ShowWhatProcessLocksFile
 w:PolarGoose.CoffeeBean
 w:PenguinLabs.Cacher
@@ -664,7 +665,6 @@ w:VisualParadigm.Community
 w:VisualParadigm.VisualParadigmViewer
 w:VB_Audio.Voicemeeter
 w:VoodooSoft.DefenderUI
-w:VoodooSoft.VoodooShield
 w:Vonage.VonageBusiness
 w:VaclavSlavik.Poedit
 w:Valve.SteamLink
@@ -1627,7 +1627,6 @@ w:RevoUninstaller.RevoUninstallerPro
 w:RevoUninstaller.RevoRegistryCleaner
 w:RevoUninstaller.RevoUninstaller
 w:Refactoring.Tolaria
-w:roethlar.Songr
 w:RKibria.frhed
 w:RoyalApps.RoyalServer
 w:rcmaehl.MSEdgeRedirect
@@ -3075,6 +3074,7 @@ w:SejinChun.Imagine
 w:SimonG4ELI.SDR_Television
 w:SimonG4ELI.WorldMap
 w:schn4ppi.SyncManga
+w:SilvioLindstedt.WhisPaste
 w:Segger.EmbeddedStudioARM
 w:SVZsoft.GEDKeeper
 w:skyjake.Lagrange
