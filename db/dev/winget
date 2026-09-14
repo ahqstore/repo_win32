@@ -596,7 +596,6 @@ w:LaurensVanLeer.WinTranscribe
 w:LuxTrust.LuxTrustMiddleware
 w:Lonestill.OnyxLauncher
 w:LocktimeSoftware.NetLimiter
-w:LLVM.LLVM
 w:LeNgocKhoa.Laragon
 w:lucuma13.prem_down
 w:LBRY.LBRY
@@ -2798,6 +2797,7 @@ w:SatDump.SatDump
 w:ScummVM.ScummVM
 w:spdc35z9.MATRIG
 w:SBCL.SBCL
+w:Skitre.PiDeck
 w:Softpcapps.MaximizeAlways
 w:Softpcapps.MinimizetoTrayTool
 w:StefansTools.SKTimeStamp
@@ -3332,6 +3332,7 @@ w:tonythethompson.QuickShell
 w:TuxGuitar.TuxGuitar
 w:Trufflesuite.Ganache
 w:TeXnicCenter.TeXnicCenter
+w:TeamReadarr.Readarr
 w:Twinkstar.TwinkstarBrowser
 w:Termalin.Termalin
 w:trinsic.okapi
@@ -3394,7 +3395,6 @@ w:TheOSCARTeam.OSCAR2
 w:TheOSCARTeam.OSCAR
 w:Tier1Settings.Tier1Suite
 w:ThioJoe.SvgThumbnailExtension
-w:Tulip.TulipPlayer
 w:TIDALMusicAS.TIDAL
 w:TRUSTSING.iMonitor
 w:TRUSTSING.iDefender
@@ -3500,6 +3500,7 @@ w:tomoyukioya.FileHistoryClone
 w:Tenable.NessusAgent
 w:Tenable.Nessus
 w:terrymacdonald.DisplayMagician
+w:ThomasSmistad.Vordr
 w:TreasureData.TDAgent
 w:timschneeb.GalaxyBudsClient
 w:tesseract_ocr.tesseract
