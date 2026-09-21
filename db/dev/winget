@@ -484,6 +484,7 @@ w:Logitech.LogiTune
 w:Logitech.OptionsPlus
 w:LazapDevelopment.Lazap
 w:LifetimeLabs.PrivacyNotes
+w:LaFabrikNumerique.VoxCut
 w:LumiOwO.LumiTracker
 w:LinklyAI.LinklyAI
 w:LogTag.LogTagXpress
@@ -927,6 +928,7 @@ w:dreamus.flo
 w:Deep_Symmetry.beat_link_trigger
 w:dune3d.dune3d
 w:DMS_AI.PrintUtil
+w:Dockl.Dockl
 w:DG0JBJ.HDSDR
 w:Datalust.Seq
 w:DavidNorgren.Mine_imator
@@ -1746,6 +1748,7 @@ w:FastCopy.FastCopy
 w:fstl.fstl
 w:FSPProductions.FileHasher
 w:flux.flux
+w:Fluxer.Fluxer
 w:farion1231.CC_Switch
 w:feugy.melodie
 w:FriendsOfApacheNetBeans.NetBeans
@@ -2298,6 +2301,7 @@ w:HighLevel.HighLevel
 w:Hass.Agent
 w:Hydrogen_Music.Hydrogen
 w:HMSoft.HMNISEdit
+w:HNN.Bisnor
 w:HighMotionSoftware.ImWatcher
 w:HighMotionSoftware.BonAView
 w:HighMotionSoftware.ImBatch
@@ -2571,6 +2575,7 @@ w:Blizzard.BattleNet
 w:Bullzip.PDFPrinter
 w:BartelsMedia.ShareMouse
 w:Basedash.Basedash
+w:blakazulu.Findra
 w:BookxSoftware.BookxNotePro
 w:Betterbird.Betterbird
 w:BrianApps.Sizer
@@ -2591,6 +2596,7 @@ w:BiniSoft.WindowsFirewallControl
 w:Benji377.Tooka
 w:brackets_cont.brackets
 w:blaadje.Todolist
+w:BURSUsofts.BURSUcm
 w:BinaryMark.BatchFileManager
 w:BinaryMark.PasswordGenerator
 w:BinaryMark.BatchTextFileEditor
@@ -3067,6 +3073,7 @@ w:Sysprogs.SmarTTY
 w:SmartHoldemDAPPs.heads_tails
 w:strimio.strimio
 w:SuperUltra.superwhisper
+w:Synacor.ZimbraDesktop
 w:SFXTechInnovation.SimpleFixAI
 w:Splashtop.SplashtopBusiness
 w:Splashtop.SplashtopPersonal
@@ -3220,6 +3227,7 @@ w:SolidWorks.eDrawings
 w:sbt.sbt
 w:ScaryRawr.SL
 w:SparshSam.OpenReader
+w:Slohmaier.StarTooth
 w:SourceBox.SearchBox
 w:SimonSchubert.Kai
 w:SimpleX.SimpleX_Chat
@@ -3995,7 +4003,6 @@ w:Microsoft.HwpConverter
 w:Microsoft.IntegrationRuntime
 w:Microsoft.UpdateAssistant
 w:Microsoft.WindowsPCHealthCheck
-w:Microsoft.Sqlcmd
 w:Microsoft.WindowsTerminal
 w:Microsoft.Edge
 w:Microsoft.AdministrativeTemplates
@@ -4477,7 +4484,6 @@ w:Abelssoft.YouTubeSongDownloader
 w:Aurora.Aurora
 w:AnyDesk.AnyDesk
 w:AnyTXT.AnyTXTSearcher
-w:AnInsomniacy.MotrixNext
 w:Arylmera.TokenDashboard
 w:ABC.PowerExtension
 w:ABC.ABCEBankAssistant
@@ -4985,6 +4991,7 @@ w:IG.IGClient
 w:IAMCloud.CloudDriveMapperV3
 w:ItsPi3141.AlpacaElectron
 w:iLovePDF.iLovePDFDesktop
+w:iSpring.iSpring
 w:IBM.Aspera
 w:IENT.YUView
 w:IntegrIT.Hackolade
