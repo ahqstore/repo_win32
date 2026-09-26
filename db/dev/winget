@@ -619,6 +619,7 @@ w:ONLYOFFICE.DesktopEditors
 w:OpenSourcePhysics.Tracker
 w:OrkestraOnline.Orkestra
 w:Olvid.Olvid
+w:OnjLouis.SensorReadout
 w:Ombrelin.PlexRichPresence
 w:Ombrelin.PandocGui
 w:osquery.osquery
@@ -2634,6 +2635,7 @@ w:Nikse.SubtitleEdit
 w:Nilesoft.Shell
 w:NitroRCr.AIasWorkspace
 w:NachoSC.ScreenTuner
+w:NightmareTv.NightmareTV
 w:nrittsti.NTag
 w:Neemb.Distill
 w:nelsonduarte.PDFApps
@@ -2726,12 +2728,20 @@ w:Nevercenter.CameraBagPhoto
 w:Nevercenter.Milo
 w:Nlitesoft.NTLite
 w:Neovide.Neovide
+w:ntwind.Clipaste
 w:ntwind.PromptSense
+w:ntwind.StickyPreviews
+w:ntwind.ClipboardRemote
 w:ntwind.AltTabTer
 w:ntwind.HiddenStart
 w:ntwind.VistaSwitcher
+w:ntwind.PowerRemote
+w:ntwind.GalleryRemote
 w:ntwind.windowspace
+w:ntwind.MediaRemote
 w:ntwind.UploadRemote
+w:ntwind.ScreenshotRemote
+w:ntwind.CloseAll
 w:NewRelic.InfrastructureAgent
 w:Newforma.Konekt.Addin.Autodesk
 w:Notro.SkEditor
@@ -4332,6 +4342,7 @@ w:martinchrzan.ColorPicker
 w:Meazure.GuardianBrowser
 w:makhlwf.HexPlayer
 w:MIXVoip.Voxbi
+w:MichalFoist.ViktorTheCleaner
 w:maojindao55.Etcder
 w:megamega39.doujin_player
 w:megamega39.karikari
