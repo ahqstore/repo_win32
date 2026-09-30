@@ -94,6 +94,7 @@ w:FilenCloud.FilenSync
 w:Free_Astro.Siril
 w:FxSound.FxSound
 w:FreePascal.FreePascalCompiler
+w:Flowscripter.template_bun_executable
 w:fstl.fstl
 w:Faithlife.Logos
 w:fosslife.truthy
@@ -568,6 +569,7 @@ w:OlegDanilov.RapidEnvironmentEditor
 w:OneTagger.OneTagger
 w:OverlayedDev.Overlayed
 w:OpenWebUI.OpenWebUI
+w:oMaN_Rod.Pulsar
 w:Oracle.MySQL
 w:Oracle.JavaRuntimeEnvironment
 w:Oracle.VirtualBox
@@ -1489,6 +1491,7 @@ w:Xidicone.AgentSVN
 w:Xidicone.AgentGit
 w:xiaocang.EasydictforWindows
 w:Xiaomi.MiService
+w:Xiaomi.MiMoDesktop
 w:Xiaomi.MIUI+
 w:Xiaomi.XiaomiCloud
 w:X2go.x2goclient
@@ -3264,6 +3267,7 @@ w:RealVNC.RealVNCConnct
 w:RPTools.MapTool
 w:RPTools.TokenTool
 w:RabidViperProductions.AssaultCube
+w:RC.HareRGB
 w:reMarkable.reMarkableCompanionApp
 w:r2cuerdame.WSLPad
 w:Refactoring.Tolaria
