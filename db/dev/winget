@@ -1242,6 +1242,7 @@ w:Shabinder.SpotiFlyer
 w:SBCL.SBCL
 w:Solidigm.StorageTool
 w:SourceGear.DiffMerge
+w:Seagate.SeaTools
 w:SnapNet.SnapNet
 w:Stream_Pi.Client
 w:Stream_Pi.Server
@@ -3812,6 +3813,7 @@ w:Google.AntigravityIDE
 w:Google.Antigravity
 w:Google.IAPDesktop
 w:Google.ChromeRemoteDesktopHost
+w:Google.GeminiDesktop
 w:Google.WorkspaceSyncForMicrosoftOutlook
 w:Google.GoogleWebDesigner
 w:Google.JapaneseIME
