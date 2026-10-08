@@ -96,6 +96,7 @@ w:Free_Astro.Siril
 w:FxSound.FxSound
 w:FreePascal.FreePascalCompiler
 w:Flowscripter.template_bun_executable
+w:Flowscripter.flowscripter_io_cli
 w:fstl.fstl
 w:Faithlife.Logos
 w:fosslife.truthy
@@ -312,6 +313,7 @@ w:ThioJoe.SvgThumbnailExtension
 w:Thewh1teagle.vibe
 w:Trsdn.MDViewerPlus
 w:trinsic.okapi
+w:tsudev.cwico
 w:TheGoddessInari.Hamsket
 w:Termius.Termius
 w:Testfully.Testfully
@@ -537,6 +539,7 @@ w:OpenSight.FlashFXP
 w:OneSpan.DIGIPASSeIDPlugin
 w:OliverSchwendener.ueli
 w:ONFStudios.OreNoFusen
+w:OONI.OONI_Probe
 w:ossia.score
 w:OxfordUniversityPressELT.OxfordLearnersBookshelf
 w:OpenTeams.OpenTeams
@@ -1270,6 +1273,7 @@ w:SKDataAS.ORMCore
 w:SimplyCA.Typeless
 w:SeventhString.Transcribe
 w:StefanGhitescu.GitAssistant
+w:SiriusMS.SIRIUS
 w:StructuredData.BERTTookit
 w:SyncTrayzor.SyncTrayzor
 w:Seonglae.Screencast
@@ -2650,6 +2654,7 @@ w:NordSecurity.NordLocker
 w:NordSecurity.NordVPN
 w:NordSecurity.NordLayer
 w:nikpapa.palamedes
+w:Netdata.Netdata
 w:NotedeckDev.NoteDeck
 w:Nulana.Remotix
 w:Nvidia.ICAT
@@ -2783,6 +2788,7 @@ w:Nlitesoft.NTLite
 w:Neovide.Neovide
 w:ntwind.Clipaste
 w:ntwind.PromptSense
+w:ntwind.VisualSubst
 w:ntwind.StickyPreviews
 w:ntwind.ClipboardRemote
 w:ntwind.AltTabTer
@@ -3829,7 +3835,6 @@ w:LSoftTechnologies.ActiveDiskMonitor
 w:LCTechnology.RescuePRO
 w:liseami.DeepRant
 w:LizardByte.Sunshine
-w:Litenova.Fuse
 w:lucuma13.prem_down
 w:Love2d.Love2d
 w:GaijinNetwork.Crossout
@@ -4611,6 +4616,7 @@ w:Miorin.BloomingBlockery
 w:maneeshth.DesktopPet
 w:MYOB.AccountRight
 w:MYOB.BankLinkBooks
+w:MailStore.OutlookAddIn
 w:MailStore.MailStoreClient
 w:MCvanderKooij.PictoSelector
 w:Moku.Moku
@@ -5106,6 +5112,13 @@ w:ChristianGalla.AutoStartConfirm
 w:CrystalIDEASoftware.UninstallTool
 w:CyrilPeng.VeneraNext
 w:Coderise.gpx_analyzer
+w:CornellLabOfOrnithology.RavenPro
+w:CornellLabOfOrnithology.RavenLite
+w:CornellLabOfOrnithology.RavenContentEditor
+w:CornellLabOfOrnithology.RavenCompass
+w:CornellLabOfOrnithology.RavenExhibit
+w:CornellLabOfOrnithology.RavenIntelligence
+w:CornellLabOfOrnithology.RavenAnnotate
 w:CraftDocs.CraftAgents
 w:Core_ai.PhoenixCode
 w:CylCastillo.AgentConsole
