@@ -198,6 +198,7 @@ w:Thorlabs.TSP01
 w:Thorlabs.ChrolisInstrumentDriver
 w:Thorlabs.SC10
 w:Thorlabs.SPDC810
+w:Thorlabs.EXULUS
 w:Thorlabs.MCLS1
 w:Thorlabs.FSLControl
 w:Thorlabs.DC40
@@ -2012,6 +2013,7 @@ w:AIMP.AIMP
 w:AstroComma.AstroGrep
 w:Aquashot.Aquashot
 w:athlabs.Spyglass
+w:ArtCraft.VectorCraft
 w:AnalyseDeCircuit.OxideTerm
 w:AndreWiethoff.ExactAudioCopy
 w:Apple.AppleSoftwareUpdate
@@ -2608,6 +2610,7 @@ w:ZhaoKeli.FastGestures
 w:ZhongshiHuiyun.Boom
 w:Zultys.ZAC
 w:ZMGID.Kivio
+w:zhang_astronaut.HardwareMonitorCmdPal
 w:Zype.Compass
 w:Zaarrg.StremioCommunity
 w:ZUBOLAND.KUZIRA
@@ -3228,6 +3231,7 @@ w:RingCentral.RingCentralRooms
 w:RaySafe.RaySafeView
 w:RaoPics.RaoPics
 w:Reginald.Reginald
+w:Routebase.Routebase
 w:Ruanmei.Qiyu
 w:RafalZG.ClaudeSessionsSidekick
 w:RuneLite.RuneLite
@@ -3618,6 +3622,7 @@ w:justcoding121.TitaniumInspector
 w:justnullname.QuickView
 w:JLBBARCO.PasswordsManager
 w:Jianjing.XLJSCI
+w:JKC.Notchpoint
 w:ja7ad.Hydra
 w:jakedorony.MonitorInputSwitcher
 w:Jubler.App
