@@ -4072,6 +4072,7 @@ w:maxrave_dev.SimpMusic
 w:Msgify.Lite
 w:Mickem.NSClient
 w:Modrinth.ModrinthApp
+w:Magicard.TrustID
 w:McServ.McServ
 w:MOOGH.MOOGH
 w:Mersive.Solstice
@@ -5155,6 +5156,7 @@ w:CornellLabOfOrnithology.RavenCompass
 w:CornellLabOfOrnithology.RavenExhibit
 w:CornellLabOfOrnithology.RavenIntelligence
 w:CornellLabOfOrnithology.RavenAnnotate
+w:CornellLabOfOrnithology.RavenExpedition
 w:CraftDocs.CraftAgents
 w:Core_ai.PhoenixCode
 w:CylCastillo.AgentConsole
@@ -5189,6 +5191,7 @@ w:Canva.Cavalry
 w:Canva.Canva
 w:CEB.CEBEBankAssistant
 w:ChrisRizzitello.BlackChocobo
+w:CompuTec.AppEngine
 w:Cisco.NetworkRecordingPlayer
 w:Cisco.Jabber
 w:Cisco.ChezScheme
