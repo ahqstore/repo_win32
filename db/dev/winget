@@ -2018,6 +2018,7 @@ w:AstroComma.AstroGrep
 w:Aquashot.Aquashot
 w:athlabs.Spyglass
 w:ArtCraft.VectorCraft
+w:ArtCraft.CadCraft
 w:AnalyseDeCircuit.OxideTerm
 w:AndreWiethoff.ExactAudioCopy
 w:Apple.AppleSoftwareUpdate
@@ -2807,6 +2808,7 @@ w:Neovide.Neovide
 w:ntwind.Clipaste
 w:ntwind.PromptSense
 w:ntwind.VisualSubst
+w:ntwind.WinCam
 w:ntwind.StickyPreviews
 w:ntwind.ClipboardRemote
 w:ntwind.AltTabTer
@@ -3659,6 +3661,7 @@ w:Jackett.Jackett
 w:jendrikseipp.RedNotebook
 w:Jacksta.Instigator
 w:JasnaPaka.MozBackup
+w:julianmb.OpenWinSidecar
 w:JumpingBytes.ClipboardMaster
 w:JumpingBytes.PureSync
 w:jawhitti.INTERCAL64
@@ -4527,6 +4530,7 @@ w:MatthijsGroen.Geppetto
 w:MoheshwarAmarnathBiswas.UsefulToolsForWindows
 w:MartinBresson.Executor
 w:Mono.Mono
+w:mogwai_dev.CCRHAbsExpandPlugin
 w:MudabbirulSaad.NetPulse
 w:MediaHuman.Collagerator
 w:MediaHuman.YouTubeToMP3Converter
