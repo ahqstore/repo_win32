@@ -1080,7 +1080,6 @@ w:Splawik.pytigon
 w:stratusadv.constellation
 w:Singular.Recast
 w:SonicWall.GlobalVPNClient
-w:SonicWall.NetExtender
 w:SonicWall.ConnectTunnel
 w:SuperFlexibleSoftware.SzArchiver
 w:Sejda.PDFDesktop
@@ -1543,7 +1542,6 @@ w:Xink.XinkClientAD
 w:xploview.xploview
 w:Xidicone.AgentSVN
 w:Xidicone.AgentGit
-w:xiaocang.EasydictforWindows
 w:Xiaomi.MiService
 w:Xiaomi.MiMoDesktop
 w:Xiaomi.MIUI+
@@ -2262,7 +2260,6 @@ w:AffluentLabs.ZestSSH
 w:Anki.Anki
 w:adkurz.btText
 w:Amazon.WorkspacesClient
-w:Amazon.AWSCLI
 w:Amazon.Games
 w:Amazon.Redshift.ODBC.v2
 w:Amazon.CloudWatchAgent
@@ -3041,6 +3038,7 @@ w:Prezi.PreziClassic
 w:PeterBClements.QuickPar
 w:PixPin.PixPin
 w:PearAI.PearAI
+w:ProjectVid.VidDl
 w:PEAKSystem.PEAKDrivers
 w:Psynect.OmniMend
 w:Paragon.HFS+
@@ -3314,6 +3312,7 @@ w:rizukirr.apic_gui
 w:Rokkr.Rokkr
 w:RaspberryPiFoundation.RaspberryPiImager
 w:RongleCat.GrokApp
+w:Raicuparta.RaiPal
 w:Raudo.RaudoIPTV
 w:RoamResearch.RoamResearch
 w:RedHat.VirtViewer
@@ -3561,6 +3560,7 @@ w:WestWind.MarkdownMonster
 w:Win32diskimager.win32diskimager
 w:WisprFlow.WisprFlow
 w:wahao.Electron_iGot
+w:w1hkj.flrig
 w:writingdeveloper.Notro
 w:wanghongenpin.ProxyPin
 w:WritingMate.AIDictation
@@ -4951,7 +4951,6 @@ w:Bandisoft.Bandizip
 w:BornToBeRoot.NETworkManager
 w:Beamr.JPEGminiPro
 w:bitwig.bitwig
-w:BroadfieldNetworks.Maxisnap
 w:buchen.portfolio
 w:BenjaminLSR.HandheldCompanion
 w:Betterbird.Betterbird
