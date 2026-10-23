@@ -1050,6 +1050,7 @@ w:Splashtop.SplashtopBusiness
 w:StephanDilly.gitui
 w:Stript.Stript
 w:StrawberryPerl.StrawberryPerl
+w:StudioCiriello.TrackWizardStarter
 w:SimpleX.SimpleX_Chat
 w:Soheilous.GenLauncher
 w:SaladTechnologies.Salad
@@ -2404,6 +2405,7 @@ w:dev47apps.DroidCamOBSClient
 w:dev47apps.DroidCamOBSPlugin
 w:dev47apps.DroidCam
 w:DiRoots.ProSheets
+w:DiRoots.One
 w:DiRoots.AppManager
 w:Dell.Optimizer
 w:Dell.CommandConfigure
@@ -3379,6 +3381,7 @@ w:Rye.Rye
 w:Ruben2776.PicView
 w:Renode.Renode
 w:RT3M1S.KPOS
+w:recherchesolutions.mdreader
 w:Rainmeter.Rainmeter
 w:Ripose.Memento
 w:rwv.OnlineDOSGames
@@ -3394,7 +3397,6 @@ w:RockinChaos.Shiru
 w:raphamorim.rio
 w:Rakuten.Viber
 w:Rakuten.Kobo
-w:RealVNC.VNCViewer
 w:RealVNC.VNCServer
 w:RealVNC.RealVNCConnct
 w:RPTools.MapTool
@@ -4670,7 +4672,6 @@ w:Microsoft.WindowsPCHealthCheck
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.PowerBIReportServer
 w:Microsoft.WindowsVirtualDesktopBootloader
-w:Microsoft.PowerShell
 w:Microsoft.VisualStudio.Extensions.TypeScript
 w:Microsoft.Coreutils
 w:Microsoft.IntegrationRuntime
