@@ -1270,6 +1270,7 @@ w:stacks.stacks
 w:Symless.Synergy
 w:SysInfoTools.MBOXExporterTool
 w:swim2sun.migu_music_dl
+w:SeeBoop.SeeBoop
 w:stackless.stackless
 w:Stormix.DeadlockModManager
 w:SnapXL.SnapX
@@ -4669,6 +4670,7 @@ w:Microsoft.WindowsPCHealthCheck
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.PowerBIReportServer
 w:Microsoft.WindowsVirtualDesktopBootloader
+w:Microsoft.PowerShell
 w:Microsoft.VisualStudio.Extensions.TypeScript
 w:Microsoft.Coreutils
 w:Microsoft.IntegrationRuntime
