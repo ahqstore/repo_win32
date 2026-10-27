@@ -779,6 +779,7 @@ w:IObit.IObitUnlocker
 w:IObit.iFunScreenRecorder
 w:IObit.iFunScreenshot
 w:iebb.Petex
+w:icsharpcode.ILSpy
 w:iFlytek.iFlyRecMeeting
 w:iFlytek.iFlyDocs
 w:iPlato.iPlatoToolbar
@@ -2634,6 +2635,7 @@ w:Devolutions.Gateway
 w:Devolutions.ServerConsole
 w:Devolutions.RemoteDesktopManager
 w:Devolutions.RemoteDesktopManagerAgent
+w:Devolutions.MsRdpEx
 w:Devolutions.Launcher
 w:DennisBareis.MAKEMSI
 w:Dynare.Dynare
