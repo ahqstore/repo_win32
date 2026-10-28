@@ -2153,6 +2153,7 @@ w:Argente.SoftwareUpdater
 w:Argente.UninstallManager
 w:Argente.DataShredder
 w:Argente.RegistryCleaner
+w:Argente.DriveAnalyzer
 w:Argente.StartupManager
 w:Argente.DriveCleaner
 w:Argente.SystemManager
