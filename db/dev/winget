@@ -108,6 +108,7 @@ w:tomoyukioya.FileHistoryClone
 w:TGRMNSoftware.ViceVersaPro
 w:TGRMNSoftware.BulkRenameUtility
 w:Tohrusky.Final2x
+w:TIANLI0.THRM
 w:TikzEdt.TikzEdtBeta
 w:Tox.qTox
 w:Trancy.TrancyAir
@@ -1145,6 +1146,7 @@ w:packetThrower.Baudrun
 w:packetThrower.Zorite
 w:packetThrower.PortFinder
 w:PreSonus.UniversalControl
+w:PiftoWorks.CaptureCore
 w:Pwlot.ChunkyMonkey
 w:prsyahmi.WicHeic
 w:Puppet.pdk
@@ -1656,6 +1658,7 @@ w:RemoteUtilities.Viewer
 w:RemoteUtilities.Server
 w:Raimersoft.RarmaRadio
 w:Rye.Rye
+w:RadialDeck.RadialDeck
 w:RuneLite.RuneLite
 w:RealNetworks.RealPlayer
 w:RedEyeNetworks.LogivoreForVeeam
@@ -1924,7 +1927,6 @@ w:OpenWebUI.OpenWebUI
 w:osquery.osquery
 w:OnOff.Onlook
 w:Orahu01.AeroWidget
-w:OpenJS.NodeJS
 w:OpenRails.OpenRails
 w:OlegShparber.Zeal
 w:opentrack.opentrack
@@ -3660,7 +3662,6 @@ w:Amazon.EC2Launch
 w:Amazon.WorkspacesClient
 w:Amazon.CloudWatchAgent
 w:Amazon.SAM_CLI
-w:Amazon.Kiro
 w:Amazon.SSMAgent
 w:Amazon.Chime
 w:Amazon.AppStream
@@ -4339,6 +4340,7 @@ w:mh_cbon.go_msi
 w:mesonbuild.meson
 w:Miorin.BloomingBlockery
 w:MichaelTippach.ASIO4ALL
+w:ModelMakerTools.SimpleMindPro
 w:mcmilk.7zip_zstd_ndm
 w:mcmilk.7zip_zstd
 w:MaxDiesel.UnrealCommander
