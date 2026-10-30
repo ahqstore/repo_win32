@@ -467,7 +467,6 @@ w:Imperium42.Echophrase
 w:Ingenico.IngenicoUSBDriver
 w:ItchIo.Itch
 w:Imartincei.CalcpadCE
-w:InnovationTrigger.PDFluent
 w:IPVanish.SugarSync
 w:IPVanish.IPVanish
 w:iFlytek.iFlyDocs
@@ -1179,6 +1178,7 @@ w:Picocrypt_NG.Picocrypt_NG
 w:Psi.Psi
 w:ProcessingFoundation.Processing
 w:PRC.ExcireFoto
+w:PACE.iLokLicenseManager
 w:PocketSync.PocketSync
 w:PaperCutSoftware.MobilityPrint
 w:PaperCutSoftware.GhostTrap
@@ -1190,7 +1190,6 @@ w:PolarGoose.ShowWhatProcessLocksFile
 w:Perimeter81.HarmonySASE
 w:Profullstack.PairUX
 w:Pidgin.Pidgin
-w:Power_user.Power_user
 w:ProjectEnv.ProjectEnvCli
 w:Perplexity.Comet
 w:PDFMarin.PDFMarin
@@ -1701,9 +1700,11 @@ w:RonyShapiro.PasswordSafe
 w:Rokkr.Rokkr
 w:RagnarSir.RagSnip
 w:RussMckendrick.TokenUse
+w:rexenv.rexenv
 w:Ricoh.RicohTheta
 w:Relic.Relic
 w:RealVNC.VNCServer
+w:RealVNC.VNCViewer
 w:RealVNC.RealVNCConnct
 w:RevoUninstaller.RevoUninstaller
 w:RevoUninstaller.RevoRegistryCleaner
@@ -1923,6 +1924,7 @@ w:OpenWebUI.OpenWebUI
 w:osquery.osquery
 w:OnOff.Onlook
 w:Orahu01.AeroWidget
+w:OpenJS.NodeJS
 w:OpenRails.OpenRails
 w:OlegShparber.Zeal
 w:opentrack.opentrack
@@ -1931,6 +1933,8 @@ w:OEClassic.OEClassic
 w:OSGeo.GeoServer
 w:OSGeo.QGIS
 w:OSGeo.QGIS_LTR
+w:OpenDCL.Runtime
+w:OpenDCL.Studio
 w:OpenCoworkAI.OpenCoDesign
 w:OpenTeams.OpenTeams
 w:OpenSourcePhysics.Tracker
@@ -2129,7 +2133,6 @@ w:Sysprogs.SmarTTY
 w:siper.Youamp
 w:ShareX.XerahS
 w:Simego.DataSyncStudio
-w:SgarD.VPX
 w:StefanGhitescu.GitAssistant
 w:SpriteOvO.AirPodsDesktop
 w:Stardock.Start10
@@ -2237,7 +2240,6 @@ w:SearchDeflector.SearchDeflector
 w:Samsung.DeX
 w:Samsung.EasySettingBox
 w:Samsung.EasyConnectionToScreen
-w:SURF.LetsConnectClient
 w:sunabozu.subordination
 w:sebescudie.GammaLauncher
 w:Streamlabs.Streamlabs
@@ -2378,7 +2380,6 @@ w:StefansTools.grepWin
 w:sysmanage.sysmanage_agent
 w:sysmanage.sysmanage
 w:solpbc.Solstone
-w:Spokenly.Spokenly
 w:SweetScape.Hamic
 w:SweetScape.010Memorizer
 w:SweetScape.010Editor
@@ -3378,6 +3379,7 @@ w:BiSS.WSLDiskShrinker
 w:Beeper.Beeper
 w:binaricat.Netcatty
 w:Blocknetproject.Blocknet
+w:BambooMintKey.BambooMintKey
 w:BlindPandasTeam.Bookworm
 w:btargac.excel_parser_processor
 w:Basedash.Basedash
@@ -3782,7 +3784,6 @@ w:AntimatterStudios.ext4_win_driver
 w:AngryMiao.AMMaster
 w:Alibaba.AliWorkbench
 w:Alibaba.AliIM
-w:Alibaba.Qoder
 w:Alibaba.aDrive
 w:Alibaba.Taobao
 w:Alibaba.MiniProgramStudio
@@ -4010,7 +4011,6 @@ w:ADInstruments.GLPClient
 w:AntonioOrionus.Arroxy
 w:aahepburn.RAGAssistantForZotero
 w:AmericanRadioRelayLeague.TrustedQSL
-w:ali50m.AddCurrentPath
 w:AcuityBrands.VisualLighting
 w:AcuityBrands.VisualControls
 w:Atola.FindandMount
@@ -5263,6 +5263,7 @@ w:NexDM.NexDM
 w:NitroSoftware.NitroPro
 w:Nuclino.Nuclino
 w:NetSentinel.NetSentinel
+w:NuwanWimalasena.Dynamore
 w:Nevcairiel.LAVFilters
 w:NWEA.NWEASecureTestingBrowser
 w:NachoSC.ScreenTuner
