@@ -983,7 +983,6 @@ w:FlorianHeidenreich.Mp3tag
 w:FeatherWallet.Feather
 w:FontForge.FontForge
 w:FinancialID.BankID
-w:Fidpa.Hablara
 w:Flydigi.FlydigiSpaceStation
 w:Flydigi.FlydigiPCSpace
 w:Fork.Fork
@@ -1762,6 +1761,9 @@ w:RoyalApps.RoyalServer
 w:RebonAI.RebonDesktop
 w:rickbutton.workspacer
 w:RomanTykhonenko.CapyBro
+w:regify.regimail
+w:regify.regibox
+w:regify.regibillDesktop
 w:Ramplio.CatLight
 w:Vromans.ChordPro
 w:VMABroadcast.VMAMonitor
@@ -2923,7 +2925,6 @@ w:Codexo.ExoSnap
 w:CoderBag.QuickCPUx64
 w:Coderex.Coderex
 w:Clip2net.Clip2net
-w:ClassicOldSong.Apollo
 w:CorsixTH.CorsixTH
 w:ClickPOS.ClickPOSProxy
 w:ClawsMail.ClawsMail
@@ -3138,6 +3139,7 @@ w:WEIFENG2333.VideoCaptioner
 w:WixPie.WixPie
 w:Waytech.CloudDrive2
 w:WisprFlow.WisprFlow
+w:WezOps.Agent
 w:Wampserver.Wampserver
 w:wuxiran.CC_Panes
 w:WolfVision.vSolutionApp
@@ -3427,7 +3429,6 @@ w:BrightSign.BrightAuthor
 w:Blix.BlueMail
 w:BZFlag.BZFlag
 w:BartelsMedia.ShareMouse
-w:BirdNETTeam.BirdNETLive
 w:BeagleEditor.BeagleEditor
 w:BUT.NetfoxDetective
 w:BerndBestel.grocy_desktop
@@ -4921,6 +4922,7 @@ w:Mibuw.miPDFconvert
 w:Mapillary.MapillaryUploader
 w:MaxCut.MaxCut
 w:MoganLab.Mogan
+w:MAMONOV.ScreenRecorder
 w:MihaiValentin.wsly
 w:Mojang.MinecraftLauncher
 w:mlhpdx.SimplestLoadBalancer
