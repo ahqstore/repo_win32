@@ -60,6 +60,7 @@ w:Teradata.TTUOdbc
 w:TritiumLegal.Tritium
 w:Termalin.Termalin
 w:Termoso.Termoso
+w:Testsmith.APISpector
 w:TUitTUWien.TUtoolbox
 w:tieo.ruscal
 w:Transmission.Transmission
@@ -5167,6 +5168,7 @@ w:Google.AndroidGPUInspector
 w:Google.ChromeRemoteDesktopHost
 w:Google.AntigravityIDE
 w:Google.QuickShare
+w:Google.Chrome
 w:Google.GoogleWebDesigner
 w:Google.IAPDesktop
 w:Google.Pinyin
