@@ -419,6 +419,7 @@ w:IQM2.MinuteTraq
 w:Innovaphone.myApps
 w:IndySoft.VidSeen
 w:iDescriptor.iDescriptor
+w:Itrium.Honk
 w:Insecure.Nmap
 w:Initex.YogaDNS
 w:i2van.hourglass
@@ -859,6 +860,7 @@ w:HighMotionSoftware.VidBatch
 w:HighMotionSoftware.ImBatch
 w:HighMotionSoftware.ImWatcher
 w:HideMyShare.HideMyShare
+w:HancockTechnologies.Aikonic
 w:Harmonoid.Harmonoid
 w:Hass.Agent
 w:Hurdle.Hurdle
@@ -1342,6 +1344,8 @@ w:PRelectronics.PReset
 w:Philips.Interact
 w:Philips.SpeechLive
 w:Philips.SmartControl
+w:PortDock.UDP
+w:PortDock.Simulator
 w:PaddiM8.kalker
 w:pluveto.Daan
 w:Parsec.ParsecVUD
@@ -1725,6 +1729,7 @@ w:Revopoint.RevoMeasure
 w:Revopoint.RevoTrack
 w:Revopoint.RevoMetro
 w:Revopoint.RevoMirror
+w:RomanCuisset.MicCamWatch
 w:Rainmeter.Rainmeter
 w:RimSort.RimSort
 w:Rakuten.Kobo
@@ -3621,6 +3626,7 @@ w:ArtCraft.PdfCraft
 w:ArtCraft.FilmCraft
 w:ArtCraft.GridCraft
 w:ArtCraft.CadCraft
+w:ArtCraft.LightCraft
 w:AntibodySoftware.WizMouse
 w:AntibodySoftware.WizFile
 w:AntibodySoftware.WizKey
@@ -3717,6 +3723,7 @@ w:AGTEK.UndergroundSA
 w:AGTEK.Gradework
 w:AGTEK.Trackwork
 w:Archura.Windrop
+w:AvendoApp.Avendo
 w:Airtame.Airtame
 w:ANTOrg_Inc.ASCIIEngine
 w:adkurz.btText
@@ -4854,6 +4861,7 @@ w:MathWorks.MATLABConnector
 w:MathWorks.MATLABRuntime
 w:mcuee.libusb_win32
 w:Mytral.Mytral
+w:MachFramework.Mach
 w:murgatt.recode_converter
 w:Mandelbulber.Mandelbulber
 w:makhlwf.HexPlayer
@@ -5159,7 +5167,6 @@ w:Google.AndroidGPUInspector
 w:Google.ChromeRemoteDesktopHost
 w:Google.AntigravityIDE
 w:Google.QuickShare
-w:Google.Chrome
 w:Google.GoogleWebDesigner
 w:Google.IAPDesktop
 w:Google.Pinyin
@@ -5299,6 +5306,7 @@ w:Novacura.FlowClient
 w:Novacura.FlowConnectDesigner
 w:nikpapa.palamedes
 w:NetDocuments.ndThread
+w:Northbit.Prisment
 w:NearAI.IronClaw
 w:NetSurf.NetSurf
 w:NexusMods.Vortex
