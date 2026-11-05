@@ -266,7 +266,6 @@ w:PreVeil.PreVeil
 w:Pritunl.PritunlClient
 w:ProjectJupyter.JupyterLab
 w:Picocrypt_NG.Picocrypt_NG
-w:PresenceJam.PresenceJam
 w:PeterDaveHello.TransmissionRemoteGUI
 w:PostgreSQL.psqlODBC
 w:pixivInc.VRoidStudio
@@ -422,6 +421,7 @@ w:PicGuard.PicGuard
 w:ProtagonistLabs.FileLabs
 w:PixPin.PixPin
 w:PSTWalker.PSTWalker
+w:Python.Launcher
 w:prefix_dev.pixi
 w:Pix4D.Pix4Dmatic
 w:Pix4D.Pix4Dsurvey
@@ -2311,6 +2311,7 @@ w:MarekJasinski.FreeCommanderXE
 w:ManaManaIoT.DeviceManagementAssistant
 w:MatthiasZronek.BenchMate
 w:maurizuki.O2
+w:mikhalchankasm.OfficeLiveMCP
 w:MarcoGomiero.FeedFlow
 w:mttzzz.PoE2Oracle
 w:MiTeC.InfoBar
@@ -2473,9 +2474,9 @@ w:Modrexio.Modrex
 w:Modrinth.ModrinthApp
 w:McServ.McServ
 w:monkeyWie.Gopeed
+w:Myshic.Savy
 w:MSPaintIDE.MSPaintIDE
 w:MochiBullet.orb
-w:makhlwf.HexPlayer
 w:MapTiler.MapTilerEngine
 w:MailStore.MailStoreClient
 w:MailStore.OutlookAddIn
@@ -3111,6 +3112,7 @@ w:KutaSoftware.InfiniteAlgebra1
 w:KutaSoftware.InfinitePreAlgebra
 w:KutaSoftware.InfiniteGeometry
 w:KutaSoftware.InfiniteCalculus
+w:kjanat.actionlint
 w:karan5028ji.WinOptimizerPro
 w:KoushikNaskar.InteractiveDataEditor
 w:KeeyaiSoft.Flame
@@ -3546,6 +3548,7 @@ w:HishamMedhat.PortPeek
 w:HTTPToolKit.HTTPToolKit
 w:hdosys.herdr_sandbox
 w:hdosys.herdr_win
+w:HyperFetch.HyperFetch
 w:HarshJha.YTuff
 w:Hugin.Hugin
 w:hrzlgnm.mdns_browser
@@ -5276,6 +5279,7 @@ w:tsuchim.PriorityGear
 w:tsuchim.ImeKeysForUS
 w:Tricerat.ScrewDriversClient
 w:TomEhlertSoftware.Snapshot
+w:Trinavo.AllInOneMessengerHub
 w:tomoyukioya.FileHistoryClone
 w:TeamShinkansen.Hakchi2_CE
 w:TreasureData.TDAgent
