@@ -695,6 +695,8 @@ w:ABB.e_Design
 w:ABB.i_busTool
 w:AnalogDevicesInc.IIO_Oscilloscope
 w:Artha.Artha
+w:ais7896_hue.KyteRename
+w:ais7896_hue.KyteShelf
 w:Altova.MobileTogetherDesigner
 w:Altova.MobileTogetherServer
 w:Altova.Authentic.Integration.2026
@@ -903,6 +905,7 @@ w:ArtCraft.GridCraft
 w:ArtCraft.FilmCraft
 w:ArtCraft.CadCraft
 w:ArtCraft.VectorCraft
+w:ArtCraft.DesignCraft
 w:ArtCraft.EffectCraft
 w:ArtCraft.LightCraft
 w:ArnsteinSkara.AppCenter
@@ -1192,6 +1195,7 @@ w:BenQ.InstaShare2
 w:BenQ.InstaShare
 w:BYOND.BYOND
 w:BinanceTech.Binance
+w:BieleckiLtd.PrtScr
 w:BirdBrain.BlueBirdConnector
 w:Bome.SendSX
 w:BicomSystems.Communicator
@@ -2761,6 +2765,7 @@ w:Mozilla.Thunderbird.ESR.lv
 w:Mozilla.Thunderbird.ESR.cak
 w:Mozilla.Thunderbird.ESR.dsb
 w:MicroSIP.MicroSIP
+w:msitarzewski.AgencyAgents
 w:mscststs.LANService
 w:MarkoBL.Rosi
 w:Mimecast.MimecastForOutlook
@@ -3692,6 +3697,7 @@ w:gnome.Dia
 w:gnome.gitg
 w:Google.GoogleWebDesigner
 w:Google.ChromeRemoteDesktopHost
+w:Google.GoogleAppForDesktop
 w:Google.WorkspaceSyncForMicrosoftOutlook
 w:Google.Chrome
 w:Google.PlayGames
@@ -4442,6 +4448,7 @@ w:Cube.CubePlatform
 w:combostrap.doc_exec
 w:ChemAxon.jchemdotnetapi
 w:Castr.Castr
+w:CSitteSoftwaretechnik.Diffoniq
 w:Calibrite.PROFILER
 w:ChristianAviBulan.GlassCannon
 w:cinnyapp.cinny_desktop
@@ -4747,6 +4754,7 @@ w:Lenovo.QuickClean
 w:lippdev.ConsoleMode
 w:LegacyFileConverter.LegacyFileConverter
 w:Love2d.Love2d
+w:LongAT.LongATTest
 w:LamantineSoftware.StickyPassword
 w:lidge_jun.OpenCodex
 w:LoreSoft.MSBuildCommunityTasks
