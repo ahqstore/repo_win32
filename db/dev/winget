@@ -16,7 +16,6 @@ w:RingCentral.RingCentralRooms
 w:RingCentral.RingCentralTeamsDesktopPlugin
 w:RingCentral.RingCentralVDIUniversalPlugin
 w:Racket.Racket
-w:RadialDeck.RadialDeck
 w:ReadAI.ReadAI
 w:rushabhpasad.MDEditor
 w:Renamo.Lite
@@ -74,6 +73,7 @@ w:RawTherapee.RawTherapee
 w:RunTheWall.Constly
 w:Rokkr.Rokkr
 w:Reqable.Reqable
+w:redfireforge.RedfireForge
 w:RemNote.RemNote
 w:RT3M1S.KPOS
 w:riyasy.FlyPhotos
@@ -165,7 +165,6 @@ w:Rakuten.Viber
 w:Rakuten.Kobo
 w:rgdevment.LinkUnbound
 w:rgdevment.Tisty
-w:Ratspeak.Ratspeak
 w:rickbutton.workspacer
 w:Ramplio.CatLight
 w:RedEyeNetworks.FireScudo
@@ -196,9 +195,11 @@ w:pzielinski.pureplayer
 w:pzielinski.puredeck
 w:pzielinski.purerequest
 w:pzielinski.purequery
+w:Parresia.GitSearcher
 w:Parresia.Speedy
 w:PACE.iLokLicenseManager
 w:Psychotoxical.Psysonic
+w:PaRr0tBoY.Trace
 w:PasteBridge.PasteBridge
 w:PowCal.PowCal
 w:patrick_1984.HandyTool
@@ -241,6 +242,7 @@ w:Prey.Prey
 w:PremiumSoft.NavicatOnPremServer
 w:paralellterminal.PATerminal
 w:ProjectTeamForYou.CHATDA
+w:ProjectTeamForYou.OmniDesk
 w:Psi.Psi
 w:Powerformer.OpenDesign
 w:Powerformer.nexu
@@ -676,6 +678,7 @@ w:Aweswomedude1234.SteadyCues
 w:AntonioOrionus.Arroxy
 w:AndreaMarucci.HD2Arsenal
 w:Apryse.XodoPDFReader
+w:Alonera.Aevum
 w:AuthorSoftware.NVMWindows
 w:Azzurro.Azzurro
 w:AirVPN.Eddie
@@ -944,7 +947,6 @@ w:Zheguisoft.zg_ipchat
 w:Zheguisoft.zg_pkg
 w:ZUBOLAND.KUZIRA
 w:ZUBOLAND.HONJIN
-w:ZUBOLAND.UNICREW
 w:zxch3n.PomodoroLogger
 w:ZWSOFT.NetworkLicenseManager
 w:ZWSOFT.ZWCADViewer
@@ -956,7 +958,6 @@ w:Zenarmor.Zenarmor
 w:zafaco.Breitbandmessung
 w:Zen_Team.Zen_Browser
 w:Zidoro.Pomatez
-w:zhitongblog.Ziplark
 w:zerx_lab.FluxDown
 w:ZaferKilic.MDPlus
 w:zeankundev.suside
@@ -1001,6 +1002,7 @@ w:jazzdelightsme.WingetPathUpdater
 w:JPSoft.tcmd
 w:Jitbit.MacroRecorder
 w:jendrikseipp.RedNotebook
+w:junjieqin.PicViewer
 w:JoanCharmant.Kinovea
 w:JORDAHL.JORDAHLEXPERT
 w:JORDAHL.JDSD
@@ -1610,6 +1612,7 @@ w:SoftMaker.FreePDF
 w:SuperSmashing.Blink
 w:Soulseek.SoulseekQt
 w:SaltStack.SaltMinion
+w:Sigil_Ebook.Sigil
 w:Sigil_Ebook.PageEdit
 w:ScopeFun.ScopeFun
 w:SteffenBruentjen.EurKEY
@@ -1698,6 +1701,7 @@ w:SingularLabs.CCEnhancer
 w:SnapNet.SnapNet
 w:Soheilous.GenLauncher
 w:SuperCollider.SuperCollider
+w:SteveWeed79.palctl
 w:Spicebrains.Instant_Eyedropper
 w:sinelaw.fresh_editor
 w:Skvetter.DevPod
@@ -1714,6 +1718,7 @@ w:StirlingTools.StirlingPDF
 w:Sysprogs.SmarTTY
 w:SMART.SMARTEducationSoftware
 w:Sarat.MarkQuill
+w:Stellorbit.ChordLaunchpad
 w:Serraniel.DiscordMediaLoader
 w:StefanoCaronia.qr2l
 w:SomePythonThings.ZipManager
@@ -2186,6 +2191,7 @@ w:FlorianFechner.Cells
 w:FreeFem.FreeFem
 w:flux.flux
 w:FeatherWallet.Feather
+w:Flowersauce.EQAPOProfileManager
 w:Flowersauce.FSClicker
 w:FujifilmBusinessInnovation.DocuWorksViewerLight
 w:flos_freeware.Notepad2
@@ -2340,7 +2346,6 @@ w:MonzerOsman.YallaVideo
 w:MartinBresson.Executor
 w:MichalFoist.mailnino
 w:MichalFoist.ViktorTheCleaner
-w:Mahcks.MirrorSim
 w:MangoDisk.MangoDisk
 w:Morfyuum.AtlayaView
 w:MaxCut.MaxCut
@@ -2473,6 +2478,8 @@ w:Microsoft.DotNet.SDK.Preview
 w:Microsoft.FSLogix
 w:Microsoft.Copilot
 w:Microsoft.ESRPWingetTest
+w:Microsoft.SQLServer.OLEDBDriver.18
+w:Microsoft.SQLServer.OLEDBDriver.19
 w:Miro.Miro
 w:MTrop.DoomTools
 w:MakerBot.MakerBotPrint
@@ -2782,6 +2789,7 @@ w:Mixxx.Mixxx
 w:MilosParipovic.OneCommander
 w:maximmax42.CustomRP
 w:MoonlightGameStreamingProject.Moonlight
+w:Myst1024.BackgroundMute
 w:MYOB.BankLinkBooks
 w:MYOB.AccountRight
 w:Malwarebytes.Privacy
@@ -2805,6 +2813,7 @@ w:MediaHuman.YouTubeToMP3Converter
 w:Modyfi.Modyfi
 w:MetalBear.mirrord
 w:Mostaqem.Mostaqem
+w:MeetingRinger.MeetingRinger
 w:MCHOSE.MCHOSEHUB
 w:MbasonAI.Copilot
 w:Mojang.MinecraftLauncher
@@ -3028,6 +3037,7 @@ w:OpenMedia.4KVideoDownloader
 w:OpenMedia.4KStogram
 w:OpenMedia.4KVideoToMP3
 w:OnionAlien.OnionBoard
+w:Optico.WinMemoryOpt
 w:OpenCoworkAI.OpenCoDesign
 w:o2sh.onefetch
 w:OpenSourcePhysics.Tracker
@@ -3039,6 +3049,7 @@ w:Okta.OktaVerify
 w:Okta.ScaleFT
 w:OpenRocket.OpenRocket
 w:OwenMarshall.PerlPrimer
+w:OpenUTV.OpenUTVDeps
 w:oldj.switchhosts
 w:Kubus.BCFManager.Revit.2026
 w:Kubus.BCFManager.Revit.2023
@@ -3098,6 +3109,7 @@ w:Klocman.BulkCrapUninstaller
 w:KakaoEntertainmentCorp.MelonPlayer
 w:kaanreal.Henkan
 w:KeyMasterPro.KeyMasterPro
+w:Kalmix.Trace
 w:kelibiao.kelibiao
 w:Kom1sh.MediaChef
 w:kawayiYokami.P_ai
@@ -3219,7 +3231,6 @@ w:NI.ni_xnet
 w:NI.ni_packagemanager
 w:NI.ni_systemconfiguration
 w:NovitasWebWorks.NovaTerm
-w:Naruebodee8.VibeKidbrightIDE
 w:Niklas2233.CarBudget
 w:Neokapi.Kapi
 w:Nervosys.Nvtop
@@ -3938,6 +3949,7 @@ w:Vromans.ChordPro
 w:VividDesigns.WifiMouseServer
 w:VB_Audio.Voicemeeter
 w:Vogan.TinyCodes
+w:Vibetuned.Battuta
 w:V2Free.ClashVergeForV2free
 w:var_gg.gitwink
 w:VeeCAD.VeeCAD
@@ -4941,7 +4953,6 @@ w:DanielKreutz.SWXKIAssistent
 w:DigitalDetective.DCode
 w:DoublOneStudios.Glucose
 w:DORON177.BatteryHub
-w:DavidXanatos.TaskExplorer
 w:Dataflare.Dataflare
 w:dokan_dev.Dokany
 w:DanielGehriger.MSI2XML
@@ -5139,7 +5150,6 @@ w:Dynalist.Dynalist
 w:DSwiss.SecureSafe
 w:DSwiss.SecureSafeFiles
 w:Dimohy.SlogsObsidianDrive
-w:DockHub.DockHub
 w:Dedoose.Dedoose
 w:derekwisong.datui
 w:DoltHub.Dolt
@@ -5171,6 +5181,7 @@ w:Dynare.Dynare
 w:dabrain34.GstPipelineStudio
 w:Datahunter.DatahunterTNT
 w:Datahunter.Datahunter
+w:DeepSeek.DeepSeekHarnessDesktop
 w:DolphinComputerAccess.EasyReader
 w:DevToys_app.DevToys
 w:Dockl.Dockl
