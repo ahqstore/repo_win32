@@ -128,6 +128,7 @@ w:Ruben2776.PicView
 w:RemcoStoeten.Skriuw
 w:RemcoStoeten.Dora
 w:regify.regibillDesktop
+w:regify.regipay
 w:regify.regimail
 w:regify.regibox
 w:Routebase.Routebase
@@ -984,6 +985,7 @@ w:Ziad.TCG
 w:ZoiteChat.ZoiteChat
 w:Zultys.ZAC
 w:zhaopengme.gitnote
+w:ZITAN.RELYR
 w:Jitsi.Meet
 w:JRiver.MediaCenter
 w:JagK.ClipboardTransformer
@@ -1056,6 +1058,7 @@ w:Jubler.App
 w:JDE_Projects.SimpleProjectManager
 w:JDE_Projects.SimpleAccountBalancer
 w:JavadMotallebi.NeatDownloadManager
+w:JimmyLv.BibiGPT
 w:JasperKeuper.WixEdit
 w:JurgenRathlev.InnoUnpacker
 w:JannisX11.Blockbench
@@ -1388,6 +1391,7 @@ w:YongcanYang.GameCheatsManager
 w:yukimemi.shun
 w:Yaksharo.AdviseeDocFiller
 w:yang991178.fluent_reader
+w:YushengBeep.ZDiskCleanerPro
 w:yuh_G.RikkaHub
 w:Ytmdesktop.Ytmdesktop
 w:YoYoGames.GameMaker.Studio.2
@@ -1699,6 +1703,7 @@ w:SnipeGroupLimited.Snipe
 w:siper.Youamp
 w:SingularLabs.CCEnhancer
 w:SnapNet.SnapNet
+w:Scand.Outlook4Gmail
 w:Soheilous.GenLauncher
 w:SuperCollider.SuperCollider
 w:SteveWeed79.palctl
@@ -1975,6 +1980,7 @@ w:SecurityRonin.sqlite4n6
 w:SecurityRonin.blazehash
 w:SecurityRonin.disk4n6
 w:SecurityRonin.timeglyph
+w:shinchiro.mpv
 w:SuleymanKara.ShockConvert
 w:Stream_Pi.Server
 w:Stream_Pi.Client
@@ -2043,7 +2049,6 @@ w:Samsung.DeX
 w:Samsung.EasySettingBox
 w:Smogon.PokemonShowdown
 w:Separan.Core
-w:silviuk.Luminark
 w:silviuk.Lunifier
 w:StreamHush.StreamHush
 w:Sandboxie.Classic
@@ -3586,7 +3591,6 @@ w:Hitencent.JisuPDFToWord
 w:Huya.Huya
 w:Hekasoft.Backup_Restore
 w:Hotovo.AiderDesk
-w:HNN.Bisnor
 w:HypixelStudios.Hytale
 w:HideMyShare.HideMyShare
 w:HolyPHP.HolyPHP
@@ -3692,6 +3696,7 @@ w:Gentian28.PgpUtility
 w:gtamas.etcdmanager
 w:garyttierney.me3
 w:Gravitational.TeleportConnect
+w:GrooveLabs.OmniDialer
 w:gohide.gohide
 w:GramEditor.Gram
 w:GoTo.LogMeInClient
@@ -4699,7 +4704,6 @@ w:UprightLabs.ListerConnect
 w:Unigine.HeavenBenchmark
 w:Unigine.SuperpositionBenchmark
 w:Unigine.ValleyBenchmark
-w:UtopianAcademy.Deckboy
 w:Uptodown.UptodownClient
 w:UnionTech.DeepinCloudScanServer
 w:UnionTech.DeepinCloudPrintServer
@@ -4773,6 +4777,7 @@ w:lippdev.ConsoleMode
 w:LegacyFileConverter.LegacyFileConverter
 w:Love2d.Love2d
 w:LongAT.LongATTest
+w:Lanreal.Whisperstream
 w:LamantineSoftware.StickyPassword
 w:lidge_jun.OpenCodex
 w:LoreSoft.MSBuildCommunityTasks
@@ -5196,6 +5201,9 @@ w:Dell.DisplayAndPeripheralManager
 w:DamianH.BrowserWrangler
 w:Douyu.DouyuLive
 w:dividebysandwich.TorrentOxide
+w:dividebysandwich.SparkPlayer
+w:dividebysandwich.rat_commander
+w:dividebysandwich.wordstar_rs
 w:TikzEdt.TikzEdtBeta
 w:TwintailTeam.TTL
 w:TheCodeSaiyan.Loadout
