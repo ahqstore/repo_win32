@@ -632,6 +632,7 @@ w:Admobilize.admprovider
 w:AlexReich.SitePix
 w:AcFun.AcFunVirtualTool
 w:AcFun.ARLiveForAcfunLive
+w:alymurtza.Mascot
 w:AlpaslanBek.Promptline
 w:amys94fr.Snap2Link
 w:ahmedhmam1994.VoxScribe
@@ -1610,6 +1611,7 @@ w:Wasabi.WasabiExplorerForCloudStorage
 w:WinUAE.WinUAE
 w:Wazuh.WazuhAgent
 w:Wagnardsoft.DisplayDriverUninstaller
+w:Wagnardsoft.ISLC
 w:Wacom.WacomTabletDriver
 w:Waytech.CloudDrive2
 w:WrzDJ.WrzDJ_Bridge
@@ -3935,6 +3937,7 @@ w:Glarysoft.GlaryUtilities
 w:Glarysoft.AbsoluteUninstaller
 w:Graphisoft.BIMxDesktopViewer
 w:g0orx.hpsdr_rs
+w:Gologin.Gologin
 w:GnuWin32.Tree
 w:GnuWin32.GetText
 w:Genymobile.Genymotion
@@ -5187,7 +5190,6 @@ w:deskfiler.deskfiler
 w:Debba.Tabularis
 w:DH2iCompany.DxEnterprise
 w:Dremio.ArrowFlightSQLODBCDriver
-w:dixieflatline76.Spice
 w:Databricks.SparkODBCDriver
 w:Discord.Discord
 w:Discord.Discord.Development.arm64
