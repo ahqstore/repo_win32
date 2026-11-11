@@ -132,6 +132,7 @@ w:Robertg761.HADesktopWidget
 w:regify.regibillDesktop
 w:regify.regipay
 w:regify.regimail
+w:regify.regipayDesktop
 w:regify.regibox
 w:Routebase.Routebase
 w:RandyRants.SharpKeys
@@ -202,6 +203,7 @@ w:Parresia.GitSearcher
 w:Parresia.Speedy
 w:PACE.iLokLicenseManager
 w:Psychotoxical.Psysonic
+w:phodal.AutoDevDesktop
 w:PaRr0tBoY.Trace
 w:PasteBridge.PasteBridge
 w:PowCal.PowCal
@@ -421,6 +423,7 @@ w:PROSA.Log4View
 w:PDFsam.PDFsam
 w:PeterPawlowski.foobar2000
 w:plynte_labs.OpenCohost
+w:PragmAI.PragmAI
 w:Proxyman.Proxyman
 w:PersepolisDownloadManager.Persepolis
 w:ProsoftEngineering.DataRescue
@@ -432,6 +435,7 @@ w:Python.Launcher
 w:prefix_dev.pixi
 w:Pix4D.Pix4Dmatic
 w:Pix4D.Pix4Dsurvey
+w:PrismShadow.PenguinHarness
 w:Primecount.Primecount
 w:PhotonicsTUL.PLaSK
 w:PiusPP.Celestial
@@ -545,6 +549,7 @@ w:AntSoftware.AntRenamer
 w:Akiflow.Akiflow
 w:AT&T.GlobalNetworkClient
 w:Altap.Salamander
+w:Argente.PasswordManager
 w:Argente.DuplicateFinder
 w:Argente.SystemRepair
 w:Argente.DriveAnalyzer
@@ -607,8 +612,10 @@ w:amine123max.Monolith
 w:AntiMicro.AntiMicro
 w:AppGenLabs.Remodex
 w:AbdullahZeb.PPMCertificate
+w:Anthropic.ClaudeScience
 w:androidWG.Corkscrew
 w:Allecsc.StremioKai
+w:anglee0323.AntigravityToolsLite
 w:aesgalexis.CodexUsageMeter
 w:AppFlowy.AppFlowy
 w:AnthonyBeaumont.AchievementWatcher
@@ -729,6 +736,7 @@ w:AsafSaar.Dofek
 w:Azeus.Convene
 w:antonreshetov.massCode
 w:Avarwand.ANE
+w:Autodesk.SingleSignOn
 w:Autodesk.AutodeskAccess
 w:Avocode.Avocode
 w:anttiak.LoFeline
@@ -783,6 +791,7 @@ w:AutoIt.AutoIt
 w:AlcyoneSystems.Tester
 w:Aignesberger.DeadLink
 w:Aignesberger.WebSiteWatcherFree
+w:AstraFoundry.Arion
 w:AddLayer.DBine
 w:Airtame.Airtame
 w:Aleqsd.CodexTracker
@@ -833,6 +842,7 @@ w:Apollo.Music
 w:ArkDeploy.DriverHub
 w:AMD.OCAT
 w:AMD.AMDSoftwareCloudEdition
+w:angr.angr_management
 w:AirExplorer.AirExplorer
 w:Andersama.obs_asio
 w:arjun_g.google_meet_desktop
@@ -917,10 +927,16 @@ w:ArtCraft.PdfCraft
 w:ArtCraft.GridCraft
 w:ArtCraft.FilmCraft
 w:ArtCraft.CadCraft
+w:ArtCraft.CraftAnything
 w:ArtCraft.VectorCraft
 w:ArtCraft.DesignCraft
+w:ArtCraft.MaterialCraft
+w:ArtCraft.PhotoCraft
+w:ArtCraft.DeckCraft
 w:ArtCraft.EffectCraft
 w:ArtCraft.LightCraft
+w:ArtCraft.WordCraft
+w:ArtCraft.TextureCraft
 w:ArnsteinSkara.AppCenter
 w:accellence.vimaccEnterprise_2215
 w:accellence.vimaccProfessional
@@ -943,6 +959,7 @@ w:ZauJulio.ZeroWhats
 w:ZSeven_W.OpenPencil
 w:zevnda.SteamGameIdler
 w:ZedIndustries.Zed
+w:ZedIndustries.Delta
 w:Zentraedi.ZSPACE
 w:ZhornSoftware.Stickies
 w:Zwift.Zwift
@@ -1076,6 +1093,7 @@ w:justcoding121.TitaniumInspector
 w:JessieWadman.SecureDelete
 w:JangaFX.GameTextureViewer
 w:JangaFX.EmberGen
+w:JJong177.KeyTree
 w:Jackett.Jackett
 w:Jellyfin.Server
 w:Jellyfin.JellyfinMediaPlayer
@@ -1090,6 +1108,7 @@ w:JNX03.Flowtake
 w:Jianjing.XLJSCI
 w:jimman0I.Prune
 w:Jamailar.WeaveOffice
+w:Jamailar.LeanFPS
 w:Jalyro.Convert
 w:jakedorony.MonitorInputSwitcher
 w:JDEProjects.SimpleFirearmLogbook
@@ -1292,6 +1311,7 @@ w:BinaryFortress.CloudShow
 w:Botkind.AllwaySync
 w:B_trust.BISS
 w:BernatRomagosa.Snap4Arduino
+w:Bristlenose.Bristlenose
 w:Bilibili.Bcut
 w:Bilibili.Bilibili
 w:Bilibili.Livehime
@@ -1330,6 +1350,7 @@ w:BeamUp.BeamNotes
 w:BDvirus.NoteStitch
 w:BartoszCichecki.LenovoLegionToolkit
 w:BrightPilot.BrightPilot
+w:bherbruck.SolidCraft
 w:Basedash.Basedash
 w:bylalo.Switchboard
 w:Bloomberg.BloombergTerminal
@@ -1362,6 +1383,7 @@ w:Babble.babblevoiceDesktop
 w:BoekSolutions.SheetSetEditor
 w:BoekSolutions.LibSync
 w:Blix.BlueMail
+w:BrisklyDev.Brisk
 w:BCM.SecEditCtl
 w:Biscuit.Biscuit
 w:BrunoNova.DrMIPS
@@ -1372,6 +1394,7 @@ w:YouXiao.YXCalendar
 w:YouXiao.YXFile
 w:yetone.NextAITranslator
 w:yetone.Confirmo
+w:yetone.Cumora
 w:yetone.OpenAITranslator
 w:YichengWang.Runner
 w:YY.YY
@@ -1391,6 +1414,7 @@ w:Yubico.Authenticator
 w:Yubico.YubiKeyManagerCLI
 w:YggdrasilNetwork.Yggdrasil
 w:Ylianst.MeshCommander
+w:yinxulai.OSW
 w:Yeastar.Linkus.Desktop.MSI
 w:YunhoCho.OIMG
 w:Yarn.Yarn
@@ -1398,6 +1422,7 @@ w:YutakaSawada.MultiPar
 w:YuniqueUnic.Callai
 w:Yamaha.SteinbergUSBDriver
 w:YARC.YARCLauncher
+w:Yoan98.NCurator
 w:YongcanYang.GameSaveManager
 w:YongcanYang.GameCheatsManager
 w:yukimemi.shun
@@ -1719,6 +1744,7 @@ w:siper.Youamp
 w:SingularLabs.CCEnhancer
 w:SnapNet.SnapNet
 w:Scand.Outlook4Gmail
+w:Scand.WinGPG
 w:Soheilous.GenLauncher
 w:SuperCollider.SuperCollider
 w:SteveWeed79.palctl
@@ -1745,6 +1771,7 @@ w:SomePythonThings.ZipManager
 w:SomePythonThings.ElevenClock
 w:SilverlakeSoftware.Velocity
 w:SerialStudio.SerialStudio
+w:SublimeHQ.SublimeMerge
 w:stratusadv.constellation
 w:skh2945932142.OMPSwitch
 w:ScreamingFrog.SEOSpider
@@ -1973,6 +2000,7 @@ w:SosomLab.NexaMarkdownViewer
 w:skssmd.AIBrowserToolkit
 w:Sangoma.SangomaTeamHub
 w:strimio.strimio
+w:SuperDaniel_cn.BeanDesk
 w:Sinew.Enpass
 w:swim2sun.migu_music_dl
 w:Symless.Synergy
@@ -2110,6 +2138,7 @@ w:Seafuture.NetpasMessage
 w:Seafuture.NetpasEstimatorTramper
 w:Seafuture.NetpasTramperBusiness
 w:SeeBoop.SeeBoop
+w:since2006.ShellRS
 w:Slonopotamus.Stevedore
 w:Stan_Ely.qrdrop_app
 w:Sefinek.GenshinStellaMod
@@ -2166,6 +2195,7 @@ w:SzymonPorwolik.CQOps
 w:StruisICT.InSearch
 w:StruisICT.InLook
 w:StruisICT.ClutterCutter
+w:Stinkshot.Stinkshot
 w:SatSignal.Runtimes
 w:SergeyMoskalev.CarambaSwitcher
 w:soldforaloss.DevHUD
@@ -2200,6 +2230,7 @@ w:FreeMat.FreeMat
 w:from104.QCalc
 w:from104.UNIM
 w:feugy.melodie
+w:Fossorial.Pangolin
 w:Foundry376.Mailspring
 w:FortitudeOmnis.OmnisRouter
 w:FlyByWireSimulations.FlyByWireSimulationsInstaller
@@ -2429,6 +2460,7 @@ w:MAIDEPOT.thread0
 w:Maui.Sherpa
 w:Maximus5.ConEmu
 w:MachFramework.Mach
+w:MacPawWay.ClearVPN
 w:Monghoul.Monghoul
 w:MetaGeek.inSSIDer
 w:mayankgujrathi.vocoflow
@@ -3036,6 +3068,7 @@ w:Orahu01.AeroWidget
 w:OO_Software.BlueCon
 w:OO_Software.DiskRecovery
 w:OpenWhisperSystems.Signal
+w:osoTEC.Protohaund
 w:OpenLPDevelopers.OpenLP
 w:Outcasts.Lorekeel
 w:Outcasts.Fuseforks
@@ -3056,6 +3089,7 @@ w:OliverSchwendener.ueli
 w:OBSProject.obs_amd_encoder
 w:OpenListTeam.OpenListDesktop
 w:OpenShopChannel.Downloader
+w:oldcai.LazyTyper
 w:OpenGOAL.Launcher
 w:OpenTTD.OpenTTD
 w:ogdesign.Eagle
@@ -3104,6 +3138,7 @@ w:OpenRocket.OpenRocket
 w:OwenMarshall.PerlPrimer
 w:OpenUTV.OpenUTVDeps
 w:oldj.switchhosts
+w:OpenChamber.OpenChamber
 w:Kubus.BCFManager.Revit.2026
 w:Kubus.BCFManager.Revit.2023
 w:Kubus.BCFManager.Revit.2022
@@ -3116,6 +3151,7 @@ w:KeeWeb.KeeWeb
 w:Kraken.KrakenDesktop
 w:Keboola.KeboolaCLI
 w:Keboola.KeboolaCLI2
+w:Klakk.Klakk
 w:kandy87.LogLens
 w:KRTirtho.Spotube
 w:Keybase.Keybase
@@ -3129,6 +3165,7 @@ w:Koljam.Solarxy
 w:ksnip.ksnip
 w:Kensington.KensingtonKonnect
 w:kibalab.VRCLI
+w:Kuaishou.KlingAI
 w:KimKnight.RemoteAppTool
 w:KuestenLogik.Bowire
 w:Kongkong.AskLink
@@ -3179,6 +3216,7 @@ w:karakun.OpenWebStart
 w:Kieirra.Murmure
 w:KaringX.ClashMi
 w:KaringX.Karing
+w:KeychainPGP.KeychainPGP
 w:Koyubi.SKK
 w:KorayOrhun.SesliOkuma
 w:Kafan.MiniBrowser
@@ -3234,6 +3272,7 @@ w:Karuzip.Karuzip
 w:Knarrly.ArmadilloTV
 w:Kuddev.Pebrel
 w:KnifeLemon.Filee
+w:kdlbs.KanDev
 w:Newforma.Konekt.Addin.Autodesk
 w:Nabukodonozor.NabuSQL
 w:NAVER.MYBOX
@@ -3294,6 +3333,7 @@ w:Netbird.Netbird
 w:NelsonNumericalSoftware.Nelson
 w:NexDM.NexDM
 w:nvisionative.nvQuickSite
+w:Noderr.Micronode
 w:NymTech.NymVPNClient
 w:Nanamiiiii.afunix_agent
 w:NetaGigSystems.CommandDictateFree
@@ -3443,23 +3483,29 @@ w:NitrokeyGmbH.Nitrokey_App
 w:NitrokeyGmbH.Nitropy
 w:Nemu_x.SlothClash
 w:NZXT.CAM
+w:NorseHorse.RelayPony
+w:NorseHorse.PGPony
+w:NorseHorse.BurnPony
 w:NoMachine.NoMachine
 w:0_don.clippy
 w:0x4D44.mdmdview
 w:990aa.Kivixa
 w:X2go.x2goclient
 w:xmn.BetterTrumpet
+w:xAI.GrokBot
 w:xssnick.TON_Torrent
 w:xioTechnologies.x_IMU3GUI
 w:XplicitTrust.Agent
 w:XnSoft.XnResize
 w:XnSoft.XnConvert
 w:XMediaRecode.XMediaRecode
+w:X_T_E_R.Kiki
 w:XuruDragon.XuruVOIPClient
 w:XenServer.XenTools
 w:XaoSProject.XaoS
 w:xLightsSequencer.xLights
 w:Xiaoe.Xiaoetong
+w:xiazhi88.Desic_Terminal
 w:Xersin.Sumsie
 w:XBMCFoundation.Kodi
 w:Xiaomi.MiMoDesktop
@@ -3495,6 +3541,7 @@ w:xanderfrangos.crushee
 w:xanderfrangos.twinkletray
 w:xCompassionate.PageTurn
 w:xiaoyifang.GoldenDict_ng
+w:XCP_ng.WindowsPvDrivers
 w:XCP_ng.Center
 w:Xcas.Xcas
 w:XMoto.XMoto
@@ -3504,6 +3551,7 @@ w:5E.5EClient
 w:QuintonReeves.RedEclipse
 w:Quorthon13.OLEDSleeper
 w:Qoppa.PDFStudio
+w:Qinjingxue.SunPack
 w:QingJ01.Pebble
 w:QTodoTxt.QTodoTxt
 w:QIAGEN.CLCNetworkLicenseManager
@@ -3529,6 +3577,7 @@ w:QNAP.ExternalRAIDManager
 w:QNapi.QNapi
 w:QymIsTech.QymCAD
 w:QL_Win.QuickLook
+w:qcksys.qlipq
 w:qwerty_fr.qwerty_fr
 w:Quobyte.Client
 w:Quark.QuarkUpdate
@@ -3548,6 +3597,7 @@ w:QmmpDevelopmentTeam.qmmp
 w:Questrade.IQEdge
 w:Qv2ray.Qv2ray
 w:Qt.QtDesigner
+w:Qingjian.Qingjian
 w:Quicken.Quicken
 w:QuadrantMC.Quadrant
 w:QuickzDev.iScribby
@@ -3568,6 +3618,7 @@ w:houmain.GPUpad
 w:Hexler.TouchOSC
 w:Hexler.TouchOSC_Bridge
 w:HyperWorX.DopusWorX
+w:hsingjui.Pilo
 w:HermannSchinagl.LinkShellExtension
 w:Heavrnl.NexusTerminal
 w:Hydraulic.Conveyor
@@ -3597,6 +3648,7 @@ w:Huawei.HuaweiCloudMeeting
 w:HMS.eBuddy
 w:HMS.AnybusDefenderCompactManager
 w:HMS.IxxatCanAnalyser
+w:HKUDS.DeepTutor
 w:HydrusNetwork.HydrusNetwork
 w:HyperspaceDev.HyperspaceDesktop
 w:HalfBaked.HotPotatoes
@@ -3686,6 +3738,9 @@ w:HiroSystems.Chainhook
 w:halloffame12.CTX
 w:heartached.Noctis
 w:Havysoft.InnoExtractor
+w:Havysoft.MassTube
+w:Havysoft.MemEmotics
+w:Havysoft.MemBeatle
 w:HoraceMaxwell.Horosa
 w:Headsetapp.Headset
 w:HopToDesk.HopToDesk
@@ -3694,12 +3749,14 @@ w:HighMotionSoftware.ImWatcher
 w:HighMotionSoftware.ImBatch
 w:HighMotionSoftware.VidBatch
 w:HighMotionSoftware.BonAView
+w:hongfaqiu.StrataManager
 w:Hoornet.Vega
 w:HakanSeven.OpenCADStudio
 w:HybridSolutionsCloud.VaultProspector
 w:HDDGURU.HDDLLFTool
 w:Hanselman.BabySmash
 w:haberwooki.LiveCaptions
+w:hardbeat920.MonoCode
 w:heStudioCommunity.APKSignerGUI
 w:hql287.manta
 w:HalkyLauncher.HalkyLauncher
@@ -3877,6 +3934,7 @@ w:GuinpinSoft.MakeMKV
 w:Glarysoft.GlaryUtilities
 w:Glarysoft.AbsoluteUninstaller
 w:Graphisoft.BIMxDesktopViewer
+w:g0orx.hpsdr_rs
 w:GnuWin32.Tree
 w:GnuWin32.GetText
 w:Genymobile.Genymotion
@@ -3926,6 +3984,7 @@ w:VirtualDesktop.Streamer
 w:VisualParadigm.VisualParadigm
 w:VisualParadigm.VisualParadigmViewer
 w:VisualParadigm.Community
+w:Vicinae.Vicinae
 w:VeyonSolutions.Veyon
 w:v1k70rk4.HASSAgentNET10
 w:Vitzo.ClipClip
@@ -3996,11 +4055,14 @@ w:vivo.OfficeKit
 w:venipa.ytmdesktop
 w:Vyomi.Vyomi
 w:VRCX.VRCX
+w:Voltura.Air
 w:Vial.Vial
 w:Vup.Vup
 w:votinvv.JustQuery
 w:Veloren.Airshipper
+w:vooccc.Liuruyan
 w:Velocidex.Velociraptor
+w:Ven4ru.Ven4Tools
 w:ViGEm.ViGEmBus
 w:violet2code.MagnifySnap
 w:Vivi.Vivi
@@ -4020,6 +4082,7 @@ w:ViewSonic.AirSyncSender
 w:VivekCShah.DevBar
 w:1IC.BPMN_RPAStudio
 w:123.123pan
+w:1lck.Viff
 w:1lck.Lithe
 w:EvilHumphrey.LegendCTL
 w:ESBConsultancy.ESBDateCalc.Pro.Trial
@@ -4186,7 +4249,6 @@ w:EliasFotinis.DeskPins
 w:EcoPaste.EcoPaste
 w:EDPB.WebsiteAuditTool
 w:Elitech.ElitechLogWin
-w:eMClient.eMClient
 w:EryouHao.Gridea
 w:EuropeanCommission.EUROMOD
 w:e2eSoft.iVCam
@@ -4317,6 +4379,7 @@ w:Celerp.Celerp
 w:Commitlint.Commitlint
 w:Chadsoft.CTools
 w:CloudyWing.AiAccountManager
+w:ClickToReel.ClickToReel
 w:ChrisRizzitello.BlackChocobo
 w:Clockify.Clockify
 w:Clementine.Clementine
@@ -4339,6 +4402,7 @@ w:CareScribe.CaptionEd
 w:CareScribe.TalkType
 w:Cairo.Cairo
 w:CoolDesk.CoolDesk
+w:chen_yu_hao.AcaNomo
 w:coti.mcxstudio
 w:Cocos.CocosDashboard
 w:choioki.ClarityDeck
@@ -4346,6 +4410,7 @@ w:ChiaNetwork.GUIforChiaBlockchain
 w:CREALOGIX.PayEye
 w:ClarivateAnalytics.EndNote
 w:californiaAlmonds.Auricle
+w:CaptainVII.Corral
 w:Cal.Cal
 w:ClockAssist.ClockAssist
 w:CollapseLauncher.Collapse
@@ -4355,6 +4420,7 @@ w:Cjwdev.ProcessPrompt
 w:Cjwdev.ADAccountResetTool
 w:Cjwdev.GetLocalAdminsGUI
 w:Cjwdev.ManagedServiceAccountsGUI
+w:ccch1mneyyy.dsh_TUI
 w:Caphyon.Hover
 w:Caphyon.AdvancedInstaller
 w:cLLeB.Gear
@@ -4553,6 +4619,7 @@ w:IZArc.IZArc
 w:IZArc.IZArcCommandLineAddon
 w:Innovaphone.myApps
 w:IvyScience.ivySCI
+w:Iterate.CyberduckCLI
 w:Iterate.Cyberduck
 w:Ironben.5ire
 w:IcecreamApps.PDFCandy
@@ -4834,6 +4901,8 @@ w:Lenovo.ThinInstaller
 w:Lenovo.UpdateRetriever
 w:Lenovo.QuickClean
 w:lippdev.ConsoleMode
+w:LAIJiangFeng.DustDesk
+w:LAIJiangFeng.Fynvra
 w:LegacyFileConverter.LegacyFileConverter
 w:Love2d.Love2d
 w:LongAT.LongATTest
@@ -4841,6 +4910,7 @@ w:Lanreal.Whisperstream
 w:LamantineSoftware.StickyPassword
 w:lidge_jun.OpenCodex
 w:LoreSoft.MSBuildCommunityTasks
+w:LBEILC.Multiplane
 w:LuyuHuang.DWords2
 w:leonsnajdr.sast
 w:lukewire129.TokenDock
@@ -4849,6 +4919,7 @@ w:lstratman.easyconnect
 w:LukaszSwiszcz.Winpinator
 w:LibgenApps.LibgenDesktop
 w:LAVANJV.vecdigilib
+w:llxisdsh.ConstAPI
 w:LiTang.QianJi
 w:Lucanet.LucanetSoftwareManager
 w:lin_ycv.EverythingPowerToys
@@ -4895,6 +4966,7 @@ w:LoreoInc.Loreo
 w:lauthieb.code_notes
 w:Lexora.LexoraBuddy
 w:LashaKandelaki.Manoni
+w:Langdock.Langdock
 w:LoxSmoke.OpenLogiNet
 w:lexandro.mdedit
 w:LinkaiQi.NitTray
@@ -4912,6 +4984,7 @@ w:Logtalk.Logtalk
 w:LIGHTNINGUK.ImgBurn
 w:LinkopingUniversity.Hopsan
 w:LuigiElleBalotta.AIUsageNET
+w:laike9m.TheySay
 w:LedgerHQ.LedgerLive
 w:Langflow.Langflow
 w:LightZoneProject.LightZone
@@ -5135,10 +5208,14 @@ w:Druva.inSync
 w:DiodeEditor.Diode
 w:Drovio.Drovio
 w:DFetch_org.DFetch
+w:DataElement.DSHDesktop
 w:DG0JBJ.HDSDR
 w:DaimlerTruck.FleetboardCockpit
 w:DDEVFoundation.DDEV
 w:damt.Eqho
+w:Digiarty.WinXDVDRipperPlatinum
+w:Digiarty.WinXDVDAuthor
+w:Digiarty.WinXDVDCopyPro
 w:Datto.Workplace
 w:DigitalExtremes.Warframe
 w:DigitalExtremes.Soulframe
@@ -5189,6 +5266,7 @@ w:Dimmy.Dimmy
 w:Doist.Todoist
 w:DisruptiveInnovations.BlueGriffon
 w:DavidEngelhart.Termpolis
+w:dl1bz.deskHPSDR
 w:dillonkearns.mobster
 w:docmirror.dev_sidecar
 w:deviceTRUST.deviceTRUSTClientExtension
@@ -5222,6 +5300,7 @@ w:Dedoose.Dedoose
 w:derekwisong.datui
 w:DoltHub.Dolt
 w:Dubsky.Aiko
+w:darrenprx.lolPing
 w:Dmitry_Farafonov.MicSwitch
 w:DBMobile.Resonance
 w:DiegoFagundez.Portify
@@ -5265,9 +5344,11 @@ w:Dell.CommandUpdate
 w:Dell.DisplayAndPeripheralManager
 w:DamianH.BrowserWrangler
 w:Douyu.DouyuLive
+w:dividebysandwich.SDROxide
 w:dividebysandwich.TorrentOxide
 w:dividebysandwich.SparkPlayer
 w:dividebysandwich.rat_commander
+w:dividebysandwich.BirdNET_RS
 w:dividebysandwich.wordstar_rs
 w:TikzEdt.TikzEdtBeta
 w:TwintailTeam.TTL
@@ -5326,6 +5407,7 @@ w:Thorlabs.MC2000B
 w:Thorlabs.ChrolisDeviceDriver
 w:Thorlabs.S7FC
 w:Thorlabs.LCC25
+w:Tomotsugu_dev.Hindsight
 w:Taiko2k.TauonMusicBox
 w:Tamron.LensUtility
 w:tazayan.ProcessCap
@@ -5427,6 +5509,7 @@ w:TopazLabs.TopazPhotoAI
 w:TaiStudio.Sofia
 w:TritiumLegal.Tritium
 w:TransitAISoftware.Transit
+w:TashfeenAhmed.FreeLLMAPI
 w:TortoiseHg.TortoiseHg
 w:tonhowtf.OmniGet
 w:TheQtCompanyLtd.QtCreator
@@ -5448,9 +5531,11 @@ w:TRUSTSING.iDefender
 w:Texthelp.Equatio
 w:Texthelp.AutoCorrect
 w:therealpaulgg.ssh_sync
+w:TryHardStudios.Solo
 w:Terrastruct.D2
 w:Takeshi.Sumifold
 w:Tropibyte.cshw
+w:TodayAI.Today
 w:T3Tools.T3Code
 w:Talyh.The
 w:TheOSCARTeam.OSCAR
@@ -5499,6 +5584,7 @@ w:Tencent.QQBrowser
 w:Tencent.CodeBuddy
 w:Tencent.QQDevTools
 w:Tencent.WeSingLiveAssistant
+w:Tencent.Octop
 w:Tencent.QQWubi
 w:Tencent.TencentMeeting
 w:Tencent.WeMeetOutlookPlugin
@@ -5567,6 +5653,7 @@ w:TexasInstruments.FusionDigitalPowerDesigner
 w:TexasInstruments.TI_Admin
 w:toyobayashi.mishiro
 w:ThomsonReuters.E_TranscriptBundleViewer
+w:theswarmlord36.VNC4FREE
 w:TransformerLab.TransformerLab
 w:Trigone.SystemMonitor
 w:TerminalWorks.TSPrintServer
