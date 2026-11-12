@@ -1539,6 +1539,7 @@ w:Webstudio.Webstudio
 w:WebalexEU.WinBGP
 w:Wildfoundry.DataplicityCLI
 w:willibrandon.pgtail
+w:willibrandon.postern
 w:willibrandon.scout
 w:willibrandon.dotsider
 w:willibrandon.dotsider_mcp
@@ -1783,6 +1784,7 @@ w:SimonG4ELI.WorldMap
 w:Squirrels.AirParrot3
 w:Shure.ShurePlusMOTIV
 w:Sohu.SHPlayer
+w:sumitdas76.Talkative
 w:surajrathod.eagluet
 w:Synthesia.Synthesia
 w:Servo.Servo
@@ -3260,6 +3262,7 @@ w:kristofferR.Chatpane
 w:KristianKiel.BILLEVO
 w:kimhwan.ScreenRecorder
 w:Kingdee.CloudHub
+w:klados.Klados
 w:Kaedei.Dandanplay
 w:KLayout.KLayout
 w:KakaoEnterprise.KakaoWork
@@ -3366,6 +3369,8 @@ w:Nvidia.GeForceNow
 w:Nvidia.RTXVoice
 w:Nvidia.PhysXLegacy
 w:Nvidia.ICAT
+w:Nvidia.PersonalAIRouter
+w:Nvidia.PAIR
 w:Nvidia.CUDA
 w:Nvidia.PhysX
 w:nPerf.nPerf
@@ -3619,6 +3624,7 @@ w:houmain.keymapper
 w:houmain.GPUpad
 w:Hexler.TouchOSC
 w:Hexler.TouchOSC_Bridge
+w:HaloAILabs.HaloVoice
 w:HyperWorX.DopusWorX
 w:hsingjui.Pilo
 w:HermannSchinagl.LinkShellExtension
@@ -5116,7 +5122,6 @@ w:DennieZorg.SteamDockExtension
 w:Dixa.Dixa
 w:dotNetInstaller.dotNetInstaller
 w:DBAdminX.Diff
-w:Devlikebear.Linetta
 w:DiskInternals.NTFSRecovery
 w:DiskInternals.LinuxRecovery
 w:DiskInternals.VideoRecovery
@@ -5260,6 +5265,7 @@ w:DMT.MyoPULSE
 w:DMT.DMT840MDControllerSoftware
 w:DMT.MyoNORM
 w:DMT.MyoVIEW
+w:ds3owl.IsleBar
 w:DISTRHO.Cardinal
 w:DifferentAI.OpenWork
 w:DrewNaylor.UXL_Launcher
@@ -5473,6 +5479,7 @@ w:TeamShinkansen.Hakchi2_CE
 w:TreasureData.TDAgent
 w:TAPATCH.Autrix
 w:TAPATCH.TAHub
+w:TAPATCH.ClickMeter
 w:Telerik.FiddlerPDFView
 w:Tinn_R.Tinn_R
 w:Tableau.Desktop
