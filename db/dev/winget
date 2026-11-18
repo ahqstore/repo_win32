@@ -2026,6 +2026,7 @@ w:SoftwareCompanions.ViewCompanionStandard
 w:SoftwareCompanions.GerbView
 w:SosomLab.NexaDir
 w:SosomLab.NexaSQL
+w:SosomLab.NexaCoffee
 w:SosomLab.NexaMemKeeper
 w:SosomLab.NexaMarkdownViewer
 w:skssmd.AIBrowserToolkit
@@ -3082,6 +3083,7 @@ w:OndrejSalplachta.AdvancedLogViewer
 w:Overcaption.Overcaption
 w:OpenCascade.CADAssistant
 w:OnjLouis.SensorReadout
+w:OpenSCAD.OpenSCAD
 w:OpenAudible.OpenAudible
 w:opentrack.opentrack
 w:OxfordUniversityPressELT.OxfordLearnersBookshelf
