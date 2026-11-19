@@ -2218,6 +2218,7 @@ w:Slohmaier.StarTooth
 w:SmartHoldemDAPPs.heads_tails
 w:splode.pomotroid
 w:SatDump.SatDump
+w:SmartDraw.SmartDraw
 w:Shooter.SPlayer
 w:Starpine.Screenbox
 w:shloop.gbscraper
@@ -2551,7 +2552,6 @@ w:Microsoft.DependencyAgent
 w:Microsoft.WindowsADK
 w:Microsoft.WindowsPCHealthCheck
 w:Microsoft.MouseWithoutBorders
-w:Microsoft.PurviewInformationProtection
 w:Microsoft.VFSforGit
 w:Microsoft.RemoteDesktopMMRService
 w:Microsoft.VSTOR
@@ -3746,7 +3746,6 @@ w:Hitencent.JisuTodo
 w:Hitencent.JisuPDFToWord
 w:Huya.Huya
 w:Hekasoft.Backup_Restore
-w:Hotovo.AiderDesk
 w:HypixelStudios.Hytale
 w:HideMyShare.HideMyShare
 w:HolyPHP.HolyPHP
