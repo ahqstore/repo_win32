@@ -641,6 +641,7 @@ w:SatSignal.Runtimes
 w:8x8.QualityManagement
 w:adkurz.btText
 w:AsaphaHalifa.AudioRelay
+w:arnab825.MissionControl
 w:artem4150.VeilBox
 w:AiRost.RemoteDeck
 w:AcclaimSoftware.Fast_Backup
@@ -1798,7 +1799,6 @@ w:BitcoinCoreProject.BitcoinCore
 w:Browzwear.VStitcher
 w:Bedrock_OSS.regolith
 w:BrunnerBI.MeasureKiller
-w:Bambulab.Bambustudio
 w:BinaryMark.BatchFileReplace
 w:BinaryMark.BatchImageConverter
 w:BinaryMark.RandomNumberGenerator
@@ -2107,6 +2107,7 @@ w:erez_c137.NetSpeedTray
 w:Enreach.Contact
 w:Ethereum.grid
 w:Ethereum.geth
+w:echoHello.Pidex
 w:EclipseFoundation.Mosquitto
 w:EclipseFoundation.SUMO
 w:esignatur.esignaturPrint
@@ -2218,6 +2219,7 @@ w:kristofferR.IPTVChecker
 w:Kindel.mcec
 w:Kindel.WinPrint
 w:KlowdfurrRad.TrayAuth
+w:KalkmanCode.Beamer
 w:kSoft.Graphmatica
 w:karakun.OpenWebStart
 w:Kuaishou.KlingAI
@@ -2917,6 +2919,7 @@ w:HulubuluSoftware.AdvancedRenamer
 w:Hirschmann.NotebookFanControl
 w:HeartbeatChat.Heartbeat
 w:HMSoft.HMNISEdit
+w:HollerBell.HollerBell
 w:Haivision.libsrt
 w:hrzlgnm.mdns_browser
 w:Henry++.simplewall
@@ -3284,6 +3287,7 @@ w:LEGO.MindstormsEduNXT
 w:LEGO.WeDo
 w:luckjiawei.frp_desktop
 w:luapp.ToDo
+w:Liasoft.covdbg
 w:LuyuHuang.DWords2
 w:LizardSystems.LanSend
 w:LizardSystems.TerminalServicesManager
@@ -3486,6 +3490,7 @@ w:FalconNL93.WSLToolbox
 w:felixgborrego.simple_docker_ui
 w:Fileman.HisuiPDF
 w:Free_Astro.Siril
+w:FaizanAshiq.Tinysnap
 w:Framer.Framer
 w:ForceBindIP.ForceBindIP
 w:FAI_Solutions.move_window_between_desktops
@@ -3986,6 +3991,7 @@ w:TheSaltyKorean.MarkdownStudio
 w:Twinkstar.TwinkstarBrowser
 w:TeamLidarr.Lidarr
 w:TUG.TeXworks
+w:tstone_1.tpdf
 w:TaskSlinger.TaskSlinger
 w:TrueHumanDesign.FileLister
 w:TrueHumanDesign.NFOPad
@@ -4100,6 +4106,7 @@ w:thomasnordquist.MQTT_Explorer
 w:TigerCompany.TigrisMessenger
 w:TheLoop705.NovaIPTV
 w:Tailscale.Tailscale
+w:TipTeknologiiPraksisAS.TapMap
 w:TRUSTSING.iDefender
 w:TRUSTSING.iMonitor
 w:therealpaulgg.ssh_sync
@@ -4246,6 +4253,7 @@ w:terrymacdonald.DisplayMagician
 w:TCDev.MicaPDF
 w:tisun2.OofManager
 w:TSDuck.TSDuck
+w:ThinkWatchProject.ThinkWatchLite
 w:Thegrideon.AccessForensics
 w:tsouth89.Ceiling
 w:tsouth89.CubbyClipboard
