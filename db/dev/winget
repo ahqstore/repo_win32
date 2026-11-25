@@ -628,6 +628,7 @@ w:Servo.Servo
 w:SplitmediaLabs.XSplitBroadcaster
 w:SplitmediaLabs.VCam
 w:syndicode.iNFekt
+w:SafeDep.pmg
 w:SleuthKit.Autopsy
 w:sidneys.pb_for_desktop
 w:sc0ty.SubSync
@@ -890,6 +891,7 @@ w:AtomicJar.Testcontainers
 w:AlexanderKojevnikov.Spek
 w:agentty.agentty
 w:awehook.BlinkMind
+w:Aqua.Sharply
 w:Ahsuu27488.Taskvane
 w:andrewbrey.flot
 w:AcroSoftware.CutePDFWriter
@@ -1012,6 +1014,7 @@ w:Ascensio.AVSImageConverter
 w:AndreaMarucci.HD2Arsenal
 w:aHash97.Orbit
 w:ArkDeploy.DriverHub
+w:Axialis.IconVectors
 w:Atlassian.Rovo
 w:AdiDusi.MediaMango
 w:aislx.FlameLauncher
@@ -1289,6 +1292,7 @@ w:WALTRONE.MouseKeeper
 w:writingdeveloper.Notro
 w:Wind.WindFinancialTerminal
 w:WyreStorm.ManagementSuite
+w:WorkdayInc.PlanningforExcel
 w:WinDirStat.WinDirStat
 w:wwb.BingWallpaper
 w:WitteSoftware.ModbusSlave
@@ -2169,6 +2173,7 @@ w:Elwina.Capto
 w:Evolus.Pencil
 w:EVEIPH.EVEIPH
 w:2BrightSparks.UndeleteOnClick
+w:2BrightSparks.SyncBackFree
 w:2218164692.FridaGUIHelper
 w:Kitware.Slicer
 w:Koyubi.SKK
@@ -2595,6 +2600,7 @@ w:Code_iX.QConvert
 w:Code_iX.QNetwork
 w:Code_iX.QTop
 w:Cloudflare.Warp
+w:Cyberneura.Astragal
 w:CrowdSecurity.CrowdSec
 w:commercialhaskell.stack
 w:Cozmix.AlignMix
@@ -2739,6 +2745,7 @@ w:Catenary.Catenary
 w:Cockatrice.Cockatrice
 w:CometNetwork.BitComet
 w:CollapseLauncher.Collapse
+w:chrisdfennell.Pickets
 w:Cencit.BAS21
 w:CakeWallet.CakeWallet
 w:Ciphra.Ciphra
@@ -3508,6 +3515,7 @@ w:Fing.Fing
 w:FlowyAI.Flowy
 w:FrostWire.FrostWire
 w:FreedomofthePressFoundation.Dangerzone
+w:FrancescoBianco.PragmaChess
 w:Fei2411.DS_Bot
 w:Formagrid.Airtable
 w:FSC_SOFT.VoiceMacro
@@ -3581,6 +3589,7 @@ w:FineprintSoftware.FinePrint
 w:Faithlife.Logos
 w:FreedomTerminal.Koegaki
 w:Figma.FigmaAgent
+w:FernandoErazo.TrafficBar
 w:FlowDevs.PrimeDictate
 w:Fossorial.Pangolin
 w:Fluxer.Fluxer
@@ -4423,6 +4432,7 @@ w:RossCarlson.VATSpy
 w:redfireforge.RedfireForge
 w:RagnarSir.RagSnip
 w:r2cuerdame.WSLPad
+w:RescueTime.DesktopApp
 w:RoonLabs.RoonBridge
 w:regify.regipay
 w:regify.regibillDesktop
@@ -5047,6 +5057,7 @@ w:Mozilla.Firefox.ESR.ko
 w:Mozilla.Firefox.ESR.sr
 w:Mozilla.SeaMonkey
 w:Mozilla.VPN
+w:Mozilla.mozregression
 w:Metanorma.Metanorma
 w:Medoo.ThemeSwitcher
 w:MeduzaVPN.MeduzaVPN
@@ -5565,6 +5576,7 @@ w:jousse.pomodorolm
 w:jasongin.nvs
 w:JRiver.MediaCenter
 w:JessieWadman.SecureDelete
+w:JiaPeng.LanTransfer
 w:jhen0409.ReactNativeDebugger
 w:JYH1878.KimiCodeBar
 w:JumpingBytes.ClipboardMaster
