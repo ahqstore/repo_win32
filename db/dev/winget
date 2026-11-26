@@ -2348,6 +2348,7 @@ w:PragmAI.PragmAI
 w:PioneerDevelopers.Pioneer
 w:ProjectLibre.ProjectLibre
 w:Privoxy.Privoxy
+w:PayMaster.InputFixer
 w:Perplexity.Comet
 w:presono.presono
 w:ProjectVid.VidDl
@@ -3228,7 +3229,6 @@ w:IdeaMK.PCXViewer
 w:IdeaMK.AIViewer
 w:i2p.I2PEasyInstallBundle
 w:industrial_dave.PCAP_Sentry
-w:IENT.YUView
 w:iTop.iTopVPN
 w:iTop.IOTransfer
 w:ISpotify.ISpotify
@@ -4094,6 +4094,7 @@ w:TAPATCH.Autrix
 w:TAPATCH.TAHub
 w:TAPATCH.ClickMeter
 w:TAPATCH.WaveCheck
+w:TAPATCH.LinkMass
 w:TeamSonarr.Sonarr
 w:Termius.Termius
 w:Trimble.TrimbleConnect
