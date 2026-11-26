@@ -962,7 +962,6 @@ w:AlexanderGorishnyak.APKEditorStudio
 w:AdamKessel.GEDCOMNavigator
 w:Algento.Botim
 w:Azul.IcedTea_Web
-w:angryziber.AngryIPScanner
 w:AdGuard.AdGuardVPN
 w:AdGuard.AdGuard
 w:AbrarZShahriar.OmaWrite
@@ -1931,6 +1930,7 @@ w:Vyomi.Vyomi
 w:vatis_project.vAtis
 w:VariCAD.VariCADViewer
 w:VariCAD.VariCAD
+w:vzhd1701.GridPlayer
 w:VisualParadigm.VisualParadigmViewer
 w:VisualParadigm.Community
 w:VisualParadigm.VisualParadigm
@@ -3863,6 +3863,7 @@ w:DSwiss.SecureSafeFiles
 w:DSwiss.SecureSafe
 w:DBBrowserForSQLite.DBBrowserForSQLite
 w:DrewNaylor.UXL_Launcher
+w:devnull03.qrate
 w:Dedoose.Dedoose
 w:DavidEngelhart.Termpolis
 w:DygmaLabs.Bazecor
@@ -3922,6 +3923,7 @@ w:DaivenReyes.LocalDock
 w:Dman95.SASM
 w:dsheiko.puppetry
 w:Daum.PotPlayer
+w:DiskMend.DiskMend
 w:DefGuard.Defguard
 w:DiegoFagundez.Portify
 w:DreamSourceLab.DSView
@@ -4089,10 +4091,15 @@ w:Talyh.The
 w:testmace.testmace
 w:Tomotsugu_dev.Hindsight
 w:TAPATCH.Autrix
+w:TAPATCH.OpTask
 w:TAPATCH.TAHub
+w:TAPATCH.NetPulse
 w:TAPATCH.ClickMeter
+w:TAPATCH.FlowDesk
 w:TAPATCH.WaveCheck
 w:TAPATCH.LinkMass
+w:TAPATCH.ForeverCrypt
+w:TAPATCH.DownSample
 w:TeamSonarr.Sonarr
 w:Termius.Termius
 w:Trimble.TrimbleConnect
@@ -4320,7 +4327,6 @@ w:RemcoStoeten.Skriuw
 w:RemcoStoeten.Dora
 w:riyasy.FlyPhotos
 w:Redis.Redis
-w:rhashsum.RustHashSum
 w:RealNetworks.RealPlayer
 w:Resplendence.WhoCrashed
 w:Resplendence.RegistrarRegistryManager
@@ -4396,6 +4402,7 @@ w:rus.zip
 w:RabidViperProductions.AssaultCube
 w:Robertg761.HADesktopWidget
 w:RenewedVision.ProPresenter
+w:Ronnybest.SonarHotkeys
 w:RKibria.frhed
 w:RedHat.VirtIO
 w:RedHat.Podman
@@ -5461,6 +5468,7 @@ w:YY.YY
 w:Yaps.Yaps
 w:yeroo.agwinterm
 w:yeroo.agliteterm
+w:YenebebSchwarze.YARC
 w:YelovSK.Dameview
 w:YoYoGames.GameMaker.Studio.2
 w:YARC.YARCLauncher
