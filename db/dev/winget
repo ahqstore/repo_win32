@@ -1441,7 +1441,6 @@ w:Gadwin.DiagramStudio
 w:gPodder.gPodder
 w:GilmarQuinelato.i18nManager
 w:goatcorp.XIVLauncher
-w:GitStudioHQ.GitStudio
 w:GavinGe021.hasher
 w:GramEditor.Gram
 w:GlassWire.GlassWire
@@ -4102,6 +4101,7 @@ w:TAPATCH.WaveCheck
 w:TAPATCH.LinkMass
 w:TAPATCH.ForeverCrypt
 w:TAPATCH.DownSample
+w:TAPATCH.Callback
 w:TeamSonarr.Sonarr
 w:Termius.Termius
 w:Trimble.TrimbleConnect
